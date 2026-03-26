@@ -43,5 +43,10 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "what-is-righteousness-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "who-was-mary-magdalene": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "who-was-king-david": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
-  "what-is-the-sermon-on-the-mount": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" }
+  "what-is-the-sermon-on-the-mount": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "psalm-91-1-2-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "isaiah-40-31-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-peace": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-guidance": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "what-is-justification-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" }
 };

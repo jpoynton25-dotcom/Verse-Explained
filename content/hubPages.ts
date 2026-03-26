@@ -56,7 +56,7 @@ export const hubPageData: Record<string, HubPageData> = {
     summary:
       "If you are searching for a specific verse meaning, start with the foundational passages below. Then use the related links on each page to keep building context.",
     sectionHeadings: ["Start here", "Popular verse meaning pages", "More verse meanings", "Frequently asked questions"],
-    startHereSlugs: ["john-3-16-meaning", "isaiah-41-10-meaning", "psalm-46-1-meaning", "psalm-23-meaning"],
+    startHereSlugs: ["john-3-16-meaning", "isaiah-41-10-meaning", "psalm-46-1-meaning", "psalm-23-meaning", "psalm-91-1-2-meaning"],
     childGroups: [
       {
         heading: "Most searched verse meanings",
@@ -71,7 +71,9 @@ export const hubPageData: Record<string, HubPageData> = {
           "romans-8-28-meaning",
           "matthew-11-28-meaning",
           "philippians-4-6-7-meaning",
+          "isaiah-40-31-meaning",
           "psalm-46-1-meaning",
+          "psalm-91-1-2-meaning",
           "psalm-23-meaning",
           "the-lord-is-my-shepherd-meaning"
         ]
@@ -139,7 +141,7 @@ export const hubPageData: Record<string, HubPageData> = {
     summary:
       "Choose the need that matches your current season, then follow internal links to verse meaning pages for deeper context and interpretation.",
     sectionHeadings: ["Start here", "Emotional support", "Strength and encouragement", "Healing and recovery", "Frequently asked questions"],
-    startHereSlugs: ["bible-verses-for-anxiety", "bible-verses-for-strength", "bible-verses-for-depression", "encouraging-bible-verses"],
+    startHereSlugs: ["bible-verses-for-anxiety", "bible-verses-for-strength", "bible-verses-for-depression", "encouraging-bible-verses", "bible-verses-for-peace"],
     childGroups: [
       {
         heading: "Emotional support",
@@ -147,6 +149,7 @@ export const hubPageData: Record<string, HubPageData> = {
         slugs: [
           "bible-verses-for-fear",
           "bible-verses-for-anxiety",
+          "bible-verses-for-peace",
           "bible-verses-for-grief",
           "bible-verses-for-depression",
           "bible-verses-for-loneliness"
@@ -155,7 +158,7 @@ export const hubPageData: Record<string, HubPageData> = {
       {
         heading: "Strength and encouragement",
         description: "Verses for resilience, courage, and daily encouragement.",
-        slugs: ["bible-verses-for-strength", "encouraging-bible-verses", "bible-verses-for-hope"]
+        slugs: ["bible-verses-for-strength", "encouraging-bible-verses", "bible-verses-for-hope", "bible-verses-for-guidance"]
       },
       {
         heading: "Healing and restoration",
@@ -312,6 +315,7 @@ export const hubPageData: Record<string, HubPageData> = {
           "what-is-salvation-in-the-bible",
           "what-is-repentance-in-the-bible",
           "what-is-righteousness-in-the-bible",
+          "what-is-justification-in-the-bible",
           "what-is-the-sermon-on-the-mount"
         ]
       }

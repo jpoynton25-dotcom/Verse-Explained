@@ -488,6 +488,36 @@ export const pageDataBySlug: Record<string, PageData> = {
       keywords: ["psalm 46:1 meaning", "refuge and strength", "help in trouble verse"]
     }
   },
+  "psalm-91-1-2-meaning": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "psalm 91:1-2 meaning",
+    secondaryKeywords: ["psalm 91 explained", "shelter of the most high meaning", "psalm 91 refuge", "psalm 91 trust in god"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Psalm 91:1-2 Meaning", href: "/psalm-91-1-2-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["psalm 91:1-2 meaning", "god as refuge", "shelter of the most high"]
+    }
+  },
+  "isaiah-40-31-meaning": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "isaiah 40:31 meaning",
+    secondaryKeywords: ["those who hope in the lord meaning", "renew their strength verse", "isaiah 40 explained", "wings like eagles meaning"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Isaiah 40:31 Meaning", href: "/isaiah-40-31-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["isaiah 40:31 meaning", "renewed strength", "hope in the lord"]
+    }
+  },
   "bible-verses-for-depression": {
     primaryIntent: "problem-solving",
     mainKeyword: "bible verses for depression",
@@ -516,6 +546,36 @@ export const pageDataBySlug: Record<string, PageData> = {
     article: {
       section: "Verses by Need",
       keywords: ["bible verses for loneliness", "not alone scripture", "god with you"]
+    }
+  },
+  "bible-verses-for-peace": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for peace",
+    secondaryKeywords: ["peace scriptures", "verses about peace", "anxiety and peace bible verses", "god's peace verse"],
+    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Peace", href: "/bible-verses-for-peace" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for peace", "peace in christ", "calm anxious mind scripture"]
+    }
+  },
+  "bible-verses-for-guidance": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for guidance",
+    secondaryKeywords: ["scripture for guidance", "verses for decision making", "god guide me verse", "bible direction verses"],
+    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Guidance", href: "/bible-verses-for-guidance" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for guidance", "decision making scripture", "god's direction"]
     }
   },
   "morning-prayer-scripture": {
@@ -621,6 +681,21 @@ export const pageDataBySlug: Record<string, PageData> = {
     article: {
       section: "Bible Terms",
       keywords: ["what is the sermon on the mount", "sermon on the mount", "matthew 5 7"]
+    }
+  },
+  "what-is-justification-in-the-bible": {
+    primaryIntent: "informational",
+    mainKeyword: "what is justification in the bible",
+    secondaryKeywords: ["justification meaning bible", "justified by faith", "biblical justification", "romans justification"],
+    sectionHeadings: ["Intro", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Bible Terms", href: "/bible-terms" },
+      { label: "What Is Justification in the Bible", href: "/what-is-justification-in-the-bible" }
+    ],
+    article: {
+      section: "Bible Terms",
+      keywords: ["what is justification in the bible", "justified by faith", "accepted by god"]
     }
   }
 };

@@ -357,5 +357,56 @@ export const bibleTermEntries: BibleTermEntry[] = [
           "It was first spoken to Jesus' early followers and surrounding crowds, but Christians have historically treated it as foundational teaching for disciples today."
       }
     ]
+  },
+  {
+    kind: "bible-term",
+    slug: "what-is-justification-in-the-bible",
+    title: "What Is Justification in the Bible",
+    seoTitle: "What Is Justification in the Bible? Simple Explanation",
+    metaDescription:
+      "Understand justification in the Bible with clear definition, context, key verses, and practical meaning for faith today.",
+    h1: "What is justification in the Bible?",
+    intro:
+      "Justification is a core Bible term that many people hear but struggle to define clearly.",
+    definition:
+      "Justification is God's declaration that a sinner is made right with Him through faith in Jesus Christ.",
+    simpleMeaning:
+      "In plain language, justification means being accepted by God not because of perfect performance, but because of Christ's finished work.",
+    context:
+      "The New Testament, especially Romans and Galatians, teaches that people are justified by faith, not by works of the law.",
+    deeperUnderstanding:
+      "Justification is a legal and relational declaration from God. It changes standing before God and becomes the basis for confident, grace-driven living.",
+    commonMisunderstanding:
+      "A common misunderstanding is that justification means God ignores sin. Scripture teaches that sin is fully addressed through Christ, and justification is received by faith.",
+    relatedVerseRefs: ["Romans 5:1", "Galatians 2:16", "Romans 3:24", "2 Corinthians 5:21"],
+    takeaway:
+      "Justification removes both pride and despair: no one earns acceptance, and no one is beyond God's mercy in Christ.",
+    finalReflection:
+      "Understanding justification brings peace with God and confidence to grow in everyday obedience.",
+    relatedSlugs: [
+      "what-is-righteousness-in-the-bible",
+      "what-is-grace-in-the-bible",
+      "what-is-salvation-in-the-bible",
+      "what-is-faith-in-the-bible",
+      "romans-8-28-meaning"
+    ],
+    intent: "informational",
+    faqs: [
+      {
+        question: "Is justification the same as sanctification?",
+        answer:
+          "No. Justification is God's declaration that you are made right with Him; sanctification is ongoing growth in holy living."
+      },
+      {
+        question: "How is a person justified according to the Bible?",
+        answer:
+          "Scripture teaches that a person is justified by grace through faith in Jesus, not by personal merit."
+      },
+      {
+        question: "Why does justification matter practically?",
+        answer:
+          "It gives assurance before God and frees people to obey from gratitude instead of fear-driven performance."
+      }
+    ]
   }
 ];

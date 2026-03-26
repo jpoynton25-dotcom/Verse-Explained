@@ -922,5 +922,167 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
           "Start small: pray one verse, then reach out to one trusted person for honest connection."
       }
     ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-peace",
+    title: "Bible Verses for Peace",
+    seoTitle: "Bible Verses for Peace in Stressful Times | Verse Explained",
+    metaDescription:
+      "Find Bible verses for peace with clear explanations to calm anxious thoughts and help you rest in God's presence.",
+    h1: "Bible verses for peace",
+    intro:
+      "If your thoughts feel noisy or unsettled, these Bible verses for peace provide practical, prayer-ready truth.",
+    context:
+      "Biblical peace is more than quiet circumstances. It is a settled confidence in God's presence and care during pressure.",
+    deeperUnderstanding:
+      "Scripture connects peace with trust, prayer, and renewed perspective. Peace often grows as you bring worries to God repeatedly, not once.",
+    commonMisunderstanding:
+      "People often assume peace means the absence of all problems. In Scripture, peace means God's stabilizing presence in the middle of problems.",
+    practicalSummary:
+      "Pick one verse for morning and one for evening. Pray each verse in your own words and return to it when anxiety spikes.",
+    takeaway:
+      "Peace grows through repeated trust, not perfect conditions.",
+    finalReflection:
+      "God's peace can guard your heart even when your situation is still developing.",
+    relatedSlugs: [
+      "philippians-4-6-7-meaning",
+      "bible-verses-for-anxiety",
+      "night-bible-verse",
+      "psalm-91-1-2-meaning",
+      "matthew-11-28-meaning"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When your mind feels overwhelmed",
+        items: [
+          {
+            reference: "Philippians 4:6-7",
+            text: "Do not be anxious about anything... and the peace of God... will guard your hearts and your minds in Christ Jesus.",
+            explanation: "Prayer and thanksgiving redirect anxious thoughts toward God's guarding peace.",
+            verseMeaningSlug: "philippians-4-6-7-meaning"
+          },
+          {
+            reference: "Isaiah 26:3",
+            text: "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+            explanation: "Peace is tied to trust and steady focus on God."
+          }
+        ]
+      },
+      {
+        heading: "When you need rest at the end of the day",
+        items: [
+          {
+            reference: "Psalm 4:8",
+            text: "In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety.",
+            explanation: "A practical nighttime prayer for safety and rest."
+          },
+          {
+            reference: "John 14:27",
+            text: "Peace I leave with you; my peace I give you.",
+            explanation: "Jesus offers peace that is deeper than changing circumstances."
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is a good Bible verse for peace and anxiety?",
+        answer:
+          "Philippians 4:6-7 is a strong starting point because it gives a practical pattern: pray, give thanks, and receive God's peace."
+      },
+      {
+        question: "Does biblical peace remove all stress immediately?",
+        answer:
+          "Not always. Biblical peace often grows through repeated trust and prayer in real situations."
+      },
+      {
+        question: "How can I build a daily peace habit?",
+        answer:
+          "Use one peace verse in the morning and one at night, and return to them during stressful moments."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-guidance",
+    title: "Bible Verses for Guidance",
+    seoTitle: "Bible Verses for Guidance and Wise Decisions | Verse Explained",
+    metaDescription:
+      "Explore Bible verses for guidance with simple explanations for decision-making, next steps, and trusting God's direction.",
+    h1: "Bible verses for guidance",
+    intro:
+      "When you need direction for a decision, these Bible verses for guidance help you move forward with clarity and trust.",
+    context:
+      "The Bible presents guidance as relational. God directs people through scripture, prayer, wisdom, and faithful next steps.",
+    deeperUnderstanding:
+      "Guidance is usually progressive, not instant. Scripture calls people to trust God for today's step while staying open to correction and growth.",
+    commonMisunderstanding:
+      "A common misunderstanding is waiting for perfect certainty before obeying. Scripture often calls for faithful action with available wisdom.",
+    practicalSummary:
+      "Pray one guidance verse, write your next wise step, and ask one trusted person for counsel before major decisions.",
+    takeaway:
+      "God's guidance is often clear enough for the next step, even when the full path is not visible.",
+    finalReflection:
+      "You do not need to see everything at once to walk faithfully with God.",
+    relatedSlugs: [
+      "proverbs-3-5-6-meaning",
+      "bible-verses-for-strength",
+      "daily-scripture-explained",
+      "isaiah-40-31-meaning",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "Verses for trusting God's direction",
+        items: [
+          {
+            reference: "Proverbs 3:5-6",
+            text: "Trust in the Lord with all your heart... and he will make your paths straight.",
+            explanation: "Guidance grows as trust replaces self-reliance.",
+            verseMeaningSlug: "proverbs-3-5-6-meaning"
+          },
+          {
+            reference: "Psalm 119:105",
+            text: "Your word is a lamp for my feet, a light on my path.",
+            explanation: "God's word gives enough light for the next step."
+          }
+        ]
+      },
+      {
+        heading: "Verses for wisdom in decisions",
+        items: [
+          {
+            reference: "James 1:5",
+            text: "If any of you lacks wisdom, you should ask God... and it will be given to you.",
+            explanation: "God invites direct prayer for practical wisdom."
+          },
+          {
+            reference: "Isaiah 30:21",
+            text: "Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, 'This is the way; walk in it.'",
+            explanation: "God is able to direct and correct His people as they walk forward."
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the best Bible verse for guidance?",
+        answer:
+          "Proverbs 3:5-6 is a strong starting point because it combines trust, surrender, and promised direction."
+      },
+      {
+        question: "How does God guide decisions today?",
+        answer:
+          "God commonly guides through scripture, prayer, wise counsel, and circumstances aligned with biblical wisdom."
+      },
+      {
+        question: "What if I still feel uncertain?",
+        answer:
+          "Take the next faithful step you can identify, keep praying for wisdom, and stay teachable as clarity grows."
+      }
+    ]
   }
 ];

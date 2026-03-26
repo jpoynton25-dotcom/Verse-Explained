@@ -556,5 +556,107 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
           "Use it as a short prayer during stressful moments, then take one practical step with calm trust."
       }
     ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "psalm-91-1-2-meaning",
+    title: "Psalm 91:1-2 Meaning",
+    seoTitle: "Psalm 91:1-2 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand Psalm 91:1-2 in plain English with context, key themes, and practical comfort for fear and uncertainty.",
+    h1: "Psalm 91:1-2 meaning in real life",
+    verseReference: "Psalm 91:1-2",
+    verseText:
+      "Whoever dwells in the shelter of the Most High will rest in the shadow of the Almighty. I will say of the Lord, 'He is my refuge and my fortress, my God, in whom I trust.'",
+    intro:
+      "Psalm 91:1-2 is often searched in fearful seasons because it speaks directly about safety, trust, and God's protection.",
+    simpleMeaning:
+      "These verses describe a life of trust close to God. Security is found in God's presence, not in human control.",
+    context:
+      "Psalm 91 is a song of confidence in God's protection during danger and uncertainty. It teaches reliance on God when circumstances feel unstable.",
+    deeperUnderstanding:
+      "The words shelter, shadow, refuge, and fortress show a relationship of ongoing trust, not a one-time feeling. The psalm calls people to stay near God in both calm and crisis.",
+    misunderstanding:
+      "A common misunderstanding is that this promise means believers never face hardship. The psalm promises God's presence and care in hardship, not immunity from every trouble.",
+    takeaway:
+      "Turn Psalm 91:1-2 into a daily prayer when fear rises: name God as your refuge and place your next decision in His care.",
+    finalReflection:
+      "Psalm 91:1-2 builds steady confidence: God is a real refuge for people who trust Him.",
+    relatedSlugs: [
+      "psalm-46-1-meaning",
+      "psalm-23-meaning",
+      "bible-verses-for-fear",
+      "bible-verses-for-peace",
+      "isaiah-41-10-meaning"
+    ],
+    intent: "problem-solving",
+    faqs: [
+      {
+        question: "What does 'shelter of the Most High' mean?",
+        answer:
+          "It means living in close trust under God's care. The image points to safety through relationship with God."
+      },
+      {
+        question: "Does Psalm 91:1-2 promise a trouble-free life?",
+        answer:
+          "No. It promises that God is a refuge and fortress in trouble, not that trouble will never come."
+      },
+      {
+        question: "How can I apply Psalm 91:1-2 today?",
+        answer:
+          "Read it slowly, pray it in your own words, and place one current fear under God's care."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "isaiah-40-31-meaning",
+    title: "Isaiah 40:31 Meaning",
+    seoTitle: "Isaiah 40:31 Meaning and Strength for Today | Verse Explained",
+    metaDescription:
+      "Learn Isaiah 40:31 in simple language with context, practical application, and how God renews strength over time.",
+    h1: "Isaiah 40:31 meaning for tired seasons",
+    verseReference: "Isaiah 40:31",
+    verseText:
+      "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+    intro:
+      "Isaiah 40:31 is a widely searched verse for burnout, exhaustion, and discouragement because it speaks about renewed strength.",
+    simpleMeaning:
+      "Strength is renewed as people place their hope in God. The verse describes endurance and steady progress, not instant escape.",
+    context:
+      "Isaiah 40 speaks to people who felt worn down in exile and uncertainty. God reminds them that His power does not fade and His help is available.",
+    deeperUnderstanding:
+      "The movement from soaring to running to walking shows that God's strength supports every pace of life. Renewal includes dramatic breakthroughs and ordinary perseverance.",
+    misunderstanding:
+      "People sometimes assume this verse promises constant high energy. The promise is deeper: God provides strength to keep going faithfully at every pace.",
+    takeaway:
+      "When you feel depleted, pause and re-center your hope in God. Ask for enough strength for the next faithful step.",
+    finalReflection:
+      "Isaiah 40:31 offers resilient hope: God renews people who keep trusting Him.",
+    relatedSlugs: [
+      "bible-verses-for-strength",
+      "isaiah-41-10-meaning",
+      "encouraging-bible-verses",
+      "romans-8-18-meaning",
+      "bible-verses-for-guidance"
+    ],
+    intent: "problem-solving",
+    faqs: [
+      {
+        question: "What does 'hope in the Lord' mean in Isaiah 40:31?",
+        answer:
+          "It means placing confidence in God's character and timing instead of relying only on personal strength."
+      },
+      {
+        question: "What does 'renew their strength' look like practically?",
+        answer:
+          "It can look like clarity, endurance, peace, and the ability to keep going in daily responsibilities."
+      },
+      {
+        question: "How do I apply Isaiah 40:31 when I'm exhausted?",
+        answer:
+          "Pray honestly, reduce anxious striving, and take one faithful step while trusting God to sustain you."
+      }
+    ]
   }
 ];
