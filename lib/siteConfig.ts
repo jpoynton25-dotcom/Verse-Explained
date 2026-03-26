@@ -8,6 +8,7 @@ export const siteConfig = {
   ogImage: "/og-default.svg",
   nav: [
     { label: "Home", href: "/" },
+    { label: "Projects", href: "/projects" },
     { label: "Verse Meanings", href: "/verse-meanings" },
     { label: "Verses by Need", href: "/verses-by-need" },
     { label: "Daily Verse", href: "/daily-verse" },

@@ -5,6 +5,7 @@ import { siteConfig } from "@/lib/siteConfig";
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages = [
     "",
+    "/projects",
     "/about",
     "/verse-meanings",
     "/verses-by-need",
