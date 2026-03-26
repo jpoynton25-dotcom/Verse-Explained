@@ -10,7 +10,7 @@ export const EmailSignupCta = () => {
         <li className="rounded-xl border border-line bg-canvas px-3 py-2">Daily scripture with simple context</li>
         <li className="rounded-xl border border-line bg-canvas px-3 py-2">Practical encouragement for real life</li>
       </ul>
-      <form className="mt-5 flex flex-col gap-3 sm:flex-row" action="#" method="post">
+      <form className="mt-5 flex flex-col gap-3 sm:flex-row" onSubmit={(event) => event.preventDefault()}>
         <label htmlFor="email" className="sr-only">
           Email address
         </label>
@@ -24,13 +24,14 @@ export const EmailSignupCta = () => {
           className="w-full rounded-xl border border-line bg-canvas px-4 py-3 text-sm outline-none ring-accent transition focus:ring-2"
         />
         <button
-          type="submit"
-          className="rounded-xl bg-accent px-5 py-3 text-sm font-semibold text-white transition hover:opacity-95"
+          type="button"
+          disabled
+          className="rounded-xl bg-accent px-5 py-3 text-sm font-semibold text-white/90 opacity-70"
         >
-          Join free
+          Coming soon
         </button>
       </form>
-      <p className="mt-3 text-xs text-text/65">No spam. Unsubscribe anytime.</p>
+      <p className="mt-3 text-xs text-text/65">Email signup is coming soon.</p>
     </section>
   );
 };
