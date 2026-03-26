@@ -10,7 +10,7 @@ export const EmailSignupCta = () => {
         <li className="rounded-xl border border-line bg-canvas px-3 py-2">Daily scripture with simple context</li>
         <li className="rounded-xl border border-line bg-canvas px-3 py-2">Practical encouragement for real life</li>
       </ul>
-      <form className="mt-5 flex flex-col gap-3 sm:flex-row" onSubmit={(event) => event.preventDefault()}>
+      <form className="mt-5 flex flex-col gap-3 sm:flex-row">
         <label htmlFor="email" className="sr-only">
           Email address
         </label>
