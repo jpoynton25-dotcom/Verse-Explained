@@ -117,7 +117,7 @@ Use this checklist before publishing any new page:
 ## Deployment
 1. Push to Git provider.
 2. Deploy on Vercel (recommended for App Router and static generation).
-3. Set production domain to `www.verseexplained.com`.
+3. Set production canonical domain to `verseexplained.com`.
 4. Confirm:
    - `/robots.txt`
    - `/sitemap.xml`
@@ -126,14 +126,14 @@ Use this checklist before publishing any new page:
 
 ## Launch Checklist
 1. Connect domain:
-   - Add `www.verseexplained.com` and apex domain in hosting provider.
-   - Confirm SSL and redirect rules (`http` -> `https`, apex -> `www` or preferred canonical host).
+   - Add both `www.verseexplained.com` and `verseexplained.com` in hosting provider.
+   - Confirm SSL and redirect rules (`http` -> `https`, and non-canonical host -> canonical host).
 2. Production environment setup:
    - Set production environment variables (if analytics/email provider is added).
    - Verify build command and Node version in hosting settings.
 3. Search Console:
    - Verify property in Google Search Console.
-   - Submit `https://www.verseexplained.com/sitemap.xml`.
+   - Submit `https://verseexplained.com/sitemap.xml`.
 4. Analytics:
    - Add analytics provider (GA4 or privacy-focused alternative).
    - Validate pageview tracking on hubs and content pages.

@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Verse Explained",
-  domain: "www.verseexplained.com",
-  url: "https://www.verseexplained.com",
+  domain: "verseexplained.com",
+  url: "https://verseexplained.com",
   tagline: "Bible verses explained simply for real life",
   description:
     "Clear meanings, daily scripture, and verses for real life. Verse Explained helps you understand Bible verses in plain English.",
