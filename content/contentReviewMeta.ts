@@ -1,0 +1,47 @@
+export type ReviewMeta = {
+  lastReviewed: string;
+  dateModified: string;
+};
+
+export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
+  "john-3-16-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "romans-8-18-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "isaiah-41-10-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "jeremiah-29-11-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "psalm-23-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "the-lord-is-my-shepherd-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "healing-scriptures": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "encouraging-bible-verses": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-strength": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-fear": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-anxiety": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-grief": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verse-of-the-day": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "daily-scripture-explained": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "what-is-faith-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "what-is-grace-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "what-is-sin-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "who-was-pontius-pilate": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "judas-explained": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "garden-of-gethsemane-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "proverbs-3-5-6-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "romans-8-28-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "matthew-11-28-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "philippians-4-6-7-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-hope": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-forgiveness": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-prayer": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "what-is-salvation-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "what-is-repentance-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "who-was-paul-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "psalm-46-1-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-depression": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-loneliness": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "morning-prayer-scripture": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "night-bible-verse": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "daily-psalm-explained": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "what-is-righteousness-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "who-was-mary-magdalene": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "who-was-king-david": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "what-is-the-sermon-on-the-mount": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" }
+};
