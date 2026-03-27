@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow:
+
+User-agent: Googlebot
+Allow: /
+Disallow:
+
+User-agent: Google-InspectionTool
+Allow: /
+Disallow:
+
+Sitemap: https://verseexplained.com/sitemap.xml
