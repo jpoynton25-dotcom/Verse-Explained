@@ -792,5 +792,100 @@ export const pageDataBySlug: Record<string, PageData> = {
       section: "Verses by Need",
       keywords: ["bible verses about faith in hard times", "faith in suffering", "resilient faith"]
     }
+  },
+  "romans-8-31-meaning": {
+    primaryIntent: "devotional",
+    mainKeyword: "romans 8:31 meaning",
+    secondaryKeywords: ["if god is for us who can be against us meaning", "romans 8:31 explained", "romans 8:31 context", "romans 8 encouragement"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Romans 8:31 Meaning", href: "/romans-8-31-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["romans 8:31 meaning", "if god is for us", "confidence in god"]
+    }
+  },
+  "isaiah-40-8-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "isaiah 40:8 meaning",
+    secondaryKeywords: ["the word of our god endures forever meaning", "isaiah 40:8 explained", "isaiah 40:8 context", "god's word endures"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Isaiah 40:8 Meaning", href: "/isaiah-40-8-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["isaiah 40:8 meaning", "god's word endures forever", "lasting truth"]
+    }
+  },
+  "john-20-29-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 20:29 meaning",
+    secondaryKeywords: ["blessed are those who have not seen and yet have believed meaning", "john 20:29 explained", "faith without seeing", "thomas doubt bible"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 20:29 Meaning", href: "/john-20-29-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 20:29 meaning", "faith without seeing", "thomas and jesus"]
+    }
+  },
+  "bible-verses-for-healing-from-sickness": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for healing from sickness",
+    secondaryKeywords: ["scriptures for sickness recovery", "bible verses for illness", "prayer verses for healing sickness", "verses for medical waiting"],
+    sectionHeadings: [
+      "Intro",
+      "Verse groups",
+      "Illness prayer rhythm",
+      "Context",
+      "Deeper understanding",
+      "Common misunderstanding",
+      "Real-life takeaway",
+      "FAQ",
+      "Final reflection"
+    ],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Healing from Sickness", href: "/bible-verses-for-healing-from-sickness" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for healing from sickness", "illness recovery scripture", "healing prayer for sickness"]
+    }
+  },
+  "bible-verses-about-hope-in-hard-times": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses about hope in hard times",
+    secondaryKeywords: ["hope scriptures for hard times", "bible verses for difficult seasons", "encouragement verses for suffering", "hope during trials"],
+    sectionHeadings: [
+      "Intro",
+      "Verse groups",
+      "Hard-season hope plan",
+      "Context",
+      "Deeper understanding",
+      "Common misunderstanding",
+      "Real-life takeaway",
+      "FAQ",
+      "Final reflection"
+    ],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses About Hope in Hard Times", href: "/bible-verses-about-hope-in-hard-times" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses about hope in hard times", "hope in suffering", "difficult season encouragement"]
+    }
   }
 };

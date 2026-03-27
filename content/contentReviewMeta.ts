@@ -53,5 +53,10 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "john-11-25-meaning": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
   "john-11-35-meaning": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
   "bible-verses-about-trusting-god": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
-  "bible-verses-about-faith-in-hard-times": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" }
+  "bible-verses-about-faith-in-hard-times": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
+  "romans-8-31-meaning": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
+  "isaiah-40-8-meaning": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
+  "john-20-29-meaning": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
+  "bible-verses-for-healing-from-sickness": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
+  "bible-verses-about-hope-in-hard-times": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" }
 };

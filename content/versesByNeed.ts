@@ -1327,5 +1327,247 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
           "Start with Romans 8:18 or Isaiah 41:10 if you feel overwhelmed, and John 11:25 if you are walking through grief."
       }
     ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-healing-from-sickness",
+    title: "Bible Verses for Healing from Sickness",
+    seoTitle: "Bible Verses for Healing from Sickness | Verse Explained",
+    metaDescription:
+      "Find Bible verses for healing from sickness with practical guidance for illness, treatment seasons, recovery, and prayer support.",
+    h1: "Bible verses for healing from sickness",
+    intro:
+      "If you are dealing with illness, treatment, or recovery, this guide is specifically for sickness-focused prayer and encouragement. Unlike broader healing pages, these verses are selected for physical weakness, medical waiting, and recovery stress. Each section includes practical ways to use Scripture during real illness seasons.",
+    context:
+      "The Bible presents healing as both prayerful dependence and faithful endurance. Some recover quickly, others through long treatment paths. In either case, God is present and active in body-and-soul care.",
+    deeperUnderstanding:
+      "Sickness can pressure faith, energy, and relationships at the same time. Scripture supports people through physical pain, fear of outcomes, and long recovery by strengthening trust, patience, and hope.",
+    commonMisunderstanding:
+      "A common misunderstanding is that strong faith guarantees immediate physical recovery. Scripture encourages bold prayer, but also teaches endurance, grace, and hope through longer processes.",
+    practicalSummary:
+      "Use this illness-prayer rhythm: read one verse in the morning, pray one specific request for body and mind, and end the day by naming one evidence of God's care.",
+    takeaway:
+      "Healing from sickness is often a journey. These verses help you walk that journey with steady faith instead of fear-driven isolation.",
+    finalReflection:
+      "God's healing care includes strength for treatment, peace during uncertainty, and hope through every stage of recovery.",
+    relatedSlugs: [
+      "healing-scriptures",
+      "bible-verses-for-strength",
+      "bible-verses-for-prayer",
+      "isaiah-41-10-meaning",
+      "matthew-11-28-meaning",
+      "bible-verses-for-peace"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When your body feels weak",
+        items: [
+          {
+            reference: "Jeremiah 17:14",
+            text: "Heal me, Lord, and I will be healed; save me and I will be saved, for you are the one I praise.",
+            explanation: "A direct healing prayer for physical sickness and dependence on God."
+          },
+          {
+            reference: "Psalm 41:3",
+            text: "The Lord sustains them on their sickbed and restores them from their bed of illness.",
+            explanation: "God's care includes sustaining people during active illness, not only after recovery."
+          }
+        ]
+      },
+      {
+        heading: "When treatment is long and tiring",
+        items: [
+          {
+            reference: "Isaiah 41:10",
+            text: "I will strengthen you and help you; I will uphold you with my righteous right hand.",
+            explanation: "A practical anchor for treatment days when energy is low and fear is high.",
+            verseMeaningSlug: "isaiah-41-10-meaning"
+          },
+          {
+            reference: "2 Corinthians 12:9",
+            text: "My grace is sufficient for you, for my power is made perfect in weakness.",
+            explanation: "Even when strength is limited, God's grace provides daily endurance."
+          }
+        ]
+      },
+      {
+        heading: "When you need peace while waiting for results",
+        items: [
+          {
+            reference: "Philippians 4:6-7",
+            text: "Do not be anxious about anything... and the peace of God... will guard your hearts and your minds.",
+            explanation: "Turn medical fear into specific prayer to guard your mind in uncertain waiting.",
+            verseMeaningSlug: "philippians-4-6-7-meaning"
+          },
+          {
+            reference: "Psalm 46:1",
+            text: "God is our refuge and strength, an ever-present help in trouble.",
+            explanation: "God is present in diagnostic uncertainty and emotional strain.",
+            verseMeaningSlug: "psalm-46-1-meaning"
+          }
+        ]
+      },
+      {
+        heading: "When rebuilding after illness",
+        items: [
+          {
+            reference: "Isaiah 40:31",
+            text: "Those who hope in the Lord will renew their strength.",
+            explanation: "Recovery often requires gradual strength renewal, not instant return to normal.",
+            verseMeaningSlug: "isaiah-40-31-meaning"
+          },
+          {
+            reference: "Romans 8:28",
+            text: "In all things God works for the good of those who love him.",
+            explanation: "God can shape long recovery seasons into deeper resilience and hope.",
+            verseMeaningSlug: "romans-8-28-meaning"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How is this different from general healing scriptures?",
+        answer:
+          "This page is specifically focused on physical sickness and recovery stages, including treatment fatigue, waiting for results, and rebuilding strength."
+      },
+      {
+        question: "What is a good Bible verse to pray during illness?",
+        answer:
+          "Jeremiah 17:14 is a strong starting prayer because it directly asks God for healing and rescue."
+      },
+      {
+        question: "Can I use these verses alongside medical treatment?",
+        answer:
+          "Yes. Scripture and prayer support faith, peace, and endurance while you pursue medical care and wise treatment decisions."
+      },
+      {
+        question: "What if healing is slower than I expected?",
+        answer:
+          "Slow healing does not mean God is absent. Keep praying, receive support, and use Scripture for daily strength through the process."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-about-hope-in-hard-times",
+    title: "Bible Verses About Hope in Hard Times",
+    seoTitle: "Bible Verses About Hope in Hard Times | Verse Explained",
+    metaDescription:
+      "Find Bible verses about hope in hard times with practical guidance for loss, delay, pressure, and sustained faith in difficult seasons.",
+    h1: "Bible verses about hope in hard times",
+    intro:
+      "When life enters a difficult season, generic encouragement often feels shallow. This page is built for real trials: loss, long waiting, emotional fatigue, and unresolved pressure. These verses focus on hope that endures hard times, not just positive thinking.",
+    context:
+      "Biblical hope is not denial of pain. It is confident expectation rooted in God's character and promises. The Bible repeatedly teaches hope in the middle of hardship, not after hardship disappears.",
+    deeperUnderstanding:
+      "Hope in hard times grows through perspective, memory, and trust. Scripture helps people interpret suffering without surrendering to despair by pointing to God's presence, purpose, and future restoration.",
+    commonMisunderstanding:
+      "A common misunderstanding is that hope means pretending to feel strong all the time. Biblical hope allows lament, grief, and weakness while still choosing trust in God.",
+    practicalSummary:
+      "Use this hard-season plan: choose one hope verse each morning, speak it aloud at midday, and end the day by recording one reason to keep trusting God tomorrow.",
+    takeaway:
+      "Hope is sustained through repeated truth in difficult seasons, not through one-time motivation.",
+    finalReflection:
+      "Hard times do not cancel God's purposes. Hope remains possible because God remains faithful.",
+    relatedSlugs: [
+      "bible-verses-for-hope",
+      "romans-8-18-meaning",
+      "jeremiah-29-11-meaning",
+      "bible-verses-for-grief",
+      "bible-verses-for-strength",
+      "romans-8-31-meaning"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When suffering feels ongoing",
+        items: [
+          {
+            reference: "Romans 8:18",
+            text: "Our present sufferings are not worth comparing with the glory that will be revealed in us.",
+            explanation: "This verse gives long-range perspective when pain feels dominant.",
+            verseMeaningSlug: "romans-8-18-meaning"
+          },
+          {
+            reference: "2 Corinthians 4:16-18",
+            text: "Though outwardly we are wasting away, yet inwardly we are being renewed day by day.",
+            explanation: "Hope grows as God renews people internally during external pressure."
+          }
+        ]
+      },
+      {
+        heading: "When waiting is discouraging",
+        items: [
+          {
+            reference: "Lamentations 3:21-23",
+            text: "Because of the Lord's great love we are not consumed... his compassions never fail. They are new every morning.",
+            explanation: "Daily mercy becomes practical hope in prolonged difficult seasons."
+          },
+          {
+            reference: "Isaiah 40:31",
+            text: "Those who hope in the Lord will renew their strength.",
+            explanation: "Hope is renewed in waiting, even before circumstances change.",
+            verseMeaningSlug: "isaiah-40-31-meaning"
+          }
+        ]
+      },
+      {
+        heading: "When grief and loss feel heavy",
+        items: [
+          {
+            reference: "John 11:25",
+            text: "I am the resurrection and the life.",
+            explanation: "Jesus gives grief a deeper horizon: death and loss are real, but not final.",
+            verseMeaningSlug: "john-11-25-meaning"
+          },
+          {
+            reference: "Psalm 34:18",
+            text: "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+            explanation: "God's nearness is a critical source of hope in emotional pain."
+          }
+        ]
+      },
+      {
+        heading: "When you need courage for the next step",
+        items: [
+          {
+            reference: "Romans 8:31",
+            text: "If God is for us, who can be against us?",
+            explanation: "Hope becomes practical courage when you remember who stands with you.",
+            verseMeaningSlug: "romans-8-31-meaning"
+          },
+          {
+            reference: "Jeremiah 29:11",
+            text: "Plans to give you hope and a future.",
+            explanation: "God's future-oriented faithfulness sustains present obedience.",
+            verseMeaningSlug: "jeremiah-29-11-meaning"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How is this different from a general 'hope verses' page?",
+        answer:
+          "This page is specifically focused on difficult-season hope: suffering, delay, grief, and long pressure, with practical steps for endurance."
+      },
+      {
+        question: "What is the best Bible verse for hope in hard times?",
+        answer:
+          "Romans 8:18 is a strong starting point because it acknowledges present suffering while giving a larger future horizon."
+      },
+      {
+        question: "How do I keep hope when nothing improves quickly?",
+        answer:
+          "Use a daily rhythm: Scripture, honest prayer, and one faithful action. Consistent small obedience often protects hope in long trials."
+      },
+      {
+        question: "Can I have hope and still feel discouraged?",
+        answer:
+          "Yes. Biblical hope is not constant emotional positivity. It is ongoing trust in God's character while you process real discouragement."
+      }
+    ]
   }
 ];

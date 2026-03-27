@@ -809,5 +809,155 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
           "It gives permission to grieve honestly and reminds you that Christ is emotionally present with you in pain, not distant from it."
       }
     ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "romans-8-31-meaning",
+    title: "Romans 8:31 Meaning",
+    seoTitle: "Romans 8:31 Meaning for Fear and Pressure | Verse Explained",
+    metaDescription:
+      "Understand Romans 8:31 in context with a clear explanation, practical application, and why this verse builds courage in hard seasons.",
+    h1: "Romans 8:31 meaning explained simply",
+    verseReference: "Romans 8:31",
+    verseText: "If God is for us, who can be against us?",
+    intro:
+      "Romans 8:31 is searched by people under pressure because it asks a direct question about opposition, fear, and confidence. This verse does not promise an easy life. It gives a stronger foundation: if God stands with you, opposition does not have final authority over your story.",
+    simpleMeaning:
+      "Paul teaches that God's committed presence outweighs every opposing force. Challenges remain real, but they are no longer ultimate.",
+    context:
+      "Romans 8 describes life in the Spirit, suffering, hope, and God's secure love. Verse 31 appears after Paul explains God's saving work and before he declares that nothing can separate believers from Christ's love.",
+    deeperUnderstanding:
+      "The point is not that believers have no enemies. The point is that no enemy can cancel God's purpose. Romans 8:31 shifts confidence from personal strength to God's covenant faithfulness.",
+    misunderstanding:
+      "A common misunderstanding is reading this verse as a guarantee of immediate victory in every conflict. Paul's message is deeper: lasting security in God, even through hardship.",
+    takeaway:
+      "When you feel outnumbered by pressure, pray this verse and name one next faithful action. Confidence grows when trust becomes concrete obedience.",
+    finalReflection:
+      "Romans 8:31 gives resilient courage: opposition is real, but God's commitment is greater.",
+    relatedSlugs: [
+      "romans-8-18-meaning",
+      "romans-8-28-meaning",
+      "bible-verses-for-fear",
+      "bible-verses-for-strength",
+      "bible-verses-about-hope-in-hard-times"
+    ],
+    intent: "devotional",
+    faqs: [
+      {
+        question: "Does Romans 8:31 mean Christians will not face opposition?",
+        answer:
+          "No. Christians still face pressure and conflict. The verse teaches that opposition cannot overrule God's purpose and presence."
+      },
+      {
+        question: "How is Romans 8:31 connected to the rest of Romans 8?",
+        answer:
+          "It summarizes Paul's argument that God's saving work and love are secure, giving believers confidence in suffering and uncertainty."
+      },
+      {
+        question: "How can I apply Romans 8:31 today?",
+        answer:
+          "Use it to reframe fear: write your main pressure point, pray this verse over it, and take one faithful next step instead of freezing."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "isaiah-40-8-meaning",
+    title: "Isaiah 40:8 Meaning",
+    seoTitle: "Isaiah 40:8 Meaning and Lasting Truth | Verse Explained",
+    metaDescription:
+      "Learn Isaiah 40:8 in plain English with context, practical application, and why God's word stands when everything else changes.",
+    h1: "Isaiah 40:8 meaning in uncertain times",
+    verseReference: "Isaiah 40:8",
+    verseText: "The grass withers and the flowers fall, but the word of our God endures forever.",
+    intro:
+      "People search Isaiah 40:8 meaning when life feels unstable and temporary. This verse contrasts what fades with what endures. In one sentence, it gives a framework for uncertainty: human strength and circumstances shift, but God's word remains reliable.",
+    simpleMeaning:
+      "Everything temporary eventually fades, but God's word does not. His promises and truth remain trustworthy across every season.",
+    context:
+      "Isaiah 40 addresses people who felt worn down and displaced. God reminds them that human power is limited, but His word and faithfulness are not.",
+    deeperUnderstanding:
+      "Isaiah 40:8 is not abstract poetry. It is a practical call to anchor life in what lasts. When identity, hope, and decisions are shaped by God's word, stability grows even in changing circumstances.",
+    misunderstanding:
+      "Some people read this verse as if change itself is bad. Isaiah is not rejecting change. He is teaching where ultimate confidence belongs when change is inevitable.",
+    takeaway:
+      "When your situation keeps shifting, return to one clear biblical promise and build your day around it.",
+    finalReflection:
+      "Isaiah 40:8 offers steady perspective: what fades should not become your foundation; what endures should.",
+    relatedSlugs: [
+      "isaiah-40-31-meaning",
+      "isaiah-41-10-meaning",
+      "bible-verses-for-guidance",
+      "daily-scripture-explained",
+      "romans-8-31-meaning"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does 'the word of our God endures forever' mean?",
+        answer:
+          "It means God's truth and promises remain dependable across generations, circumstances, and seasons of change."
+      },
+      {
+        question: "Is Isaiah 40:8 only about Scripture texts?",
+        answer:
+          "It includes Scripture and more broadly points to God's spoken promise and faithful character that do not fail."
+      },
+      {
+        question: "How do I live Isaiah 40:8 practically?",
+        answer:
+          "Choose one passage to revisit daily and let it guide decisions, priorities, and reactions in uncertain moments."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "john-20-29-meaning",
+    title: "John 20:29 Meaning",
+    seoTitle: "John 20:29 Meaning: Faith Without Seeing | Verse Explained",
+    metaDescription:
+      "Understand John 20:29 with context, clear explanation, and practical guidance for trusting God when certainty is limited.",
+    h1: "John 20:29 meaning and faith without seeing",
+    verseReference: "John 20:29",
+    verseText: "Blessed are those who have not seen and yet have believed.",
+    intro:
+      "John 20:29 is often searched by people wrestling with doubt because it speaks directly to believing without physical proof. Jesus does not shame questions in this passage, but He points toward mature faith that trusts His word even when sight is limited.",
+    simpleMeaning:
+      "Jesus blesses people who trust Him without requiring direct visible proof. Biblical faith is confidence grounded in credible testimony and God's character.",
+    context:
+      "This verse follows Thomas seeing the risen Jesus. Christ meets Thomas personally, then broadens the message to future believers who will trust through apostolic witness rather than direct sight.",
+    deeperUnderstanding:
+      "John 20:29 is not anti-reason. It is anti-demand for total control. Faith involves evidence, testimony, and relationship, but it also requires trust beyond what can be physically verified in the moment.",
+    misunderstanding:
+      "A common misunderstanding is that real faith means never asking questions. In this chapter, questions are present, but they are brought to Jesus rather than used to avoid commitment.",
+    takeaway:
+      "If you feel uncertain, bring honest doubts to God, review the foundations of your faith, and keep taking small steps of trust.",
+    finalReflection:
+      "John 20:29 calls believers to a tested confidence: not blind belief, but trustful faith when sight is incomplete.",
+    relatedSlugs: [
+      "what-is-faith-in-the-bible",
+      "what-is-repentance-in-the-bible",
+      "john-3-16-meaning",
+      "john-11-25-meaning",
+      "romans-8-28-meaning"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "Does John 20:29 discourage evidence and thinking?",
+        answer:
+          "No. It calls for trust without direct physical sight, but Christian faith still rests on testimony, history, and God's revealed character."
+      },
+      {
+        question: "Was Thomas rebuked in John 20:29?",
+        answer:
+          "Jesus corrected Thomas' hesitation but also met him with grace. The verse invites growth from sight-dependent faith to trust-dependent faith."
+      },
+      {
+        question: "How can I apply John 20:29 when I struggle with doubt?",
+        answer:
+          "Be honest about doubts in prayer, stay rooted in Scripture, and practice small acts of obedience while confidence develops."
+      }
+    ]
   }
 ];
