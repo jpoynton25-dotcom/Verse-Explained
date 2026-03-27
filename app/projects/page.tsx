@@ -1,15 +1,24 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Container } from "@/components/layout/Container";
 import { SectionTitle } from "@/components/ui/SectionTitle";
 import { buildMetadata } from "@/lib/seo";
 
-export const metadata = buildMetadata({
+const baseMetadata = buildMetadata({
   title: "Projects | Verse Explained",
   description:
     "Explore Verse Explained projects, content hubs, and practical scripture resources organized for real-life use.",
   path: "/projects",
   keywords: ["verse explained projects", "bible content projects", "scripture resources"]
 });
+
+export const metadata: Metadata = {
+  ...baseMetadata,
+  robots: {
+    index: false,
+    follow: true
+  }
+};
 
 const projectLinks = [
   {
@@ -48,7 +57,7 @@ export default function ProjectsPage() {
   return (
     <Container className="py-12 sm:py-16">
       <section className="rounded-soft border border-line bg-white p-6 shadow-card sm:p-8">
-        <SectionTitle title="Projects" description="Index-friendly overview of all active Verse Explained site projects and hub pages." />
+        <SectionTitle title="Projects" description="Quick navigation to active Verse Explained sections and hub pages." />
         <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {projectLinks.map((item) => (
             <Link key={item.href} href={item.href} className="rounded-soft border border-line bg-canvas p-5 transition hover:border-accent">
