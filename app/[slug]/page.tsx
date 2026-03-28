@@ -51,9 +51,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 const Section = ({ title, children }: { title: string; children: React.ReactNode }) => (
-  <section className="rounded-soft border border-line bg-white p-5 shadow-card sm:p-6">
-    <h2 className="text-xl font-semibold tracking-tight">{title}</h2>
-    <div className="mt-4 space-y-4 text-text/80 leading-7">{children}</div>
+  <section className="rounded-soft border border-line bg-white p-6 shadow-card sm:p-7">
+    <h2 className="text-xl font-semibold tracking-tight text-text sm:text-2xl">{title}</h2>
+    <div className="mt-5 space-y-4 text-[1.02rem] leading-8 text-text/80">{children}</div>
   </section>
 );
 
@@ -89,13 +89,13 @@ const ContentImage = ({
   const config = pageImageConfig[slot];
 
   return (
-    <figure>
+    <figure className="my-2">
       <Image
         src={config.src}
         alt={config.alt(keyword)}
         width={1600}
         height={900}
-        className="w-full max-w-3xl mx-auto rounded-xl my-10"
+        className="w-full max-w-2xl mx-auto rounded-xl my-10 border border-line/70 shadow-sm"
         sizes="(max-width: 768px) 100vw, 900px"
         priority={config.priority ?? false}
       />
@@ -140,14 +140,14 @@ export default async function DynamicContentPage({ params }: PageProps) {
       />
       <SchemaScript id={"faq-schema-" + entry.slug} data={faqSchema(faqItems)} />
 
-      <div className="max-w-3xl mx-auto px-4 space-y-10">
+      <div className="max-w-2xl mx-auto px-4 space-y-12">
         <Breadcrumbs items={breadcrumbItems} />
 
-        <article className="space-y-10">
-          <header className="rounded-soft border border-line bg-white p-6 shadow-card sm:p-7">
+        <article className="space-y-12">
+          <header className="rounded-soft border border-line bg-white p-7 shadow-card sm:p-8">
             <p className="text-xs font-semibold uppercase tracking-wide text-accent">{entry.pageData.primaryIntent} intent</p>
-            <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-4xl">{entry.h1}</h1>
-            <p className="mt-4 max-w-prose text-text/80">{entry.intro}</p>
+            <h1 className="mt-3 text-3xl font-semibold tracking-tight text-text sm:text-4xl">{entry.h1}</h1>
+            <p className="mt-5 max-w-prose text-[1.05rem] leading-8 text-text/85">{entry.intro}</p>
             <div className="mt-4 rounded-xl border border-line bg-canvas p-4 text-sm text-text/80">
               <p>
                 <span className="font-semibold text-text">Main keyword:</span> {entry.pageData.mainKeyword}
@@ -164,9 +164,9 @@ export default async function DynamicContentPage({ params }: PageProps) {
 
           {hasImageSlot("intro") ? <ContentImage slot="intro" keyword={entry.pageData.mainKeyword} /> : null}
 
-          <section className="rounded-soft border border-line bg-white p-6 shadow-card">
-            <h2 className="text-xl font-semibold tracking-tight">On this page</h2>
-            <ul className="mt-3 list-disc space-y-1 pl-5 text-text/80">
+          <section className="rounded-soft border border-line bg-white p-6 shadow-card sm:p-7">
+            <h2 className="text-xl font-semibold tracking-tight text-text sm:text-2xl">On this page</h2>
+            <ul className="mt-4 list-disc space-y-2 pl-5 text-[0.98rem] leading-7 text-text/80">
               {entry.pageData.sectionHeadings.map((heading) => (
                 <li key={heading}>{heading}</li>
               ))}
@@ -176,8 +176,8 @@ export default async function DynamicContentPage({ params }: PageProps) {
           {entry.kind === "verse-meaning" ? (
             <>
               <Section title="Verse text">
-                <p className="rounded-xl border border-line bg-canvas p-4 text-lg italic">{entry.verseText}</p>
-                <p className="mt-2 text-sm text-text/65">{entry.verseReference}</p>
+                <p className="rounded-xl border border-line bg-gradient-to-b from-canvas to-white px-5 py-6 text-lg italic leading-8 text-text/90 shadow-sm">{entry.verseText}</p>
+                <p className="mt-3 text-sm font-medium tracking-wide text-text/65">{entry.verseReference}</p>
               </Section>
               <Section title="Simple meaning">
                 <p>{entry.simpleMeaning}</p>
@@ -267,7 +267,7 @@ export default async function DynamicContentPage({ params }: PageProps) {
             <>
               <Section title="Today's scripture reference">
                 <p className="text-sm font-semibold">{entry.verseReference}</p>
-                <p className="mt-2 rounded-xl border border-line bg-canvas p-4 text-lg italic">{entry.verseText}</p>
+                <p className="mt-3 rounded-xl border border-line bg-gradient-to-b from-canvas to-white px-5 py-6 text-lg italic leading-8 text-text/90 shadow-sm">{entry.verseText}</p>
               </Section>
               <Section title="Simple meaning">
                 <p>{entry.simpleMeaning}</p>
