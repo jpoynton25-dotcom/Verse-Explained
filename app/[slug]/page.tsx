@@ -95,7 +95,7 @@ const ContentImage = ({
         alt={config.alt(keyword)}
         width={1600}
         height={900}
-        className="w-full max-w-3xl mx-auto rounded-xl my-10"
+        className="w-full max-w-2xl mx-auto rounded-xl my-8 sm:my-9"
         sizes="(max-width: 768px) 100vw, 900px"
         priority={config.priority ?? false}
       />
