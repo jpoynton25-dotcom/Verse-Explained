@@ -95,7 +95,7 @@ const ContentImage = ({
         alt={config.alt(keyword)}
         width={1600}
         height={900}
-        className="w-full max-w-2xl mx-auto rounded-xl my-10 border border-line/70 shadow-sm"
+        className="w-full max-w-3xl mx-auto rounded-xl my-10"
         sizes="(max-width: 768px) 100vw, 900px"
         priority={config.priority ?? false}
       />
@@ -140,7 +140,7 @@ export default async function DynamicContentPage({ params }: PageProps) {
       />
       <SchemaScript id={"faq-schema-" + entry.slug} data={faqSchema(faqItems)} />
 
-      <div className="max-w-2xl mx-auto px-4 space-y-12">
+      <div className="max-w-4xl mx-auto px-4 space-y-12">
         <Breadcrumbs items={breadcrumbItems} />
 
         <article className="space-y-12">
