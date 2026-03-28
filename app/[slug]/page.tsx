@@ -51,9 +51,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 const Section = ({ title, children }: { title: string; children: React.ReactNode }) => (
-  <section className="rounded-soft border border-line bg-white p-6 shadow-card">
+  <section className="rounded-soft border border-line bg-white p-5 shadow-card sm:p-6">
     <h2 className="text-xl font-semibold tracking-tight">{title}</h2>
-    <div className="mt-3 text-text/80">{children}</div>
+    <div className="mt-4 space-y-4 text-text/80 leading-7">{children}</div>
   </section>
 );
 
@@ -89,13 +89,13 @@ const ContentImage = ({
   const config = pageImageConfig[slot];
 
   return (
-    <figure className="overflow-hidden rounded-soft border border-line shadow-card">
+    <figure>
       <Image
         src={config.src}
         alt={config.alt(keyword)}
         width={1600}
         height={900}
-        className="h-auto w-full max-w-3xl mx-auto rounded-xl my-10 object-cover"
+        className="w-full max-w-3xl mx-auto rounded-xl my-10"
         sizes="(max-width: 768px) 100vw, 900px"
         priority={config.priority ?? false}
       />
@@ -140,11 +140,11 @@ export default async function DynamicContentPage({ params }: PageProps) {
       />
       <SchemaScript id={"faq-schema-" + entry.slug} data={faqSchema(faqItems)} />
 
-      <div className="space-y-8">
+      <div className="max-w-3xl mx-auto px-4 space-y-10">
         <Breadcrumbs items={breadcrumbItems} />
 
-        <article className="space-y-8">
-          <header className="rounded-soft border border-line bg-white p-7 shadow-card">
+        <article className="space-y-10">
+          <header className="rounded-soft border border-line bg-white p-6 shadow-card sm:p-7">
             <p className="text-xs font-semibold uppercase tracking-wide text-accent">{entry.pageData.primaryIntent} intent</p>
             <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-4xl">{entry.h1}</h1>
             <p className="mt-4 max-w-prose text-text/80">{entry.intro}</p>
