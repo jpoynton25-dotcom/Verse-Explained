@@ -913,6 +913,51 @@ export const pageDataBySlug: Record<string, PageData> = {
       keywords: ["isaiah 40:8 meaning", "god's word endures forever", "lasting truth"]
     }
   },
+  "john-1-1-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 1:1 meaning",
+    secondaryKeywords: ["john 1:1 explained", "the word was god meaning", "john 1:1 context", "in the beginning was the word"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 1:1 Meaning", href: "/john-1-1-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 1:1 meaning", "the word was god", "jesus divinity"]
+    }
+  },
+  "john-10-10-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 10:10 meaning",
+    secondaryKeywords: ["john 10:10 explained", "life to the full meaning", "thief comes to steal and destroy", "john 10:10 context"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 10:10 Meaning", href: "/john-10-10-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 10:10 meaning", "abundant life in christ", "good shepherd teaching"]
+    }
+  },
+  "john-16-33-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 16:33 meaning",
+    secondaryKeywords: ["john 16:33 explained", "take heart i have overcome the world meaning", "john 16:33 context", "peace in trouble bible verse"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 16:33 Meaning", href: "/john-16-33-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 16:33 meaning", "peace in christ", "jesus overcame the world"]
+    }
+  },
   "john-20-29-meaning": {
     primaryIntent: "interpretive",
     mainKeyword: "john 20:29 meaning",

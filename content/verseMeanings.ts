@@ -844,6 +844,179 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
   },
   {
     kind: "verse-meaning",
+    slug: "john-1-1-meaning",
+    title: "John 1:1 Meaning",
+    seoTitle: "John 1:1 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand John 1:1 in plain English with context, theology, and practical meaning for faith, identity, and trust in Jesus.",
+    h1: "John 1:1 Meaning Explained Simply",
+    verseReference: "John 1:1",
+    verseText: "In the beginning was the Word, and the Word was with God, and the Word was God.",
+    intro:
+      "John 1:1 is one of the most important verses for understanding who Jesus is. People often search john 1:1 meaning because the language feels deep and theological: What is the Word, and how can the Word be both with God and be God? This verse opens John's Gospel by showing that Jesus did not begin in Bethlehem. He is eternal, personal, and fully divine. If you are looking for john 1:1 explained, the word was God meaning, or john 1:1 context, this passage gives a foundation for the whole message of salvation and grace in the New Testament.",
+    simpleMeaning:
+      "John 1:1 teaches that Jesus (the Word) has always existed, is in perfect relationship with God, and shares God's divine nature.",
+    context:
+      "John begins differently from Matthew and Luke. Instead of starting with Jesus' birth, he starts before creation to show Jesus' eternal identity and authority.",
+    deeperUnderstanding:
+      "The phrase 'the Word' shows that God is not silent or distant. In Jesus, God reveals Himself clearly. John 1:1 protects both truths at once: Jesus is distinct in person from the Father and equal in deity with the Father.",
+    misunderstanding:
+      "A common misunderstanding is treating Jesus as a created spiritual being. John 1:1 rejects that. John presents Jesus as eternal and fully God, not a lesser divine figure.",
+    takeaway:
+      "When faith feels unstable, return to who Jesus is. Christian confidence is built on Christ's identity, not only on your emotions or circumstances.",
+    finalReflection:
+      "John 1:1 anchors the gospel at the deepest level: Jesus is eternal God who comes near to make God known.",
+    relatedSlugs: [
+      "john-14-6-meaning",
+      "john-3-16-meaning",
+      "john-3-17-meaning",
+      "what-is-grace-in-the-bible",
+      "what-is-salvation-in-the-bible",
+      "bible-verses-about-faith-in-hard-times",
+      "bible-verses-for-guidance"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does 'the Word' mean in John 1:1?",
+        answer:
+          "In John's Gospel, 'the Word' refers to Jesus as God's self-revelation, the one who makes God's character and truth known."
+      },
+      {
+        question: "Does John 1:1 teach that Jesus is God?",
+        answer:
+          "Yes. John explicitly says the Word was God, while also showing relational distinction from the Father."
+      },
+      {
+        question: "Why does John start with 'in the beginning'?",
+        answer:
+          "He intentionally echoes Genesis to show Jesus existed before creation and is central to God's redemptive plan."
+      },
+      {
+        question: "How can I apply John 1:1 in daily life?",
+        answer:
+          "Use it to ground your trust in Christ's authority and to remember that faith rests on who Jesus is, not only on how you feel."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "john-10-10-meaning",
+    title: "John 10:10 Meaning",
+    seoTitle: "John 10:10 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Learn John 10:10 in context with a clear explanation of abundant life, spiritual threat, and practical faith for daily life.",
+    h1: "John 10:10 Meaning Explained Simply",
+    verseReference: "John 10:10",
+    verseText:
+      "The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full.",
+    intro:
+      "John 10:10 is often quoted when people want hope, clarity, and direction in difficult seasons. Many ask what abundant life really means. Does it promise wealth, comfort, or success? In context, Jesus contrasts destructive spiritual deception with the life He gives as the true shepherd. John 10:10 meaning is not shallow positivity. It is a deep, God-centered life shaped by truth, purpose, and relationship with Christ. If you are searching john 10:10 explained, life to the full meaning, or thief comes to steal and destroy verse, this guide helps you read it clearly.",
+    simpleMeaning:
+      "Jesus warns that destructive forces pull people away from God, but He came to give real, lasting life that is full in quality and purpose.",
+    context:
+      "In John 10, Jesus describes Himself as the good shepherd and contrasts His care with false leaders who exploit and mislead people.",
+    deeperUnderstanding:
+      "Abundant life in John 10:10 is first spiritual before it is material. It includes reconciliation with God, inner renewal, and a life shaped by truth, love, and obedience.",
+    misunderstanding:
+      "A common misunderstanding is treating this verse as a guarantee of constant comfort or financial increase. Jesus promises full life in Him, not a trouble-free life.",
+    takeaway:
+      "Ask where your life feels spiritually drained, then invite Jesus to lead that area with truth, repentance, and practical obedience.",
+    finalReflection:
+      "John 10:10 offers a clear contrast: destruction without Christ, and durable life through Christ.",
+    relatedSlugs: [
+      "john-14-6-meaning",
+      "john-3-16-meaning",
+      "romans-8-28-meaning",
+      "bible-verses-for-hope",
+      "bible-verses-for-strength",
+      "bible-verses-for-guidance",
+      "what-is-salvation-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What is the 'abundant life' in John 10:10?",
+        answer:
+          "It is life rooted in Christ: restored relationship with God, spiritual renewal, and meaningful purpose, not merely external comfort."
+      },
+      {
+        question: "Who is the thief in John 10:10?",
+        answer:
+          "In context, Jesus contrasts Himself with false shepherds and destructive spiritual influence that misleads and harms people."
+      },
+      {
+        question: "Does John 10:10 promise an easy life?",
+        answer:
+          "No. It promises true life in Christ, including strength and direction through hardship."
+      },
+      {
+        question: "How do I live John 10:10 practically?",
+        answer:
+          "Stay close to Jesus through Scripture, prayer, and obedience, and remove patterns that repeatedly steal peace and spiritual clarity."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "john-16-33-meaning",
+    title: "John 16:33 Meaning",
+    seoTitle: "John 16:33 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand John 16:33 with context, simple meaning, and practical guidance for peace, courage, and hope in hard times.",
+    h1: "John 16:33 Meaning Explained Simply",
+    verseReference: "John 16:33",
+    verseText:
+      "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.",
+    intro:
+      "John 16:33 is a key verse for Christians facing pressure, uncertainty, and fear. People search john 16:33 meaning because it holds two realities together: trouble is real, and peace is still possible in Christ. Jesus does not promise escape from hardship. He promises peace in Him and courage because He has overcome the world. If you are looking for john 16:33 explained, take heart i have overcome the world meaning, or john 16:33 context, this verse gives a stable framework for hard seasons without denial or panic.",
+    simpleMeaning:
+      "Jesus prepares believers for real trouble, while offering peace and courage rooted in His victory.",
+    context:
+      "Jesus speaks these words to His disciples before His crucifixion. He is preparing them for loss, opposition, and mission after His departure.",
+    deeperUnderstanding:
+      "Peace in John 16:33 is not the absence of conflict. It is relational peace in Christ that remains steady even when circumstances are unstable.",
+    misunderstanding:
+      "A common misunderstanding is reading this verse as a promise of immediate relief. Jesus is promising sustaining peace and ultimate victory, not instant ease.",
+    takeaway:
+      "When trouble rises, repeat this verse in prayer and take your next step with courage, trusting Christ's finished victory more than present fear.",
+    finalReflection:
+      "John 16:33 offers realistic hope: trouble is expected, but Jesus has already secured the final outcome.",
+    relatedSlugs: [
+      "john-14-6-meaning",
+      "romans-8-18-meaning",
+      "romans-8-31-meaning",
+      "bible-verses-for-peace",
+      "bible-verses-for-fear",
+      "bible-verses-about-hope-in-hard-times",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does 'take heart' mean in John 16:33?",
+        answer:
+          "It means to be courageous and steady because Jesus has authority over what believers face."
+      },
+      {
+        question: "What kind of peace does Jesus promise here?",
+        answer:
+          "He promises peace in relationship with Him, a deep confidence that can remain even during hardship."
+      },
+      {
+        question: "How has Jesus 'overcome the world'?",
+        answer:
+          "Through His life, death, and resurrection, Jesus has defeated sin's ultimate power and secured final victory for His people."
+      },
+      {
+        question: "How can I apply John 16:33 during anxiety?",
+        answer:
+          "Name your trouble honestly, anchor your mind in Christ's words, and choose one faith-driven action instead of a fear-driven reaction."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
     slug: "psalm-46-10-meaning",
     title: "Psalm 46:10 Meaning",
     seoTitle: "Psalm 46:10 Meaning Explained Simply | Verse Explained",

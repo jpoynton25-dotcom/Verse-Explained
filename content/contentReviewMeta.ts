@@ -70,5 +70,8 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "romans-5-8-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "bible-verses-about-love-and-marriage": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "what-is-sanctification-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
-  "who-was-moses-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" }
+  "who-was-moses-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "john-1-1-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "john-10-10-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "john-16-33-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" }
 };
