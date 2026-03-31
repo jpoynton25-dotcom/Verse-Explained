@@ -1112,5 +1112,155 @@ export const pageDataBySlug: Record<string, PageData> = {
       section: "Bible People & Places",
       keywords: ["who was moses in the bible", "moses story", "exodus leadership"]
     }
+  },
+  "john-3-16-vs-john-3-17-explained": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 3:16 vs john 3:17",
+    secondaryKeywords: ["difference between john 3:16 and 3:17", "john 3 gospel summary", "john 3:16 vs 3:17 explained", "john 3 context meaning"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 3:16 vs John 3:17 Explained", href: "/john-3-16-vs-john-3-17-explained" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 3:16 vs john 3:17", "john 3 comparison", "gospel meaning"]
+    }
+  },
+  "romans-6-23-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "romans 6:23 meaning",
+    secondaryKeywords: ["wages of sin is death meaning", "romans 6:23 explained", "gift of god eternal life meaning", "romans 6:23 context"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Romans 6:23 Meaning", href: "/romans-6-23-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["romans 6:23 meaning", "wages of sin", "gift of eternal life"]
+    }
+  },
+  "bible-verses-for-overthinking": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for overthinking",
+    secondaryKeywords: ["scriptures for racing thoughts", "bible verses for overthinking at night", "verses for mental peace", "peace of mind verses"],
+    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Overthinking", href: "/bible-verses-for-overthinking" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for overthinking", "racing thoughts scripture", "peace of mind bible"]
+    }
+  },
+  "bible-verses-for-work-stress": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for work stress",
+    secondaryKeywords: ["scripture for job stress", "verses for pressure at work", "peace at work bible verses", "bible for work anxiety"],
+    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Work Stress", href: "/bible-verses-for-work-stress" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for work stress", "job pressure scripture", "work anxiety bible"]
+    }
+  },
+  "bible-verses-for-decision-making": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for decision making",
+    secondaryKeywords: ["scripture for hard decisions", "verses about god's direction", "discernment bible verses", "bible for big decisions"],
+    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Decision Making", href: "/bible-verses-for-decision-making" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for decision making", "godly decisions", "wisdom scriptures"]
+    }
+  },
+  "bible-verses-for-when-prayers-feel-unanswered": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for unanswered prayer",
+    secondaryKeywords: ["scripture for waiting on god", "verses when god feels silent", "bible verses for delayed answers", "waiting in prayer bible"],
+    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for When Prayers Feel Unanswered", href: "/bible-verses-for-when-prayers-feel-unanswered" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for unanswered prayer", "waiting on god scripture", "when prayer feels unanswered"]
+    }
+  },
+  "faith-vs-trust-in-the-bible": {
+    primaryIntent: "informational",
+    mainKeyword: "faith vs trust in the bible",
+    secondaryKeywords: ["difference between faith and trust scripture", "biblical faith and trust", "faith and trust explained", "trusting god vs faith"],
+    sectionHeadings: ["Intro", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Bible Terms", href: "/bible-terms" },
+      { label: "Faith vs Trust in the Bible", href: "/faith-vs-trust-in-the-bible" }
+    ],
+    article: {
+      section: "Bible Terms",
+      keywords: ["faith vs trust in the bible", "faith and trust meaning", "biblical trust"]
+    }
+  },
+  "grace-vs-mercy-in-the-bible": {
+    primaryIntent: "informational",
+    mainKeyword: "grace vs mercy in the bible",
+    secondaryKeywords: ["difference between grace and mercy", "grace and mercy meaning", "biblical grace vs mercy", "god's grace and mercy"],
+    sectionHeadings: ["Intro", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Bible Terms", href: "/bible-terms" },
+      { label: "Grace vs Mercy in the Bible", href: "/grace-vs-mercy-in-the-bible" }
+    ],
+    article: {
+      section: "Bible Terms",
+      keywords: ["grace vs mercy in the bible", "difference grace mercy", "biblical mercy"]
+    }
+  },
+  "justification-vs-sanctification-explained": {
+    primaryIntent: "informational",
+    mainKeyword: "justification vs sanctification",
+    secondaryKeywords: ["difference between justification and sanctification", "justification and sanctification explained", "salvation process bible", "sanctification vs justification"],
+    sectionHeadings: ["Intro", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Bible Terms", href: "/bible-terms" },
+      { label: "Justification vs Sanctification Explained", href: "/justification-vs-sanctification-explained" }
+    ],
+    article: {
+      section: "Bible Terms",
+      keywords: ["justification vs sanctification", "sanctification explained", "justification meaning"]
+    }
+  },
+  "what-is-forgiveness-in-the-bible": {
+    primaryIntent: "informational",
+    mainKeyword: "what is forgiveness in the bible",
+    secondaryKeywords: ["biblical forgiveness meaning", "forgive as christ forgave", "forgiveness scripture explained", "christian forgiveness definition"],
+    sectionHeadings: ["Intro", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Bible Terms", href: "/bible-terms" },
+      { label: "What Is Forgiveness in the Bible", href: "/what-is-forgiveness-in-the-bible" }
+    ],
+    article: {
+      section: "Bible Terms",
+      keywords: ["what is forgiveness in the bible", "biblical forgiveness", "christian forgiveness"]
+    }
   }
 };

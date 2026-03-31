@@ -1585,6 +1585,409 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
   },
   {
     kind: "verses-by-need",
+    slug: "bible-verses-for-overthinking",
+    title: "Bible Verses for Overthinking",
+    seoTitle: "Bible Verses for Overthinking and Mental Spiral | Verse Explained",
+    metaDescription:
+      "Find Bible verses for overthinking with simple explanations to calm mental spirals, restore focus, and build trust in God.",
+    h1: "Bible verses for overthinking",
+    intro:
+      "Overthinking can feel like mental noise that never stops. This page is built for that exact struggle. If your thoughts loop at night, during decisions, or after hard conversations, these scriptures help interrupt anxiety patterns with truth. This is a focused page for bible verses for overthinking, scriptures for racing thoughts, and peace of mind verses.",
+    context:
+      "Scripture addresses anxious thought patterns by redirecting attention toward God's presence, truth, and faithful action.",
+    deeperUnderstanding:
+      "Overthinking usually combines fear, control, and uncertainty. Biblical peace does not remove every question instantly, but it reorders the mind around trust instead of panic.",
+    commonMisunderstanding:
+      "A common misunderstanding is that faith means never having intrusive or repetitive thoughts. Scripture calls believers to retrain the mind, not pretend struggle is absent.",
+    practicalSummary:
+      "Use a 3-step reset: pause and breathe, speak one verse out loud, then choose one concrete next action instead of mental replay.",
+    takeaway:
+      "Peace grows when you replace repetitive fear loops with repeated truth and faithful action.",
+    finalReflection:
+      "God meets you in mental noise and leads you toward steady clarity one thought at a time.",
+    relatedSlugs: [
+      "bible-verses-for-anxiety",
+      "bible-verses-for-peace",
+      "bible-verses-for-guidance",
+      "psalm-46-10-meaning",
+      "philippians-4-6-7-meaning",
+      "proverbs-3-5-6-meaning",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When thoughts keep racing",
+        items: [
+          {
+            reference: "Philippians 4:6-7",
+            text: "Do not be anxious about anything... and the peace of God... will guard your hearts and your minds.",
+            explanation: "Prayer interrupts panic and creates mental guardrails.",
+            verseMeaningSlug: "philippians-4-6-7-meaning"
+          },
+          {
+            reference: "2 Corinthians 10:5",
+            text: "Take captive every thought to make it obedient to Christ.",
+            explanation: "You can actively challenge thought patterns instead of passively accepting them."
+          }
+        ]
+      },
+      {
+        heading: "When overthinking comes from fear",
+        items: [
+          {
+            reference: "Isaiah 41:10",
+            text: "Do not fear, for I am with you... I will strengthen you and help you.",
+            explanation: "God's presence reframes uncertain situations.",
+            verseMeaningSlug: "isaiah-41-10-meaning"
+          },
+          {
+            reference: "Psalm 56:3",
+            text: "When I am afraid, I put my trust in you.",
+            explanation: "Trust is a practical response when fear begins to spiral."
+          }
+        ]
+      },
+      {
+        heading: "When you need clarity for your next step",
+        items: [
+          {
+            reference: "Proverbs 3:5-6",
+            text: "Trust in the Lord with all your heart... and he will make your paths straight.",
+            explanation: "Guidance often comes as the next faithful step, not full control of the future.",
+            verseMeaningSlug: "proverbs-3-5-6-meaning"
+          },
+          {
+            reference: "Psalm 46:10",
+            text: "Be still, and know that I am God.",
+            explanation: "Stillness helps break mental urgency and restore perspective.",
+            verseMeaningSlug: "psalm-46-10-meaning"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the best Bible verse for overthinking?",
+        answer:
+          "Philippians 4:6-7 is a strong starting point because it directly addresses anxious thought patterns and peace."
+      },
+      {
+        question: "How do I stop overthinking at night?",
+        answer:
+          "Use a short routine: read one verse, pray one specific fear, and write one next step for tomorrow."
+      },
+      {
+        question: "Can Christians still struggle with overthinking?",
+        answer:
+          "Yes. Scripture calls believers to renew their minds progressively, not to deny real mental struggle."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-work-stress",
+    title: "Bible Verses for Work Stress",
+    seoTitle: "Bible Verses for Work Stress and Pressure | Verse Explained",
+    metaDescription:
+      "Read Bible verses for work stress with practical guidance for pressure, decision fatigue, and peace in demanding work seasons.",
+    h1: "Bible verses for work stress",
+    intro:
+      "Work stress can affect focus, mood, sleep, and relationships. This page is specifically for job pressure, deadlines, heavy responsibility, and decision fatigue. If you are searching bible verses for work stress, scripture for job stress, or peace at work Bible verses, these passages give practical grounding for real weekdays.",
+    context:
+      "The Bible addresses labor, responsibility, anxiety, and integrity. God cares about how we carry pressure, not only about outcomes.",
+    deeperUnderstanding:
+      "Work stress often comes from fear of failure, people-pleasing, or trying to control every variable. Scripture redirects work identity toward faithfulness and trust in God.",
+    commonMisunderstanding:
+      "A common misunderstanding is that faith removes pressure immediately. Biblical wisdom usually gives steady endurance, clearer priorities, and peace in the middle of demand.",
+    practicalSummary:
+      "Before work, choose one verse. During stress spikes, pray it briefly. After work, review one decision you handled with faithfulness rather than fear.",
+    takeaway:
+      "God's peace at work is not passivity. It is faithful action without panic-driven identity.",
+    finalReflection:
+      "You can work hard without being ruled by pressure when your security is rooted in God.",
+    relatedSlugs: [
+      "bible-verses-for-guidance",
+      "bible-verses-for-strength",
+      "bible-verses-for-anxiety",
+      "isaiah-60-22-meaning",
+      "proverbs-3-5-6-meaning",
+      "matthew-11-28-meaning",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When workload feels heavy",
+        items: [
+          {
+            reference: "Matthew 11:28",
+            text: "Come to me, all you who are weary and burdened, and I will give you rest.",
+            explanation: "Jesus invites burdened people to bring pressure to Him, not carry it alone.",
+            verseMeaningSlug: "matthew-11-28-meaning"
+          },
+          {
+            reference: "Isaiah 40:31",
+            text: "Those who hope in the Lord will renew their strength.",
+            explanation: "Strength is renewed through dependence, not constant self-push."
+          }
+        ]
+      },
+      {
+        heading: "When decisions feel unclear",
+        items: [
+          {
+            reference: "Proverbs 3:5-6",
+            text: "Trust in the Lord... and he will make your paths straight.",
+            explanation: "Guidance comes through trust and submission, especially in high-pressure choices.",
+            verseMeaningSlug: "proverbs-3-5-6-meaning"
+          },
+          {
+            reference: "James 1:5",
+            text: "If any of you lacks wisdom, you should ask God...",
+            explanation: "God invites direct requests for wisdom in practical decisions."
+          }
+        ]
+      },
+      {
+        heading: "When anxiety rises at work",
+        items: [
+          {
+            reference: "Philippians 4:6-7",
+            text: "Do not be anxious about anything... and the peace of God... will guard your hearts and your minds.",
+            explanation: "Prayer and gratitude create steadiness under pressure.",
+            verseMeaningSlug: "philippians-4-6-7-meaning"
+          },
+          {
+            reference: "Psalm 46:1",
+            text: "God is our refuge and strength, an ever-present help in trouble.",
+            explanation: "God's help is present in real-time pressure.",
+            verseMeaningSlug: "psalm-46-1-meaning"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the best Bible verse for job stress?",
+        answer:
+          "Matthew 11:28 is a strong first verse because it addresses exhaustion directly and points to Christ's rest."
+      },
+      {
+        question: "How can I use Bible verses during a stressful workday?",
+        answer:
+          "Use short verse prayers between tasks, before meetings, and during decision points."
+      },
+      {
+        question: "Does faith mean I should care less about work quality?",
+        answer:
+          "No. Faith supports excellence with integrity while removing panic-based identity."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-decision-making",
+    title: "Bible Verses for Decision Making",
+    seoTitle: "Bible Verses for Decision Making and Clarity",
+    metaDescription:
+      "Find Bible verses for decision making with simple guidance on wisdom, peace, and taking faithful next steps.",
+    h1: "Bible verses for decision making",
+    intro:
+      "Hard decisions often create pressure, fear, and second-guessing. This page helps you bring major and minor choices under biblical wisdom. If you are searching bible verses for decision making, scripture for hard decisions, or verses about God's direction, these passages are focused for that intent.",
+    context:
+      "The Bible teaches that wisdom is requested, received, and practiced. God's guidance often comes through Scripture-shaped judgment, prayer, and counsel.",
+    deeperUnderstanding:
+      "Decision clarity is rarely about finding one mystical signal. More often it is about character, priorities, and obedience to what God has already made clear.",
+    commonMisunderstanding:
+      "A common misunderstanding is waiting for total certainty before acting. Scripture often calls people to faithful next steps with trust, not exhaustive certainty.",
+    practicalSummary:
+      "Use this decision rhythm: pray for wisdom, test motives, compare options against Scripture, seek counsel, then choose a faithful next step.",
+    takeaway:
+      "Godly decision making is less about perfect prediction and more about faithful alignment with God's wisdom.",
+    finalReflection:
+      "God guides willing hearts that seek wisdom and act with humble trust.",
+    relatedSlugs: [
+      "bible-verses-for-guidance",
+      "bible-verses-for-prayer",
+      "bible-verses-for-overthinking",
+      "proverbs-3-5-6-meaning",
+      "isaiah-60-22-meaning",
+      "psalm-46-10-meaning",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When you need wisdom",
+        items: [
+          {
+            reference: "James 1:5",
+            text: "If any of you lacks wisdom, you should ask God...",
+            explanation: "God welcomes honest requests for practical wisdom."
+          },
+          {
+            reference: "Proverbs 2:6",
+            text: "For the Lord gives wisdom; from his mouth come knowledge and understanding.",
+            explanation: "Wisdom is found in God's revealed truth."
+          }
+        ]
+      },
+      {
+        heading: "When you are unsure of direction",
+        items: [
+          {
+            reference: "Proverbs 3:5-6",
+            text: "Trust in the Lord... and he will make your paths straight.",
+            explanation: "Trust and submission lead to clearer direction over time.",
+            verseMeaningSlug: "proverbs-3-5-6-meaning"
+          },
+          {
+            reference: "Psalm 119:105",
+            text: "Your word is a lamp for my feet, a light on my path.",
+            explanation: "God often gives enough light for the next step, not the full map."
+          }
+        ]
+      },
+      {
+        heading: "When fear blocks action",
+        items: [
+          {
+            reference: "Isaiah 41:10",
+            text: "Do not fear... I will strengthen you and help you.",
+            explanation: "God's presence supports courage in uncertain choices.",
+            verseMeaningSlug: "isaiah-41-10-meaning"
+          },
+          {
+            reference: "Philippians 4:6-7",
+            text: "Do not be anxious... and the peace of God... will guard your hearts and your minds.",
+            explanation: "Prayer helps decisions move from panic to peace-based clarity.",
+            verseMeaningSlug: "philippians-4-6-7-meaning"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I know if a decision is from God?",
+        answer:
+          "Test it against Scripture, wisdom, godly counsel, and whether it aligns with faithful obedience."
+      },
+      {
+        question: "What if I still feel uncertain after praying?",
+        answer:
+          "Take the next faithful step with humility. God often guides through movement, not only before movement."
+      },
+      {
+        question: "Should peace be the only decision test?",
+        answer:
+          "Peace matters, but it should be combined with biblical truth, wisdom, and integrity."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-when-prayers-feel-unanswered",
+    title: "Bible Verses for When Prayers Feel Unanswered",
+    seoTitle: "Bible Verses for Unanswered Prayer and Waiting",
+    metaDescription:
+      "Read Bible verses for unanswered prayer with practical guidance for waiting, trust, and hope when God feels silent.",
+    h1: "Bible verses for when prayers feel unanswered",
+    intro:
+      "Few spiritual struggles are harder than praying repeatedly and seeing no change. This page is for that exact season. If you are searching bible verses for unanswered prayer, scripture for waiting on God, or verses when God feels silent, these passages help you wait with faith instead of resignation.",
+    context:
+      "Scripture includes many faithful people who waited through delay. Their stories show that delay is not always denial and silence is not absence.",
+    deeperUnderstanding:
+      "Unanswered-prayer seasons refine trust, motives, and endurance. God often works in the person who is praying while also working in the situation being prayed about.",
+    commonMisunderstanding:
+      "A common misunderstanding is that delayed answers prove weak faith. In Scripture, mature faith often includes long waiting with honest prayer.",
+    practicalSummary:
+      "Pray with this pattern: ask specifically, surrender outcome, persist faithfully, and obey clearly in what God has already revealed.",
+    takeaway:
+      "Waiting with God is active trust, not passive spiritual drift.",
+    finalReflection:
+      "Even when timing is unclear, God is still present, still wise, and still trustworthy.",
+    relatedSlugs: [
+      "bible-verses-for-prayer",
+      "bible-verses-for-hope",
+      "bible-verses-for-decision-making",
+      "isaiah-60-22-meaning",
+      "romans-8-28-meaning",
+      "psalm-46-10-meaning",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When waiting feels long",
+        items: [
+          {
+            reference: "Isaiah 60:22",
+            text: "At the right time, I the Lord will make it happen.",
+            explanation: "God's timing is purposeful, even when it feels delayed.",
+            verseMeaningSlug: "isaiah-60-22-meaning"
+          },
+          {
+            reference: "Lamentations 3:25",
+            text: "The Lord is good to those whose hope is in him, to the one who seeks him.",
+            explanation: "Waiting can become a place of deepened trust."
+          }
+        ]
+      },
+      {
+        heading: "When you feel discouraged",
+        items: [
+          {
+            reference: "Romans 8:28",
+            text: "In all things God works for the good of those who love him.",
+            explanation: "God can work through what you do not yet understand.",
+            verseMeaningSlug: "romans-8-28-meaning"
+          },
+          {
+            reference: "Psalm 27:14",
+            text: "Wait for the Lord; be strong and take heart.",
+            explanation: "Strength in waiting is a biblical pattern, not a spiritual exception."
+          }
+        ]
+      },
+      {
+        heading: "When you need peace while you wait",
+        items: [
+          {
+            reference: "Philippians 4:6-7",
+            text: "Do not be anxious about anything... and the peace of God... will guard your hearts and your minds.",
+            explanation: "Peace is available before answers are visible.",
+            verseMeaningSlug: "philippians-4-6-7-meaning"
+          },
+          {
+            reference: "Psalm 46:10",
+            text: "Be still, and know that I am God.",
+            explanation: "Stillness helps resist panic and remain in trust.",
+            verseMeaningSlug: "psalm-46-10-meaning"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "Why does God delay answers to prayer?",
+        answer:
+          "Scripture gives different reasons in different situations, but delay is often part of God's wise timing and formative work."
+      },
+      {
+        question: "Should I keep praying if nothing changes?",
+        answer:
+          "Yes. Jesus teaches persistence in prayer while trusting God's wisdom and character."
+      },
+      {
+        question: "How do I stay faithful when God feels silent?",
+        answer:
+          "Keep a simple rhythm of Scripture, honest prayer, and practical obedience in what you already know is right."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
     slug: "bible-verses-about-hope-in-hard-times",
     title: "Bible Verses About Hope in Hard Times",
     seoTitle: "Bible Verses About Hope in Hard Times | Verse Explained",

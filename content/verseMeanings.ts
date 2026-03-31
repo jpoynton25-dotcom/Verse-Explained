@@ -1547,6 +1547,121 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
   },
   {
     kind: "verse-meaning",
+    slug: "john-3-16-vs-john-3-17-explained",
+    title: "John 3:16 vs John 3:17 Explained",
+    seoTitle: "John 3:16 vs John 3:17 Explained Simply | Verse Explained",
+    metaDescription:
+      "Compare John 3:16 and John 3:17 with simple context, key differences, and practical gospel meaning without confusion.",
+    h1: "John 3:16 vs John 3:17 Explained Simply",
+    verseReference: "John 3:16-17",
+    verseText:
+      "John 3:16: For God so loved the world that he gave his one and only Son... John 3:17: For God did not send his Son into the world to condemn the world, but to save the world through him.",
+    intro:
+      "Many readers know John 3:16 but are less familiar with John 3:17. Together, these verses explain both God's motive and Christ's mission. John 3:16 shows God's love and gift. John 3:17 clarifies why Jesus came: not first to condemn, but to save. This comparison helps answer search intent behind john 3:16 vs john 3:17, john 3 gospel summary, and difference between john 3:16 and 3:17. Reading them together prevents distorted views of either cheap grace or harsh condemnation.",
+    simpleMeaning:
+      "John 3:16 explains God's loving provision; John 3:17 explains Christ's saving purpose. Love gives, and salvation rescues.",
+    context:
+      "Both verses appear in Jesus' conversation with Nicodemus about new birth, belief, and eternal life. They are not separate slogans but one coherent gospel message.",
+    deeperUnderstanding:
+      "The two verses complement each other: God's love is not abstract sentiment, and salvation is not vague spirituality. God gives His Son, and the Son comes to save.",
+    misunderstanding:
+      "A common misunderstanding is using John 3:17 to deny judgment entirely. In context, Jesus' first coming is rescue-focused, while Scripture still teaches final judgment.",
+    takeaway:
+      "Use these verses together in prayer: receive God's love, trust Christ's saving work, and walk in daily repentance and faith.",
+    finalReflection:
+      "John 3:16 and 3:17 are strongest together: the gospel is love-driven, Christ-centered, and salvation-focused.",
+    relatedSlugs: [
+      "john-3-16-meaning",
+      "john-3-17-meaning",
+      "john-3-36-meaning",
+      "john-14-6-meaning",
+      "romans-10-9-meaning",
+      "what-is-salvation-in-the-bible",
+      "what-is-grace-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What is the main difference between John 3:16 and John 3:17?",
+        answer:
+          "John 3:16 emphasizes God's love and gift; John 3:17 emphasizes Jesus' mission to save rather than condemn."
+      },
+      {
+        question: "Should these verses be read separately?",
+        answer:
+          "They are best read together because each clarifies the other and preserves the full gospel message."
+      },
+      {
+        question: "Does John 3:17 remove all judgment language?",
+        answer:
+          "No. It explains the purpose of Christ's coming, while the wider New Testament still addresses judgment and response."
+      },
+      {
+        question: "How do I apply both verses?",
+        answer:
+          "Trust Christ personally, receive grace, and align your life with the salvation these verses describe."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "romans-6-23-meaning",
+    title: "Romans 6:23 Meaning",
+    seoTitle: "Romans 6:23 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand Romans 6:23 in plain English with context, what 'wages' and 'gift' mean, and practical gospel application.",
+    h1: "Romans 6:23 Meaning Explained Simply",
+    verseReference: "Romans 6:23",
+    verseText: "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
+    intro:
+      "Romans 6:23 is a core gospel verse because it contrasts what sin earns with what God gives. People searching romans 6:23 meaning often ask if this verse is only about punishment or also about hope. In context, it is both warning and invitation. Sin leads to death, but God offers eternal life as a gift in Christ. This verse is central for search intent around wages of sin is death meaning, gift of God eternal life, and romans 6:23 explained.",
+    simpleMeaning:
+      "Sin earns death; salvation is a gift. Eternal life cannot be earned but is received through Jesus Christ.",
+    context:
+      "Romans 6 addresses living under grace instead of slavery to sin. Verse 23 summarizes Paul's argument with sharp clarity and gospel hope.",
+    deeperUnderstanding:
+      "Paul's contrast is deliberate: wages are earned, but gifts are given. The verse dismantles performance-based religion and points to grace-based salvation.",
+    misunderstanding:
+      "A common misunderstanding is thinking eternal life is partly earned by better behavior. Romans 6:23 says life is God's gift, not human wages.",
+    takeaway:
+      "Use this verse to move from self-reliance to trust in Christ. Grace is received, then lived out through transformed choices.",
+    finalReflection:
+      "Romans 6:23 tells the truth about sin and the greater truth about God's gift in Christ.",
+    relatedSlugs: [
+      "romans-3-23-meaning",
+      "romans-10-9-meaning",
+      "romans-5-8-meaning",
+      "john-3-16-meaning",
+      "what-is-sin-in-the-bible",
+      "what-is-salvation-in-the-bible",
+      "what-is-grace-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does 'wages of sin' mean?",
+        answer:
+          "It means sin produces a deserved outcome: separation from God and death."
+      },
+      {
+        question: "Why does Paul call eternal life a gift?",
+        answer:
+          "To show that salvation is given by God's grace and not earned by human effort."
+      },
+      {
+        question: "How does Romans 6:23 connect to daily life?",
+        answer:
+          "It calls you to reject sin's path and live in gratitude for the life God gives through Christ."
+      },
+      {
+        question: "Is Romans 6:23 only for unbelievers?",
+        answer:
+          "It speaks to both: it calls unbelievers to receive Christ and reminds believers why grace matters daily."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
     slug: "john-3-36-meaning",
     title: "John 3:36 Meaning",
     seoTitle: "John 3:36 Meaning Explained Simply | Verse Explained",

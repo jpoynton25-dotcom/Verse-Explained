@@ -73,5 +73,15 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "who-was-moses-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "john-1-1-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "john-10-10-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
-  "john-16-33-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" }
+  "john-16-33-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "john-3-16-vs-john-3-17-explained": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "romans-6-23-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-overthinking": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-work-stress": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-decision-making": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-when-prayers-feel-unanswered": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "faith-vs-trust-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "grace-vs-mercy-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "justification-vs-sanctification-explained": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "what-is-forgiveness-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" }
 };

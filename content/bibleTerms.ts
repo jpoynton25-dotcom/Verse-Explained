@@ -360,6 +360,214 @@ export const bibleTermEntries: BibleTermEntry[] = [
   },
   {
     kind: "bible-term",
+    slug: "faith-vs-trust-in-the-bible",
+    title: "Faith vs Trust in the Bible",
+    seoTitle: "Faith vs Trust in the Bible: Key Difference Explained",
+    metaDescription:
+      "Learn the biblical difference between faith and trust, where they overlap, and how both shape daily Christian life.",
+    h1: "Faith vs trust in the Bible",
+    intro:
+      "Many Christians use faith and trust as if they are identical. They are closely related, but not exactly the same emphasis. This page answers common comparison intent around faith vs trust in the Bible with clear definitions, overlap, and practical application.",
+    definition:
+      "In biblical usage, faith emphasizes confidence in God's truth and character, while trust emphasizes reliance on God in specific situations and decisions.",
+    simpleMeaning:
+      "Faith is foundational confidence; trust is the lived expression of that confidence in real moments.",
+    context:
+      "Scripture presents both ideas together: believers are called to believe God's promises and actively depend on Him in circumstances that feel uncertain.",
+    deeperUnderstanding:
+      "Faith and trust are not competitors. Faith supplies conviction; trust applies that conviction when fear, delay, or pressure is present.",
+    commonMisunderstanding:
+      "A common misunderstanding is treating trust as optional once faith is stated. In Scripture, real faith produces ongoing trust in practice.",
+    relatedVerseRefs: ["Hebrews 11:1", "Proverbs 3:5-6", "Psalm 56:3", "Romans 10:17"],
+    takeaway:
+      "Grow both dimensions: deepen faith through Scripture, then practice trust through daily obedient choices.",
+    finalReflection:
+      "Biblical maturity looks like faith that confesses truth and trust that walks it out.",
+    relatedSlugs: [
+      "what-is-faith-in-the-bible",
+      "bible-verses-about-trusting-god",
+      "proverbs-3-5-6-meaning",
+      "isaiah-41-10-meaning",
+      "john-16-33-meaning",
+      "bible-verses-for-anxiety"
+    ],
+    intent: "informational",
+    faqs: [
+      {
+        question: "Are faith and trust the same word in the Bible?",
+        answer:
+          "They are closely connected ideas, but they can carry different emphasis depending on context: conviction versus practical reliance."
+      },
+      {
+        question: "Can someone have faith but struggle to trust?",
+        answer:
+          "Yes. Many believers affirm truth but still need growth in situational trust during pressure."
+      },
+      {
+        question: "How do I grow trust practically?",
+        answer:
+          "Choose one area of fear, pray over it with Scripture, and take one obedience step that reflects reliance on God."
+      }
+    ]
+  },
+  {
+    kind: "bible-term",
+    slug: "grace-vs-mercy-in-the-bible",
+    title: "Grace vs Mercy in the Bible",
+    seoTitle: "Grace vs Mercy in the Bible Explained Simply",
+    metaDescription:
+      "Understand grace vs mercy in the Bible with clear definitions, overlap, differences, and key verses in plain English.",
+    h1: "Grace vs mercy in the Bible",
+    intro:
+      "Grace and mercy are often used together, and for good reason. Both express God's kindness to sinners. But they are not identical terms. This comparison page helps clarify the difference without reducing either concept.",
+    definition:
+      "Mercy is God not giving the judgment we deserve. Grace is God giving the blessing and help we do not deserve.",
+    simpleMeaning:
+      "Mercy withholds deserved punishment; grace gives undeserved favor and strength.",
+    context:
+      "The New Testament frequently pairs grace and mercy in salvation language, showing that both are central to the gospel and the Christian life.",
+    deeperUnderstanding:
+      "These terms overlap in God's compassionate character, but their distinction helps readers understand the fullness of salvation: pardon plus provision.",
+    commonMisunderstanding:
+      "A common misunderstanding is reducing grace and mercy to emotional comfort words. Scripture treats them as concrete redemptive realities in Christ.",
+    relatedVerseRefs: ["Ephesians 2:4-5", "Titus 3:5", "Hebrews 4:16", "Romans 5:8"],
+    takeaway:
+      "Let this distinction deepen gratitude: God forgives what you deserve and provides what you could never earn.",
+    finalReflection:
+      "Grace and mercy together show the depth of God's saving love.",
+    relatedSlugs: [
+      "what-is-grace-in-the-bible",
+      "what-is-forgiveness-in-the-bible",
+      "romans-5-8-meaning",
+      "romans-6-23-meaning",
+      "john-3-16-meaning",
+      "bible-verses-for-forgiveness"
+    ],
+    intent: "informational",
+    faqs: [
+      {
+        question: "What is the shortest way to remember grace vs mercy?",
+        answer:
+          "Mercy is not getting what you deserve; grace is getting what you do not deserve."
+      },
+      {
+        question: "Do believers need both grace and mercy daily?",
+        answer:
+          "Yes. Christians continually rely on mercy for failures and grace for ongoing strength and growth."
+      },
+      {
+        question: "Where do grace and mercy meet most clearly?",
+        answer:
+          "At the cross, where judgment is addressed and salvation is offered freely in Christ."
+      }
+    ]
+  },
+  {
+    kind: "bible-term",
+    slug: "justification-vs-sanctification-explained",
+    title: "Justification vs Sanctification Explained",
+    seoTitle: "Justification vs Sanctification Explained Simply",
+    metaDescription:
+      "Learn the biblical difference between justification and sanctification with clear definitions, examples, and key supporting verses.",
+    h1: "Justification vs sanctification explained simply",
+    intro:
+      "Many believers confuse justification and sanctification, which leads to fear, pride, or burnout. This page gives a clear side-by-side explanation so you can understand salvation and spiritual growth in biblical order.",
+    definition:
+      "Justification is God's once-for-all declaration that a believer is righteous in Christ. Sanctification is God's ongoing work of making that believer more like Christ.",
+    simpleMeaning:
+      "Justification changes your standing before God; sanctification changes your daily character over time.",
+    context:
+      "Paul's letters consistently hold both truths together: believers are justified by faith and then called to grow in holiness through the Spirit.",
+    deeperUnderstanding:
+      "Confusing these terms creates either legalism or passivity. Distinguishing them protects grace and strengthens practical obedience.",
+    commonMisunderstanding:
+      "A common misunderstanding is thinking sanctification is how you keep yourself justified. Scripture teaches growth flows from accepted status, not toward earning accepted status.",
+    relatedVerseRefs: ["Romans 5:1", "Romans 12:2", "Philippians 2:12-13", "1 Thessalonians 4:3"],
+    takeaway:
+      "Rest in justification, then pursue sanctification with gratitude, repentance, and consistency.",
+    finalReflection:
+      "The gospel is both declaration and transformation: accepted in Christ, then changed by Christ.",
+    relatedSlugs: [
+      "what-is-justification-in-the-bible",
+      "what-is-sanctification-in-the-bible",
+      "what-is-righteousness-in-the-bible",
+      "romans-5-8-meaning",
+      "romans-6-23-meaning",
+      "bible-verses-for-guidance"
+    ],
+    intent: "informational",
+    faqs: [
+      {
+        question: "Is justification a process?",
+        answer:
+          "No. In biblical theology, justification is a decisive declaration received by faith."
+      },
+      {
+        question: "Is sanctification instant?",
+        answer:
+          "Sanctification is primarily progressive and unfolds over time through God's work and daily obedience."
+      },
+      {
+        question: "Why does this distinction matter?",
+        answer:
+          "It protects assurance in Christ and prevents performance-driven spirituality."
+      }
+    ]
+  },
+  {
+    kind: "bible-term",
+    slug: "what-is-forgiveness-in-the-bible",
+    title: "What Is Forgiveness in the Bible",
+    seoTitle: "What Is Forgiveness in the Bible? Clear Meaning",
+    metaDescription:
+      "Understand biblical forgiveness with simple definition, context, key verses, and practical application for real relationships.",
+    h1: "What is forgiveness in the Bible?",
+    intro:
+      "Forgiveness is central to Christian faith and also one of the hardest practices in real life. This page explains biblical forgiveness clearly: what it is, what it is not, and how to live it faithfully.",
+    definition:
+      "Biblical forgiveness is releasing personal vengeance and extending mercy because God has forgiven us in Christ.",
+    simpleMeaning:
+      "Forgiveness is not pretending harm did not happen. It is choosing to surrender revenge and seek God's way forward.",
+    context:
+      "The Bible grounds horizontal forgiveness in vertical forgiveness: we forgive because we have first been forgiven by God.",
+    deeperUnderstanding:
+      "Forgiveness can be immediate as a heart decision, while trust and reconciliation may require time, wisdom, and boundaries.",
+    commonMisunderstanding:
+      "A common misunderstanding is that forgiveness always means instant reconciliation. Scripture allows for wisdom, safety, and gradual restoration where needed.",
+    relatedVerseRefs: ["Ephesians 4:32", "Colossians 3:13", "Matthew 6:14-15", "1 John 1:9"],
+    takeaway:
+      "Forgiveness is costly but freeing. It releases bitterness and aligns your heart with God's mercy.",
+    finalReflection:
+      "Biblical forgiveness is not weakness; it is grace-shaped strength.",
+    relatedSlugs: [
+      "what-is-grace-in-the-bible",
+      "what-is-repentance-in-the-bible",
+      "grace-vs-mercy-in-the-bible",
+      "bible-verses-for-forgiveness",
+      "bible-verses-about-love-and-marriage",
+      "romans-5-8-meaning"
+    ],
+    intent: "informational",
+    faqs: [
+      {
+        question: "Is forgiveness the same as trusting someone again?",
+        answer:
+          "No. Forgiveness can be immediate in heart posture, while trust may be rebuilt slowly with evidence of change."
+      },
+      {
+        question: "Does forgiveness ignore justice?",
+        answer:
+          "No. Biblical forgiveness releases personal vengeance while still allowing wise boundaries and proper justice."
+      },
+      {
+        question: "How can I begin forgiving someone who hurt me deeply?",
+        answer:
+          "Start by naming the hurt honestly to God, asking for grace, and choosing to release revenge step by step."
+      }
+    ]
+  },
+  {
+    kind: "bible-term",
     slug: "what-is-sanctification-in-the-bible",
     title: "What Is Sanctification in the Bible",
     seoTitle: "What Is Sanctification in the Bible? Clear Guide",

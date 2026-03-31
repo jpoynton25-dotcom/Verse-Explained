@@ -85,6 +85,8 @@ export const hubPageData: Record<string, HubPageData> = {
           "john-14-6-meaning",
           "john-19-30-meaning",
           "john-3-36-meaning",
+          "john-3-16-vs-john-3-17-explained",
+          "romans-6-23-meaning",
           "romans-10-9-meaning",
           "john-3-16-meaning",
           "john-3-17-meaning"
@@ -161,6 +163,7 @@ export const hubPageData: Record<string, HubPageData> = {
         slugs: [
           "bible-verses-for-fear",
           "bible-verses-for-anxiety",
+          "bible-verses-for-overthinking",
           "bible-verses-for-peace",
           "bible-verses-for-grief",
           "bible-verses-for-depression",
@@ -170,7 +173,15 @@ export const hubPageData: Record<string, HubPageData> = {
       {
         heading: "Strength and encouragement",
         description: "Verses for resilience, courage, and daily encouragement.",
-        slugs: ["bible-verses-for-strength", "encouraging-bible-verses", "bible-verses-for-hope", "bible-verses-for-guidance"]
+        slugs: [
+          "bible-verses-for-strength",
+          "encouraging-bible-verses",
+          "bible-verses-for-hope",
+          "bible-verses-for-guidance",
+          "bible-verses-for-work-stress",
+          "bible-verses-for-decision-making",
+          "bible-verses-for-when-prayers-feel-unanswered"
+        ]
       },
       {
         heading: "Healing and restoration",
@@ -315,7 +326,7 @@ export const hubPageData: Record<string, HubPageData> = {
     summary:
       "If a verse feels unclear, the missing piece is often vocabulary. Learn core terms first, then revisit verse meaning pages with clearer understanding.",
     sectionHeadings: ["Start here", "Core terms", "Frequently asked questions"],
-    startHereSlugs: ["what-is-faith-in-the-bible", "what-is-grace-in-the-bible"],
+    startHereSlugs: ["what-is-faith-in-the-bible", "what-is-grace-in-the-bible", "what-is-forgiveness-in-the-bible"],
     childGroups: [
       {
         heading: "Foundational terms",
@@ -324,10 +335,15 @@ export const hubPageData: Record<string, HubPageData> = {
           "what-is-faith-in-the-bible",
           "what-is-grace-in-the-bible",
           "what-is-sin-in-the-bible",
+          "what-is-forgiveness-in-the-bible",
           "what-is-salvation-in-the-bible",
           "what-is-repentance-in-the-bible",
           "what-is-righteousness-in-the-bible",
           "what-is-justification-in-the-bible",
+          "what-is-sanctification-in-the-bible",
+          "faith-vs-trust-in-the-bible",
+          "grace-vs-mercy-in-the-bible",
+          "justification-vs-sanctification-explained",
           "what-is-the-sermon-on-the-mount"
         ]
       }
