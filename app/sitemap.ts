@@ -9,6 +9,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/verse-meanings",
     "/verses-by-need",
     "/daily-verse",
+    "/all-pages",
     "/bible-terms",
     "/bible-people-places"
   ];

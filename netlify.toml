@@ -1,5 +1,17 @@
 [[redirects]]
+  from = "http://www.verseexplained.com/*"
+  to = "https://verseexplained.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "https://www.verseexplained.com/*"
+  to = "https://verseexplained.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://verseexplained.com/*"
   to = "https://verseexplained.com/:splat"
   status = 301
   force = true

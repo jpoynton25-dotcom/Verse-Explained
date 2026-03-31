@@ -31,6 +31,11 @@ export const Footer = () => {
                   </Link>
                 </li>
               ))}
+              <li>
+                <Link href="/all-pages" className="hover:text-accent">
+                  All Pages
+                </Link>
+              </li>
             </ul>
           </div>
 
