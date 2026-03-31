@@ -2108,5 +2108,642 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
           "Yes. Biblical hope is not constant emotional positivity. It is ongoing trust in God's character while you process real discouragement."
       }
     ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-worry",
+    title: "Bible Verses for Worry",
+    seoTitle: "Bible Verses for Worry and Constant Concern",
+    metaDescription:
+      "Find Bible verses for worry with practical help for ongoing concerns, mental loops, and daily trust in God's care.",
+    h1: "Bible verses for worry",
+    intro:
+      "Bible verses for worry are most helpful when your mind is stuck in ongoing concern about everyday life, future outcomes, or people you love. This page is focused on chronic worry patterns, which is narrower than a broad anxiety hub and different from panic-attack moments. If you are searching scripture for worry, these passages are selected to help you replace constant concern with prayer, trust, and practical next steps.",
+    context:
+      "Scripture repeatedly addresses worry by redirecting attention from uncertain outcomes to God's character, provision, and present care.",
+    deeperUnderstanding:
+      "Worry often grows from trying to secure tomorrow in your own strength. Biblical peace grows as you release control, bring concerns to God, and obey faithfully in what you can do today.",
+    commonMisunderstanding:
+      "A common misunderstanding is that faithful Christians never worry. The Bible's pattern is honest concern transformed through prayer, trust, and renewed thinking.",
+    practicalSummary:
+      "Use this simple pattern: name the worry, pray it specifically, choose one faithful action, and stop replaying outcomes you cannot control.",
+    takeaway:
+      "Worry loses power when your focus moves from imagined outcomes to God's daily faithfulness.",
+    finalReflection:
+      "God does not ask you to deny concern; He invites you to hand it over and walk in trust one day at a time.",
+    relatedSlugs: [
+      "bible-verses-for-anxiety",
+      "bible-verses-for-overthinking",
+      "bible-verses-for-panic-attacks",
+      "bible-verses-for-financial-stress",
+      "philippians-4-6-7-meaning",
+      "matthew-11-28-meaning",
+      "proverbs-3-5-6-meaning",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When everyday concerns keep replaying",
+        items: [
+          {
+            reference: "Matthew 6:34",
+            text: "Therefore do not worry about tomorrow, for tomorrow will worry about itself.",
+            explanation: "Jesus redirects worry from imagined futures to today's faithful responsibilities."
+          },
+          {
+            reference: "Philippians 4:6-7",
+            text: "Do not be anxious about anything... and the peace of God... will guard your hearts and your minds.",
+            explanation: "Turn recurring worry into specific prayer requests and receive guarded peace.",
+            verseMeaningSlug: "philippians-4-6-7-meaning"
+          }
+        ]
+      },
+      {
+        heading: "When worry is tied to uncertainty",
+        items: [
+          {
+            reference: "Proverbs 3:5-6",
+            text: "Trust in the Lord with all your heart... and he will make your paths straight.",
+            explanation: "Trust becomes practical when direction is unclear and outcomes feel unstable.",
+            verseMeaningSlug: "proverbs-3-5-6-meaning"
+          },
+          {
+            reference: "Isaiah 26:3",
+            text: "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+            explanation: "Steady peace grows through repeated trust, not constant mental control."
+          }
+        ]
+      },
+      {
+        heading: "When you need reassurance of God's care",
+        items: [
+          {
+            reference: "1 Peter 5:7",
+            text: "Cast all your anxiety on him because he cares for you.",
+            explanation: "God's care is personal, so worry can be handed over rather than hidden."
+          },
+          {
+            reference: "Matthew 11:28",
+            text: "Come to me, all you who are weary and burdened, and I will give you rest.",
+            explanation: "Jesus offers rest for burdens that worry has made heavy.",
+            verseMeaningSlug: "matthew-11-28-meaning"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How is this page different from Bible verses for anxiety?",
+        answer:
+          "This page focuses on ongoing worry loops and daily concerns, while the anxiety page is broader and includes wider emotional patterns."
+      },
+      {
+        question: "What is a strong Bible verse for constant worry?",
+        answer:
+          "Philippians 4:6-7 is a strong starting point because it directly links worry to prayer and peace."
+      },
+      {
+        question: "Can prayer really help with persistent worry?",
+        answer:
+          "Yes. Scripture presents prayer as a practical way to transfer concern to God and reset your mind toward trust."
+      },
+      {
+        question: "What should I do after reading these verses?",
+        answer:
+          "Write one specific worry, pray it clearly, then take one concrete next step instead of continuing mental replay."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-panic-attacks",
+    title: "Bible Verses for Panic Attacks",
+    seoTitle: "Bible Verses for Panic Attacks and Acute Fear",
+    metaDescription:
+      "Read Bible verses for panic attacks with grounding scripture for sudden fear, racing heart moments, and regaining calm in God.",
+    h1: "Bible verses for panic attacks",
+    intro:
+      "Bible verses for panic attacks are most useful during acute fear moments when your body and thoughts feel out of control. This page is not a general anxiety list. It is specifically built for sudden panic episodes, immediate calming, and short prayer focus when thinking clearly is difficult. If you are searching scripture for panic attacks, these passages are selected to help you breathe, anchor, and re-center on God's presence.",
+    context:
+      "Scripture acknowledges sudden fear and teaches believers to turn quickly toward God for refuge, help, and steadiness.",
+    deeperUnderstanding:
+      "Panic moments often involve both body alarm and thought spirals. Bible verses do not deny physical symptoms; they provide immediate truth anchors that reduce fear's control and restore perspective.",
+    commonMisunderstanding:
+      "A common misunderstanding is that panic means weak faith. Many faithful believers experience intense fear responses and still grow through practical dependence on God.",
+    practicalSummary:
+      "In a panic spike: slow your breathing, read one short verse out loud, pray one sentence, and focus on one next safe action.",
+    takeaway:
+      "Acute fear does not have the final word. God is present in the moment and can steady you one breath at a time.",
+    finalReflection:
+      "When panic rises fast, God's truth can become your immediate anchor before your emotions fully settle.",
+    relatedSlugs: [
+      "bible-verses-for-anxiety",
+      "bible-verses-for-fear",
+      "bible-verses-for-worry",
+      "bible-verses-for-peace",
+      "psalm-46-10-meaning",
+      "isaiah-41-10-meaning",
+      "romans-8-1-meaning",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When panic starts suddenly",
+        items: [
+          {
+            reference: "Psalm 56:3",
+            text: "When I am afraid, I put my trust in you.",
+            explanation: "A short verse for immediate fear moments when you need quick redirection."
+          },
+          {
+            reference: "Isaiah 41:10",
+            text: "Do not fear, for I am with you... I will strengthen you and help you.",
+            explanation: "God's nearness and help are central when panic says you are alone.",
+            verseMeaningSlug: "isaiah-41-10-meaning"
+          }
+        ]
+      },
+      {
+        heading: "When your mind is spiraling",
+        items: [
+          {
+            reference: "Psalm 46:10",
+            text: "Be still, and know that I am God.",
+            explanation: "Stillness plus truth slows panic urgency and restores perspective.",
+            verseMeaningSlug: "psalm-46-10-meaning"
+          },
+          {
+            reference: "2 Timothy 1:7",
+            text: "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
+            explanation: "This verse helps counter the feeling that fear owns your identity."
+          }
+        ]
+      },
+      {
+        heading: "When panic leaves you exhausted afterward",
+        items: [
+          {
+            reference: "Matthew 11:28",
+            text: "Come to me, all you who are weary and burdened, and I will give you rest.",
+            explanation: "Jesus meets you after fear surges with real invitation to rest.",
+            verseMeaningSlug: "matthew-11-28-meaning"
+          },
+          {
+            reference: "Romans 8:1",
+            text: "There is now no condemnation for those who are in Christ Jesus.",
+            explanation: "After panic, this verse helps remove shame and restore assurance.",
+            verseMeaningSlug: "romans-8-1-meaning"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How is this different from a general anxiety page?",
+        answer:
+          "This page is specifically for acute panic episodes and immediate grounding, while anxiety pages cover broader long-term patterns."
+      },
+      {
+        question: "What short verse can I use during a panic attack?",
+        answer:
+          "Psalm 56:3 is especially useful because it is brief, direct, and easy to repeat in the moment."
+      },
+      {
+        question: "Can I use these verses with practical care steps?",
+        answer:
+          "Yes. Scripture, breathing, trusted support, and wise care can work together to help you stabilize."
+      },
+      {
+        question: "What do I do after panic subsides?",
+        answer:
+          "Pray briefly, review what triggered the episode, and use one verse as your anchor for the next similar moment."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-burnout",
+    title: "Bible Verses for Burnout",
+    seoTitle: "Bible Verses for Burnout and Exhaustion",
+    metaDescription:
+      "Find Bible verses for burnout with practical scripture for exhaustion, emotional depletion, and renewed strength in Christ.",
+    h1: "Bible verses for burnout",
+    intro:
+      "Bible verses for burnout speak to seasons when you feel emotionally depleted, physically tired, and spiritually dry from carrying too much for too long. This page is focused on burnout and weariness, not short-term stress spikes. If you are searching scripture for exhaustion or verses for emotional fatigue, these passages are chosen to help you rest, recover, and rebuild strength with God.",
+    context:
+      "The Bible acknowledges weariness and offers both rest and renewal. God cares about sustainable faithfulness, not nonstop self-powered output.",
+    deeperUnderstanding:
+      "Burnout often comes from overextension, blurred limits, and identity tied to performance. Scripture restores a healthier rhythm: receive from God first, then serve from renewed strength.",
+    commonMisunderstanding:
+      "A common misunderstanding is that burnout proves spiritual failure. Often it is a signal that limits, rest, and renewed dependence are needed.",
+    practicalSummary:
+      "Build a recovery rhythm: daily rest with Scripture, honest prayer about limits, and one sustainable step instead of overcommitting again.",
+    takeaway:
+      "Lasting strength grows when you stop living on empty and learn to receive Christ's rest and renewal.",
+    finalReflection:
+      "God does not demand frantic output. He calls you to abiding faithfulness that can endure.",
+    relatedSlugs: [
+      "bible-verses-for-strength",
+      "bible-verses-for-work-stress",
+      "bible-verses-for-feeling-lost-in-life",
+      "bible-verses-for-worry",
+      "matthew-11-28-meaning",
+      "isaiah-40-31-meaning",
+      "john-15-5-meaning",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When you are completely worn out",
+        items: [
+          {
+            reference: "Matthew 11:28",
+            text: "Come to me, all you who are weary and burdened, and I will give you rest.",
+            explanation: "Jesus addresses exhaustion directly and invites burdened people to receive rest.",
+            verseMeaningSlug: "matthew-11-28-meaning"
+          },
+          {
+            reference: "Psalm 23:1-3",
+            text: "The Lord is my shepherd... he refreshes my soul.",
+            explanation: "God restores inner life when burnout has drained motivation and joy.",
+            verseMeaningSlug: "psalm-23-meaning"
+          }
+        ]
+      },
+      {
+        heading: "When your strength feels gone",
+        items: [
+          {
+            reference: "Isaiah 40:31",
+            text: "Those who hope in the Lord will renew their strength.",
+            explanation: "Renewal comes through hopeful dependence, not relentless self-pressure.",
+            verseMeaningSlug: "isaiah-40-31-meaning"
+          },
+          {
+            reference: "2 Corinthians 12:9",
+            text: "My grace is sufficient for you, for my power is made perfect in weakness.",
+            explanation: "God meets human weakness with sufficient grace for each day."
+          }
+        ]
+      },
+      {
+        heading: "When you need sustainable fruit, not constant strain",
+        items: [
+          {
+            reference: "John 15:5",
+            text: "If you remain in me... you will bear much fruit; apart from me you can do nothing.",
+            explanation: "Abiding in Christ keeps service fruitful without destructive self-reliance.",
+            verseMeaningSlug: "john-15-5-meaning"
+          },
+          {
+            reference: "Galatians 6:9",
+            text: "Let us not become weary in doing good, for at the proper time we will reap a harvest.",
+            explanation: "Faithful perseverance matters, but it must be sustained through God's strength."
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "How is burnout different from work stress?",
+        answer:
+          "Burnout is deeper and longer-term, involving exhaustion, depletion, and reduced capacity, not just short-term pressure."
+      },
+      {
+        question: "What is the best verse to start with when burned out?",
+        answer:
+          "Matthew 11:28 is a strong first verse because Jesus directly invites the weary to come and receive rest."
+      },
+      {
+        question: "Can setting limits be biblical?",
+        answer:
+          "Yes. Scripture supports wisdom, stewardship, and rhythms of rest so that service remains healthy and faithful."
+      },
+      {
+        question: "What should I do this week if I am burned out?",
+        answer:
+          "Choose one sustainable rhythm: daily prayer, reduced overload, and one realistic commitment aligned with your current strength."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-family-problems",
+    title: "Bible Verses for Family Problems",
+    seoTitle: "Bible Verses for Family Problems and Conflict",
+    metaDescription:
+      "Read Bible verses for family problems with guidance for conflict, forgiveness, peace, wisdom, and healing in relationships.",
+    h1: "Bible verses for family problems",
+    intro:
+      "Bible verses for family problems are helpful when conflict, tension, and relational wounds make home life heavy. This page focuses on family strain specifically: communication breakdown, repeated arguments, hurt, and the need for healing. If you are searching scripture for family conflict or Bible verses for difficult family relationships, these passages are selected to guide peace, forgiveness, and wise action.",
+    context:
+      "The Bible treats family relationships seriously by calling for truth, patience, forgiveness, humility, and peacemaking.",
+    deeperUnderstanding:
+      "Family healing usually happens through repeated small choices: listening before reacting, speaking truth with gentleness, setting healthy boundaries, and extending forgiveness over time.",
+    commonMisunderstanding:
+      "A common misunderstanding is that one conversation fixes long-standing conflict. Scripture points to patient, ongoing peacemaking shaped by grace and wisdom.",
+    practicalSummary:
+      "Use this rhythm in conflict: pause, pray one verse, choose calm words, seek understanding, and take one reconciliation step you can control.",
+    takeaway:
+      "God's wisdom helps families move from reactive conflict toward patient healing and peace.",
+    finalReflection:
+      "Even strained relationships can change when grace, truth, and humility are practiced consistently.",
+    relatedSlugs: [
+      "bible-verses-for-forgiveness",
+      "bible-verses-about-love-and-marriage",
+      "bible-verses-for-peace",
+      "bible-verses-for-burnout",
+      "bible-verses-for-financial-stress",
+      "romans-5-8-meaning",
+      "proverbs-3-5-6-meaning",
+      "what-is-grace-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When conflict keeps repeating",
+        items: [
+          {
+            reference: "James 1:19",
+            text: "Everyone should be quick to listen, slow to speak and slow to become angry.",
+            explanation: "This verse gives practical communication guardrails for heated family moments."
+          },
+          {
+            reference: "Proverbs 15:1",
+            text: "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+            explanation: "Tone and timing can either escalate conflict or create room for peace."
+          }
+        ]
+      },
+      {
+        heading: "When forgiveness feels difficult",
+        items: [
+          {
+            reference: "Ephesians 4:32",
+            text: "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+            explanation: "Family restoration often requires grace-filled forgiveness, not scorekeeping."
+          },
+          {
+            reference: "Romans 5:8",
+            text: "While we were still sinners, Christ died for us.",
+            explanation: "Christ's initiating love helps us move toward reconciliation before others deserve it.",
+            verseMeaningSlug: "romans-5-8-meaning"
+          }
+        ]
+      },
+      {
+        heading: "When your family needs direction and peace",
+        items: [
+          {
+            reference: "Colossians 3:13-14",
+            text: "Bear with each other and forgive one another... And over all these virtues put on love.",
+            explanation: "Love and patience hold relationships together through imperfect seasons."
+          },
+          {
+            reference: "Proverbs 3:5-6",
+            text: "Trust in the Lord... and he will make your paths straight.",
+            explanation: "God's wisdom helps families make better decisions in tense situations.",
+            verseMeaningSlug: "proverbs-3-5-6-meaning"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is a good Bible verse for family conflict?",
+        answer:
+          "James 1:19 is a strong first verse because it gives immediate guidance for listening and emotional control."
+      },
+      {
+        question: "Does forgiveness mean ignoring harmful patterns?",
+        answer:
+          "No. Biblical forgiveness and wise boundaries can exist together when safety and truth are needed."
+      },
+      {
+        question: "How can I bring peace when others are not ready?",
+        answer:
+          "You can still control your tone, your prayers, and your responses while trusting God with outcomes."
+      },
+      {
+        question: "Can these verses help with extended family tension too?",
+        answer:
+          "Yes. The principles of wisdom, humility, forgiveness, and peace apply across family relationships."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-financial-stress",
+    title: "Bible Verses for Financial Stress",
+    seoTitle: "Bible Verses for Financial Stress and Money Worry",
+    metaDescription:
+      "Find Bible verses for financial stress with practical help for money worry, provision, contentment, and wise decisions.",
+    h1: "Bible verses for financial stress",
+    intro:
+      "Bible verses for financial stress are for seasons when money pressure affects your peace, decisions, and sense of security. This page focuses on financial worry specifically: bills, debt pressure, uncertain income, and fear about provision. If you are searching scripture for money stress or verses about God providing, these passages are selected to help you respond with trust, wisdom, and practical faith.",
+    context:
+      "Scripture speaks directly to provision, contentment, stewardship, generosity, and fear about material needs.",
+    deeperUnderstanding:
+      "Financial stress often mixes real responsibility with fear-based predictions. The Bible does not ignore planning; it calls for wise stewardship anchored in trust rather than panic.",
+    commonMisunderstanding:
+      "A common misunderstanding is that faith removes financial pressure immediately. Scripture usually gives peace, wisdom, and endurance while you take responsible steps.",
+    practicalSummary:
+      "Use this money-stress routine: pray first, review your next practical financial step, and resist fear-driven decisions made in urgency.",
+    takeaway:
+      "Godly peace in financial strain comes through trust, wise planning, and contentment shaped by God's care.",
+    finalReflection:
+      "God sees financial pressure clearly and meets you with provision, wisdom, and stability for each next step.",
+    relatedSlugs: [
+      "bible-verses-about-trusting-god",
+      "bible-verses-for-guidance",
+      "bible-verses-for-worry",
+      "bible-verses-for-family-problems",
+      "proverbs-3-5-6-meaning",
+      "psalm-23-meaning",
+      "romans-1-16-meaning",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When money worries feel overwhelming",
+        items: [
+          {
+            reference: "Philippians 4:19",
+            text: "And my God will meet all your needs according to the riches of his glory in Christ Jesus.",
+            explanation: "God's provision is a foundation for trust when resources feel limited."
+          },
+          {
+            reference: "Matthew 6:31-33",
+            text: "Do not worry, saying, 'What shall we eat?'... seek first his kingdom.",
+            explanation: "Jesus addresses financial worry by reordering priorities and trust."
+          }
+        ]
+      },
+      {
+        heading: "When you need wisdom for decisions",
+        items: [
+          {
+            reference: "Proverbs 3:5-6",
+            text: "Trust in the Lord... and he will make your paths straight.",
+            explanation: "Financial decisions need both trust in God and careful direction.",
+            verseMeaningSlug: "proverbs-3-5-6-meaning"
+          },
+          {
+            reference: "James 1:5",
+            text: "If any of you lacks wisdom, you should ask God...",
+            explanation: "God invites practical prayer for budgeting, planning, and timing."
+          }
+        ]
+      },
+      {
+        heading: "When fear about provision is constant",
+        items: [
+          {
+            reference: "Psalm 23:1",
+            text: "The Lord is my shepherd, I lack nothing.",
+            explanation: "God's shepherd care reframes scarcity fear with daily trust.",
+            verseMeaningSlug: "psalm-23-meaning"
+          },
+          {
+            reference: "Hebrews 13:5",
+            text: "Keep your lives free from the love of money... because God has said, 'Never will I leave you.'",
+            explanation: "Security is rooted in God's presence, not only in account balance."
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is a strong Bible verse for money stress?",
+        answer:
+          "Matthew 6:31-33 is a strong starting point because Jesus directly addresses worry about material needs."
+      },
+      {
+        question: "Does trusting God mean avoiding financial planning?",
+        answer:
+          "No. Biblical trust includes wise stewardship, planning, and responsible action alongside prayer."
+      },
+      {
+        question: "How can I use Scripture during financial pressure?",
+        answer:
+          "Read one verse before financial decisions, pray specifically, then take one wise action rather than panic-reacting."
+      },
+      {
+        question: "Can I pray for practical provision and still pursue work?",
+        answer:
+          "Yes. Scripture supports both dependence on God and diligent, wise effort in daily responsibilities."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
+    slug: "bible-verses-for-feeling-lost-in-life",
+    title: "Bible Verses for Feeling Lost in Life",
+    seoTitle: "Bible Verses for Feeling Lost in Life | Direction",
+    metaDescription:
+      "Find Bible verses for feeling lost in life with guidance for uncertainty, purpose, direction, and trusting God in confusion.",
+    h1: "Bible verses for feeling lost in life",
+    intro:
+      "Bible verses for feeling lost in life are for moments when direction is unclear and you are unsure what comes next. This page focuses on confusion, uncertainty, and purpose questions, not only fear or stress. If you are searching scripture for when you feel lost, these passages are selected to help you seek God's direction, regain clarity, and take faithful next steps.",
+    context:
+      "Scripture often guides people through uncertainty by giving light for the next step rather than a complete long-term map.",
+    deeperUnderstanding:
+      "Feeling lost is often a mix of identity questions, delayed answers, and fear of choosing wrong. The Bible responds by grounding identity in God, clarifying priorities, and encouraging trust-filled obedience.",
+    commonMisunderstanding:
+      "A common misunderstanding is waiting for total certainty before moving. Biblical guidance is often progressive, given as you walk in faith.",
+    practicalSummary:
+      "When you feel lost: pray for wisdom, anchor in one clear verse, seek counsel, and take one obedient next step this week.",
+    takeaway:
+      "Direction often comes through faithful movement with God, not passive waiting for perfect certainty.",
+    finalReflection:
+      "You may not see the full road yet, but God can still lead you clearly in the next step.",
+    relatedSlugs: [
+      "bible-verses-for-guidance",
+      "bible-verses-for-decision-making",
+      "bible-verses-for-burnout",
+      "bible-verses-for-worry",
+      "john-14-6-meaning",
+      "jeremiah-29-11-meaning",
+      "proverbs-3-5-6-meaning",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "When you need direction",
+        items: [
+          {
+            reference: "Proverbs 3:5-6",
+            text: "Trust in the Lord with all your heart... and he will make your paths straight.",
+            explanation: "This verse helps when you need direction but cannot see the full picture.",
+            verseMeaningSlug: "proverbs-3-5-6-meaning"
+          },
+          {
+            reference: "Psalm 119:105",
+            text: "Your word is a lamp for my feet, a light on my path.",
+            explanation: "God often gives guidance for the next step, not every future detail."
+          }
+        ]
+      },
+      {
+        heading: "When your sense of purpose feels unclear",
+        items: [
+          {
+            reference: "Jeremiah 29:11",
+            text: "Plans to give you hope and a future.",
+            explanation: "God's purposes remain trustworthy even in uncertain seasons.",
+            verseMeaningSlug: "jeremiah-29-11-meaning"
+          },
+          {
+            reference: "Ephesians 2:10",
+            text: "For we are God's handiwork, created in Christ Jesus to do good works...",
+            explanation: "Purpose is rooted in identity and calling, not only in career outcomes."
+          }
+        ]
+      },
+      {
+        heading: "When confusion triggers fear",
+        items: [
+          {
+            reference: "John 14:6",
+            text: "I am the way and the truth and the life.",
+            explanation: "When direction is unclear, Jesus Himself is the way you follow first.",
+            verseMeaningSlug: "john-14-6-meaning"
+          },
+          {
+            reference: "Isaiah 41:10",
+            text: "Do not fear, for I am with you... I will strengthen you and help you.",
+            explanation: "God's presence brings courage when uncertainty feels heavy.",
+            verseMeaningSlug: "isaiah-41-10-meaning"
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is a good Bible verse when I feel lost?",
+        answer:
+          "Proverbs 3:5-6 is a strong starting verse because it connects trust, submission, and practical direction."
+      },
+      {
+        question: "How is this page different from guidance pages?",
+        answer:
+          "This page focuses on identity-and-direction confusion specifically, while broader guidance pages cover a wider range of decision needs."
+      },
+      {
+        question: "What if I still feel uncertain after praying?",
+        answer:
+          "Keep a steady rhythm of Scripture, counsel, and one faithful next action. Clarity often increases during obedience."
+      },
+      {
+        question: "Can God guide me even after wrong choices?",
+        answer:
+          "Yes. Scripture shows that God can redeem missteps and continue leading people who return to Him with humility."
+      }
+    ]
   }
 ];

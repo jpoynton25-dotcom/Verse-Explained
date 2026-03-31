@@ -1262,5 +1262,155 @@ export const pageDataBySlug: Record<string, PageData> = {
       section: "Bible Terms",
       keywords: ["what is forgiveness in the bible", "biblical forgiveness", "christian forgiveness"]
     }
+  },
+  "john-6-35-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 6:35 meaning",
+    secondaryKeywords: ["john 6:35 explained", "bread of life meaning", "john 6:35 context", "jesus satisfies soul verse"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 6:35 Meaning", href: "/john-6-35-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 6:35 meaning", "bread of life", "spiritual satisfaction in christ"]
+    }
+  },
+  "john-15-5-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 15:5 meaning",
+    secondaryKeywords: ["john 15:5 explained", "abide in me meaning", "john 15:5 context", "vine and branches meaning"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 15:5 Meaning", href: "/john-15-5-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 15:5 meaning", "abide in christ", "vine and branches"]
+    }
+  },
+  "romans-1-16-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "romans 1:16 meaning",
+    secondaryKeywords: ["romans 1:16 explained", "not ashamed of the gospel meaning", "romans 1:16 context", "gospel power verse"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Romans 1:16 Meaning", href: "/romans-1-16-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["romans 1:16 meaning", "not ashamed of the gospel", "gospel power"]
+    }
+  },
+  "romans-8-1-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "romans 8:1 meaning",
+    secondaryKeywords: ["romans 8:1 explained", "no condemnation meaning", "romans 8:1 context", "freedom in christ verse"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Romans 8:1 Meaning", href: "/romans-8-1-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["romans 8:1 meaning", "no condemnation in christ", "assurance and grace"]
+    }
+  },
+  "bible-verses-for-worry": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for worry",
+    secondaryKeywords: ["scripture for worry", "verses for constant concern", "bible verses for worrying mind", "god cares for your worries verse"],
+    sectionHeadings: ["Search-intent intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Worry", href: "/bible-verses-for-worry" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for worry", "scripture for worry", "constant concern bible help"]
+    }
+  },
+  "bible-verses-for-panic-attacks": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for panic attacks",
+    secondaryKeywords: ["scripture for panic attacks", "verses for sudden fear", "calming bible verses for panic", "god help in panic moments"],
+    sectionHeadings: ["Search-intent intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Panic Attacks", href: "/bible-verses-for-panic-attacks" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for panic attacks", "acute fear scripture", "panic grounding verses"]
+    }
+  },
+  "bible-verses-for-burnout": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for burnout",
+    secondaryKeywords: ["scripture for burnout", "verses for exhaustion", "bible verses for emotional fatigue", "rest in god scriptures"],
+    sectionHeadings: ["Search-intent intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Burnout", href: "/bible-verses-for-burnout" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for burnout", "exhaustion scripture", "renewed strength in god"]
+    }
+  },
+  "bible-verses-for-family-problems": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for family problems",
+    secondaryKeywords: ["scripture for family conflict", "verses for difficult family relationships", "peace in family bible verses", "bible for family healing"],
+    sectionHeadings: ["Search-intent intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Family Problems", href: "/bible-verses-for-family-problems" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for family problems", "family conflict scripture", "family healing verses"]
+    }
+  },
+  "bible-verses-for-financial-stress": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for financial stress",
+    secondaryKeywords: ["scripture for money stress", "verses for provision", "bible verses about money worry", "financial anxiety scripture"],
+    sectionHeadings: ["Search-intent intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Financial Stress", href: "/bible-verses-for-financial-stress" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for financial stress", "money worry scriptures", "god provides verses"]
+    }
+  },
+  "bible-verses-for-feeling-lost-in-life": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses for feeling lost in life",
+    secondaryKeywords: ["scripture for feeling lost", "verses for direction in life", "bible verses for purpose and clarity", "guidance when confused"],
+    sectionHeadings: ["Search-intent intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses for Feeling Lost in Life", href: "/bible-verses-for-feeling-lost-in-life" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses for feeling lost in life", "direction scriptures", "purpose and guidance bible verses"]
+    }
   }
 };

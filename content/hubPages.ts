@@ -82,11 +82,18 @@ export const hubPageData: Record<string, HubPageData> = {
         heading: "Gospel and salvation passages",
         description: "Core verses that explain belief, salvation, and Christ's finished work.",
         slugs: [
+          "john-1-1-meaning",
+          "john-6-35-meaning",
+          "john-10-10-meaning",
+          "john-15-5-meaning",
           "john-14-6-meaning",
+          "john-16-33-meaning",
           "john-19-30-meaning",
           "john-3-36-meaning",
           "john-3-16-vs-john-3-17-explained",
+          "romans-1-16-meaning",
           "romans-6-23-meaning",
+          "romans-8-1-meaning",
           "romans-10-9-meaning",
           "john-3-16-meaning",
           "john-3-17-meaning"
@@ -163,6 +170,8 @@ export const hubPageData: Record<string, HubPageData> = {
         slugs: [
           "bible-verses-for-fear",
           "bible-verses-for-anxiety",
+          "bible-verses-for-worry",
+          "bible-verses-for-panic-attacks",
           "bible-verses-for-overthinking",
           "bible-verses-for-peace",
           "bible-verses-for-grief",
@@ -175,8 +184,11 @@ export const hubPageData: Record<string, HubPageData> = {
         description: "Verses for resilience, courage, and daily encouragement.",
         slugs: [
           "bible-verses-for-strength",
+          "bible-verses-for-burnout",
           "encouraging-bible-verses",
           "bible-verses-for-hope",
+          "bible-verses-for-financial-stress",
+          "bible-verses-for-feeling-lost-in-life",
           "bible-verses-for-guidance",
           "bible-verses-for-work-stress",
           "bible-verses-for-decision-making",
@@ -186,7 +198,12 @@ export const hubPageData: Record<string, HubPageData> = {
       {
         heading: "Healing and restoration",
         description: "Passages often used in physical, emotional, and spiritual recovery.",
-        slugs: ["healing-scriptures", "bible-verses-for-forgiveness", "bible-verses-for-prayer"]
+        slugs: [
+          "healing-scriptures",
+          "bible-verses-for-forgiveness",
+          "bible-verses-for-family-problems",
+          "bible-verses-for-prayer"
+        ]
       }
     ],
     faqs: [

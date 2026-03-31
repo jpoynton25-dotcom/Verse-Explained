@@ -1779,5 +1779,237 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
           "Confess Christ openly in your daily life and align choices with His lordship where you have been hesitant."
       }
     ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "john-6-35-meaning",
+    title: "John 6:35 Meaning",
+    seoTitle: "John 6:35 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand John 6:35 in context with clear meaning on the Bread of Life, spiritual hunger, belief, and lasting satisfaction in Christ.",
+    h1: "John 6:35 Meaning Explained Simply",
+    verseReference: "John 6:35",
+    verseText:
+      "Then Jesus declared, 'I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty.'",
+    intro:
+      "John 6:35 directly answers a common spiritual question: Why do I still feel empty even when life looks full? People searching john 6:35 meaning usually want to understand what Jesus meant by 'bread of life' and how belief in Him satisfies deeper hunger. In this verse, Jesus is not talking about temporary physical needs only. He is revealing that true and lasting satisfaction is found in relationship with Him. If you are searching john 6:35 explained, bread of life meaning, or whoever believes in me will never thirst meaning, this passage points to Christ as the only source of life that sustains the soul.",
+    simpleMeaning:
+      "Jesus teaches that He alone satisfies the deepest spiritual hunger and thirst of the human heart. Belief in Him brings lasting nourishment and life.",
+    context:
+      "John 6 follows the feeding of the five thousand. The crowd seeks more bread, but Jesus shifts the conversation from temporary food to eternal life through Himself.",
+    deeperUnderstanding:
+      "John 6:35 shows that spiritual emptiness cannot be solved by success, distraction, or performance. Jesus offers Himself, not just benefits. Coming to Him means ongoing trust, dependence, and allegiance.",
+    misunderstanding:
+      "A common misunderstanding is taking this verse as a promise that believers will never feel emotional struggle or desire again. Jesus is promising ultimate spiritual satisfaction in Him, not the absence of all human weakness.",
+    takeaway:
+      "When you feel spiritually depleted, come to Christ before chasing quick substitutes. Ask Him to feed your heart through Scripture, prayer, and daily obedience.",
+    finalReflection:
+      "John 6:35 invites you to stop feeding on what cannot satisfy and to receive life from Christ Himself.",
+    relatedSlugs: [
+      "john-14-6-meaning",
+      "john-15-5-meaning",
+      "john-3-16-meaning",
+      "bible-verses-for-strength",
+      "bible-verses-for-hope",
+      "bible-verses-for-feeling-lost-in-life",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does 'Bread of Life' mean in John 6:35?",
+        answer:
+          "It means Jesus is the essential source of spiritual life and satisfaction, like bread is essential for physical life."
+      },
+      {
+        question: "What does it mean to 'come to' Jesus in this verse?",
+        answer:
+          "It means personally trusting and depending on Him, not just admiring Him from a distance."
+      },
+      {
+        question: "Does John 6:35 promise every need is solved instantly?",
+        answer:
+          "No. It promises lasting spiritual provision in Christ even while life remains challenging."
+      },
+      {
+        question: "How can I apply John 6:35 today?",
+        answer:
+          "Identify one substitute source of security, surrender it to Christ, and return to Him first through prayer and Scripture."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "john-15-5-meaning",
+    title: "John 15:5 Meaning",
+    seoTitle: "John 15:5 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Learn John 15:5 in plain English with context and practical meaning on abiding in Christ, dependence, and fruit that lasts.",
+    h1: "John 15:5 Meaning Explained Simply",
+    verseReference: "John 15:5",
+    verseText:
+      "I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing.",
+    intro:
+      "John 15:5 explains why spiritual growth feels inconsistent when we rely only on effort. People searching john 15:5 meaning are usually asking what it means to abide in Christ and what Jesus meant by 'apart from me you can do nothing.' In this verse, Jesus uses a vine-and-branches picture to show that lasting fruit comes from ongoing dependence, not independent performance. If you are searching john 15:5 explained, abide in me meaning, or vine and branches meaning, this passage gives practical clarity for daily faith, obedience, and endurance.",
+    simpleMeaning:
+      "Jesus is the source of spiritual life and fruitfulness. Believers grow and produce lasting fruit by staying connected to Him.",
+    context:
+      "John 15 is part of Jesus' final teaching to His disciples before the cross. He prepares them to continue in mission through abiding relationship, not self-sufficiency.",
+    deeperUnderstanding:
+      "Abiding is not passive. It includes trust, prayer, obedience, and receiving Christ's words. 'Nothing' highlights that lasting spiritual fruit cannot be produced independently from Jesus.",
+    misunderstanding:
+      "A common misunderstanding is reading 'apart from me you can do nothing' as meaning humans cannot do any action at all. Jesus is specifically speaking about lasting spiritual fruit and kingdom impact.",
+    takeaway:
+      "When you feel exhausted or fruitless, pause and reconnect to Christ. Prioritize Scripture, prayer, and obedience before trying to force results.",
+    finalReflection:
+      "John 15:5 is both warning and invitation: independence drains life, but abiding produces fruit that lasts.",
+    relatedSlugs: [
+      "john-14-6-meaning",
+      "john-6-35-meaning",
+      "john-16-33-meaning",
+      "bible-verses-for-burnout",
+      "bible-verses-for-prayer",
+      "bible-verses-for-guidance",
+      "what-is-sanctification-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does it mean to abide in Christ?",
+        answer:
+          "It means ongoing relational dependence through faith, prayer, obedience, and remaining in Jesus' teaching."
+      },
+      {
+        question: "What is the 'fruit' in John 15:5?",
+        answer:
+          "Fruit includes Christlike character, faithful obedience, witness, and spiritual impact that reflects God's work."
+      },
+      {
+        question: "Does John 15:5 teach salvation by works?",
+        answer:
+          "No. Jesus teaches that works and fruit flow from connection to Him, not from self-powered effort."
+      },
+      {
+        question: "How can I apply John 15:5 in daily life?",
+        answer:
+          "Start each day by abiding first: read Scripture, pray honestly, and obey one clear step before chasing outcomes."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "romans-1-16-meaning",
+    title: "Romans 1:16 Meaning",
+    seoTitle: "Romans 1:16 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand Romans 1:16 with context, simple gospel meaning, and practical confidence in sharing and trusting Christ.",
+    h1: "Romans 1:16 Meaning Explained Simply",
+    verseReference: "Romans 1:16",
+    verseText:
+      "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.",
+    intro:
+      "Romans 1:16 answers a major search question: Why should I trust and openly stand on the gospel? People look up romans 1:16 meaning because of the phrase 'not ashamed of the gospel' and because they want clarity on how the gospel saves. Paul says the gospel is not weak advice or religious inspiration. It is God's power for salvation to all who believe. If you are searching romans 1:16 explained, not ashamed of the gospel meaning, or gospel power verse meaning, this verse gives both theological depth and practical courage.",
+    simpleMeaning:
+      "Paul is confident in the gospel because God powerfully uses it to save everyone who believes, without ethnic or social barriers.",
+    context:
+      "Romans opens with Paul's mission focus and his eagerness to preach in Rome. Verse 16 introduces the gospel-centered argument developed throughout the letter.",
+    deeperUnderstanding:
+      "Romans 1:16 links confidence and content. Christian boldness is not personality-driven; it comes from the message itself. The gospel reveals God's righteousness and power to rescue sinners by grace.",
+    misunderstanding:
+      "A common misunderstanding is treating this verse as a call to aggressive argument. Paul's point is confidence in God's saving message, shared with conviction and humility.",
+    takeaway:
+      "When fear of people rises, remember what the gospel actually does. Speak and live with quiet confidence because salvation comes from God's power, not yours.",
+    finalReflection:
+      "Romans 1:16 calls believers to steady gospel confidence: unashamed faith grounded in God's saving power.",
+    relatedSlugs: [
+      "romans-10-9-meaning",
+      "romans-8-1-meaning",
+      "romans-5-8-meaning",
+      "bible-verses-for-strength",
+      "bible-verses-about-faith-in-hard-times",
+      "bible-verses-for-financial-stress",
+      "what-is-justification-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does 'not ashamed of the gospel' mean?",
+        answer:
+          "It means openly trusting and identifying with Christ's message, even when it is unpopular."
+      },
+      {
+        question: "How is the gospel the power of God for salvation?",
+        answer:
+          "Through the gospel, God reveals Christ's finished work and calls people to faith that brings forgiveness and new life."
+      },
+      {
+        question: "Why does Paul mention Jew and Gentile?",
+        answer:
+          "He emphasizes that the gospel is for all people and fulfills God's redemptive plan across nations."
+      },
+      {
+        question: "How can I apply Romans 1:16 today?",
+        answer:
+          "Choose one place where you have been silent about faith and respond with humble, clear gospel confidence."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "romans-8-1-meaning",
+    title: "Romans 8:1 Meaning",
+    seoTitle: "Romans 8:1 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Learn Romans 8:1 in context with clear meaning on no condemnation in Christ, assurance, grace, and freedom from guilt.",
+    h1: "Romans 8:1 Meaning Explained Simply",
+    verseReference: "Romans 8:1",
+    verseText: "Therefore, there is now no condemnation for those who are in Christ Jesus.",
+    intro:
+      "Romans 8:1 is one of the strongest Bible verses for people weighed down by guilt. Searchers looking for romans 8:1 meaning usually ask what 'no condemnation' actually means and whether it applies after repeated failure. In context, Paul is not dismissing sin. He is announcing the legal and relational result of being in Christ: believers are no longer under the sentence of condemnation. If you are searching romans 8:1 explained, no condemnation meaning, or freedom from guilt in Christ, this verse offers assurance anchored in grace, not self-performance.",
+    simpleMeaning:
+      "Those united to Christ are no longer condemned before God. Christ has borne judgment, so believers stand in grace.",
+    context:
+      "Romans 7 describes the struggle with sin; Romans 8 opens with the gospel verdict for those in Christ and the Spirit-led life that follows.",
+    deeperUnderstanding:
+      "No condemnation means your standing before God is secured by Christ's finished work, not by fluctuating feelings. This assurance does not produce carelessness; it produces grateful obedience.",
+    misunderstanding:
+      "A common misunderstanding is using Romans 8:1 to excuse ongoing sin without repentance. Paul teaches freedom from condemnation together with life by the Spirit.",
+    takeaway:
+      "When guilt accuses you, run to Christ rather than hiding. Confess sin honestly and walk forward in grace-fueled obedience.",
+    finalReflection:
+      "Romans 8:1 gives stable assurance: in Christ, condemnation is removed and a new life is possible.",
+    relatedSlugs: [
+      "romans-8-31-meaning",
+      "romans-6-23-meaning",
+      "romans-1-16-meaning",
+      "bible-verses-for-peace",
+      "bible-verses-for-panic-attacks",
+      "bible-verses-for-worry",
+      "what-is-justification-in-the-bible",
+      "what-is-grace-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does 'no condemnation' mean in Romans 8:1?",
+        answer:
+          "It means believers in Christ are no longer under God's judicial sentence of guilt and punishment."
+      },
+      {
+        question: "Does Romans 8:1 apply if I still struggle with sin?",
+        answer:
+          "Yes. It applies to those in Christ, while also calling them to ongoing repentance and Spirit-led growth."
+      },
+      {
+        question: "Is there a difference between conviction and condemnation?",
+        answer:
+          "Yes. Conviction leads you back to God for repentance; condemnation drives you away in hopeless shame."
+      },
+      {
+        question: "How can I apply Romans 8:1 today?",
+        answer:
+          "Reject shame-based identity, confess sin clearly, and take one obedient step in the freedom Christ provides."
+      }
+    ]
   }
 ];

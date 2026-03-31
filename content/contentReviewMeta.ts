@@ -83,5 +83,15 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "faith-vs-trust-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "grace-vs-mercy-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "justification-vs-sanctification-explained": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
-  "what-is-forgiveness-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" }
+  "what-is-forgiveness-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "john-6-35-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "john-15-5-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "romans-1-16-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "romans-8-1-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-worry": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-panic-attacks": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-burnout": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-family-problems": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-financial-stress": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-feeling-lost-in-life": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" }
 };
