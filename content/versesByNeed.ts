@@ -1116,6 +1116,109 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
   },
   {
     kind: "verses-by-need",
+    slug: "bible-verses-about-love-and-marriage",
+    title: "Bible Verses About Love and Marriage",
+    seoTitle: "Bible Verses About Love and Marriage | Verse Explained",
+    metaDescription:
+      "Explore Bible verses about love and marriage with practical explanations for commitment, communication, forgiveness, and long-term faithfulness.",
+    h1: "Bible verses about love and marriage",
+    intro:
+      "If you are searching for Bible verses about love and marriage, you are likely looking for practical guidance, not abstract quotes. This page gathers Scripture for covenant commitment, daily communication, forgiveness, and mutual service. The goal is to help couples apply biblical love in ordinary routines and difficult conversations, not only in weddings or special moments.",
+    context:
+      "Biblical marriage language is covenantal, sacrificial, and growth-oriented. Scripture addresses both romance and responsibility, emphasizing long-term faithfulness shaped by grace.",
+    deeperUnderstanding:
+      "Marriage verses are not merely ceremonial. They reveal a pattern of love marked by humility, patience, repentance, and perseverance over time.",
+    commonMisunderstanding:
+      "A common misunderstanding is using marriage verses only for feelings. In context, biblical love includes covenant actions, difficult forgiveness, and daily service.",
+    practicalSummary:
+      "Use one verse per week as a couple check-in: read it together, discuss one area to improve, and choose one practical action before the next week.",
+    takeaway:
+      "Biblical love in marriage is built through repeated faithfulness in ordinary moments.",
+    finalReflection:
+      "Strong marriages are rarely built by one big moment. They are built by daily grace, truth, and commitment.",
+    relatedSlugs: [
+      "john-3-16-meaning",
+      "romans-5-8-meaning",
+      "psalm-46-10-meaning",
+      "bible-verses-for-peace",
+      "bible-verses-for-guidance",
+      "what-is-grace-in-the-bible",
+      "bible-verses-for-forgiveness"
+    ],
+    intent: "problem-solving",
+    groups: [
+      {
+        heading: "Verses for covenant commitment",
+        items: [
+          {
+            reference: "Genesis 2:24",
+            text: "That is why a man leaves his father and mother and is united to his wife, and they become one flesh.",
+            explanation: "Marriage is a covenant bond that creates new shared identity and responsibility."
+          },
+          {
+            reference: "Mark 10:9",
+            text: "Therefore what God has joined together, let no one separate.",
+            explanation: "Jesus emphasizes the seriousness and unity of marriage commitment."
+          }
+        ]
+      },
+      {
+        heading: "Verses for daily love in action",
+        items: [
+          {
+            reference: "1 Corinthians 13:4-5",
+            text: "Love is patient, love is kind... it is not self-seeking, it is not easily angered.",
+            explanation: "Biblical love is measured by daily posture and behavior, not only emotion."
+          },
+          {
+            reference: "Ephesians 5:25",
+            text: "Husbands, love your wives, just as Christ loved the church and gave himself up for her.",
+            explanation: "Marriage love is sacrificial and shaped by Christ's example."
+          }
+        ]
+      },
+      {
+        heading: "Verses for conflict and forgiveness",
+        items: [
+          {
+            reference: "Colossians 3:13-14",
+            text: "Forgive as the Lord forgave you... and over all these virtues put on love.",
+            explanation: "Long-term marriages need grace-based forgiveness and intentional unity.",
+            verseMeaningSlug: "romans-5-8-meaning"
+          },
+          {
+            reference: "James 1:19",
+            text: "Everyone should be quick to listen, slow to speak and slow to become angry.",
+            explanation: "Healthy communication begins with listening before reacting."
+          }
+        ]
+      }
+    ],
+    faqs: [
+      {
+        question: "What is the best Bible verse for marriage problems?",
+        answer:
+          "Colossians 3:13-14 is a strong starting point because it combines forgiveness, patience, and committed love."
+      },
+      {
+        question: "Are marriage verses only for married couples?",
+        answer:
+          "They are most directly about marriage, but they also shape how dating couples and families view covenant love and commitment."
+      },
+      {
+        question: "How do we use these verses practically as a couple?",
+        answer:
+          "Choose one verse weekly, discuss one growth area honestly, and practice one concrete change in speech or behavior."
+      },
+      {
+        question: "Can Scripture help during repeated conflict?",
+        answer:
+          "Yes. Scripture does not remove effort, but it provides a shared framework for humility, forgiveness, and wise next steps."
+      }
+    ]
+  },
+  {
+    kind: "verses-by-need",
     slug: "bible-verses-about-trusting-god",
     title: "Bible Verses About Trusting God",
     seoTitle: "Bible Verses About Trusting God in Hard Times | Verse Explained",

@@ -533,6 +533,81 @@ export const pageDataBySlug: Record<string, PageData> = {
       keywords: ["john 14:6 meaning", "way truth life", "jesus the only way"]
     }
   },
+  "john-8-12-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 8:12 meaning",
+    secondaryKeywords: ["i am the light of the world meaning", "john 8:12 explained", "john 8:12 context", "light of life verse"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 8:12 Meaning", href: "/john-8-12-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 8:12 meaning", "light of the world", "light of life"]
+    }
+  },
+  "isaiah-60-22-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "isaiah 60:22 meaning",
+    secondaryKeywords: ["at the right time i the lord will make it happen meaning", "isaiah 60:22 explained", "isaiah 60:22 context", "god timing bible verse"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Isaiah 60:22 Meaning", href: "/isaiah-60-22-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["isaiah 60:22 meaning", "god timing", "in its time i will do this swiftly"]
+    }
+  },
+  "psalm-46-10-meaning": {
+    primaryIntent: "devotional",
+    mainKeyword: "psalm 46:10 meaning",
+    secondaryKeywords: ["be still and know that i am god meaning", "psalm 46:10 explained", "psalm 46:10 context", "be still verse meaning"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Psalm 46:10 Meaning", href: "/psalm-46-10-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["psalm 46:10 meaning", "be still and know", "trusting god in chaos"]
+    }
+  },
+  "romans-3-23-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "romans 3:23 meaning",
+    secondaryKeywords: ["all have sinned meaning", "romans 3:23 explained", "romans 3:23 context", "fall short of the glory of god"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Romans 3:23 Meaning", href: "/romans-3-23-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["romans 3:23 meaning", "all have sinned", "fall short of god's glory"]
+    }
+  },
+  "romans-5-8-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "romans 5:8 meaning",
+    secondaryKeywords: ["while we were still sinners christ died for us meaning", "romans 5:8 explained", "romans 5:8 context", "god demonstrates his love verse"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Romans 5:8 Meaning", href: "/romans-5-8-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["romans 5:8 meaning", "god demonstrates his love", "christ died for us"]
+    }
+  },
   "bible-verses-for-depression": {
     primaryIntent: "problem-solving",
     mainKeyword: "bible verses for depression",
@@ -946,6 +1021,51 @@ export const pageDataBySlug: Record<string, PageData> = {
     article: {
       section: "Verses by Need",
       keywords: ["bible verses about hope in hard times", "hope in suffering", "difficult season encouragement"]
+    }
+  },
+  "bible-verses-about-love-and-marriage": {
+    primaryIntent: "problem-solving",
+    mainKeyword: "bible verses about love and marriage",
+    secondaryKeywords: ["marriage scriptures", "bible verses for couples", "biblical love in marriage", "verses for marriage strength"],
+    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verses by Need", href: "/verses-by-need" },
+      { label: "Bible Verses About Love and Marriage", href: "/bible-verses-about-love-and-marriage" }
+    ],
+    article: {
+      section: "Verses by Need",
+      keywords: ["bible verses about love and marriage", "marriage scripture", "covenant love verses"]
+    }
+  },
+  "what-is-sanctification-in-the-bible": {
+    primaryIntent: "informational",
+    mainKeyword: "what is sanctification in the bible",
+    secondaryKeywords: ["sanctification meaning bible", "sanctification explained", "difference between justification and sanctification", "spiritual growth meaning"],
+    sectionHeadings: ["Intro", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Bible Terms", href: "/bible-terms" },
+      { label: "What Is Sanctification in the Bible", href: "/what-is-sanctification-in-the-bible" }
+    ],
+    article: {
+      section: "Bible Terms",
+      keywords: ["what is sanctification in the bible", "sanctification meaning", "spiritual growth"]
+    }
+  },
+  "who-was-moses-in-the-bible": {
+    primaryIntent: "informational",
+    mainKeyword: "who was moses in the bible",
+    secondaryKeywords: ["moses explained", "moses in exodus", "moses story summary", "what did moses do in the bible"],
+    sectionHeadings: ["Intro", "Plain explanation", "Context", "Deeper understanding", "Common misunderstanding", "Why it matters", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Bible People & Places", href: "/bible-people-places" },
+      { label: "Who Was Moses in the Bible", href: "/who-was-moses-in-the-bible" }
+    ],
+    article: {
+      section: "Bible People & Places",
+      keywords: ["who was moses in the bible", "moses story", "exodus leadership"]
     }
   }
 };

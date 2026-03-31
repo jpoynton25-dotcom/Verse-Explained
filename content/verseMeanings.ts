@@ -729,6 +729,292 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
   },
   {
     kind: "verse-meaning",
+    slug: "john-8-12-meaning",
+    title: "John 8:12 Meaning",
+    seoTitle: "John 8:12 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand John 8:12 in plain English with context, practical meaning, and how Jesus as light guides life and decisions today.",
+    h1: "John 8:12 Meaning Explained Simply",
+    verseReference: "John 8:12",
+    verseText:
+      "When Jesus spoke again to the people, he said, 'I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.'",
+    intro:
+      "John 8:12 is often searched by people asking what Jesus meant by calling Himself the light of the world. This verse connects identity, direction, and transformation in one statement. Jesus is not only offering inspiration; He is claiming to be the decisive source of truth and life for people walking in confusion. Search intent around John 8:12 meaning, i am the light of the world meaning, and John 8:12 explained usually comes from practical questions: How do I find clarity, and how do I stop walking in spiritual darkness?",
+    simpleMeaning:
+      "Jesus is the true source of spiritual light. Following Him leads out of confusion and into a life shaped by truth, direction, and real hope.",
+    context:
+      "Jesus says this in a public teaching setting during a major Jewish festival context where light imagery was already significant. He applies that imagery to Himself, claiming divine authority to guide people.",
+    deeperUnderstanding:
+      "John 8:12 is both invitation and claim. The invitation is to follow Jesus. The claim is that no other source can provide the same life-giving light. This verse challenges self-guided spirituality and calls for active discipleship.",
+    misunderstanding:
+      "A common misunderstanding is treating this verse as a poetic encouragement only. In context, Jesus is making a concrete identity claim that demands response, not just admiration.",
+    takeaway:
+      "When you feel spiritually unclear, ask not only what is true, but who you are following. Practical clarity grows as you align choices with Christ's light.",
+    finalReflection:
+      "John 8:12 offers daily direction: follow Jesus, and the light you need for the next step becomes clear.",
+    relatedSlugs: [
+      "john-3-16-meaning",
+      "john-14-6-meaning",
+      "psalm-46-10-meaning",
+      "bible-verses-for-guidance",
+      "bible-verses-for-anxiety",
+      "what-is-salvation-in-the-bible",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does 'light of the world' mean in John 8:12?",
+        answer:
+          "It means Jesus reveals truth, exposes darkness, and gives life-giving direction that people cannot produce on their own."
+      },
+      {
+        question: "What does it mean to follow Jesus in this verse?",
+        answer:
+          "It means trusting Him, obeying His teaching, and shaping daily decisions around His truth."
+      },
+      {
+        question: "Does John 8:12 promise an easy life?",
+        answer:
+          "No. It promises guidance and life in Christ, not the absence of hardship."
+      },
+      {
+        question: "How can I apply John 8:12 today?",
+        answer:
+          "Identify one area of confusion, pray for light, and take one next step aligned with Jesus' teaching."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "isaiah-60-22-meaning",
+    title: "Isaiah 60:22 Meaning",
+    seoTitle: "Isaiah 60:22 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Learn Isaiah 60:22 in plain English with context, practical hope for waiting seasons, and guidance on trusting God's timing.",
+    h1: "Isaiah 60:22 Meaning Explained Simply",
+    verseReference: "Isaiah 60:22",
+    verseText:
+      "The least of you will become a thousand, the smallest a mighty nation. I am the Lord; in its time I will do this swiftly.",
+    intro:
+      "Isaiah 60:22 is frequently searched by people waiting for breakthrough. The phrase about God acting at the right time resonates with delayed answers, slow growth, and uncertainty about next steps. This verse speaks directly to that pressure. Isaiah 60:22 meaning is not passive resignation. It is confidence that God can accelerate what He has promised when the time is right. Searchers looking for God timing bible verse or at the right time i the Lord will make it happen meaning are usually asking how to wait faithfully without losing hope.",
+    simpleMeaning:
+      "God promises both growth and timing. What begins small can become significant, and God is able to act quickly when His appointed moment arrives.",
+    context:
+      "Isaiah 60 speaks about restoration, renewed identity, and the future hope of God's people. Verse 22 closes with assurance that fulfillment belongs to God's timing and power.",
+    deeperUnderstanding:
+      "This verse balances patience and expectation. Waiting is not wasted time. It is often where trust, character, and perspective are formed before visible acceleration occurs.",
+    misunderstanding:
+      "A common misunderstanding is using Isaiah 60:22 as a guarantee for any personal timeline. The verse is about God's covenant purposes, not immediate fulfillment of every private plan.",
+    takeaway:
+      "In delay, stay faithful in small responsibilities. Trusting God's timing is active obedience today, not passive waiting for tomorrow.",
+    finalReflection:
+      "Isaiah 60:22 gives durable hope: God is never late, and He is never limited.",
+    relatedSlugs: [
+      "isaiah-40-31-meaning",
+      "romans-8-28-meaning",
+      "psalm-46-10-meaning",
+      "bible-verses-for-hope",
+      "bible-verses-for-guidance",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does Isaiah 60:22 mean by 'in its time'?",
+        answer:
+          "It means fulfillment happens in God's appointed timing, which may differ from human expectations."
+      },
+      {
+        question: "What does 'I will do this swiftly' mean?",
+        answer:
+          "It means that when God's time arrives, He can move with decisive speed and power."
+      },
+      {
+        question: "How can I apply Isaiah 60:22 while waiting?",
+        answer:
+          "Focus on faithful daily obedience and keep hope anchored in God's character rather than in visible progress alone."
+      },
+      {
+        question: "Is this verse only for ancient Israel?",
+        answer:
+          "Its original context is Israel's restoration, but the principle of trusting God's timing is broadly relevant for believers."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "psalm-46-10-meaning",
+    title: "Psalm 46:10 Meaning",
+    seoTitle: "Psalm 46:10 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand Psalm 46:10 in context with practical meaning for anxiety, control, and learning trust-filled stillness before God.",
+    h1: "Psalm 46:10 Meaning Explained Simply",
+    verseReference: "Psalm 46:10",
+    verseText:
+      "He says, 'Be still, and know that I am God; I will be exalted among the nations, I will be exalted in the earth.'",
+    intro:
+      "Psalm 46:10 is widely quoted in stressful seasons, but many readers still wonder what be still really means. The verse is not a call to passive withdrawal from responsibility. It is a call to surrender anxious control and remember who God is. People searching Psalm 46:10 meaning, be still and know that i am God meaning, or Psalm 46:10 context are usually looking for peace when life feels loud. This verse gives that peace by grounding stillness in God's authority, not in perfect circumstances.",
+    simpleMeaning:
+      "God calls people to stop striving for ultimate control and to trust His rule. Stillness here means surrendered confidence, not inactivity.",
+    context:
+      "Psalm 46 describes national instability and chaos. In that setting, God declares His sovereignty. The command to be still comes in crisis, not in comfort.",
+    deeperUnderstanding:
+      "Stillness in Psalm 46:10 is theological before it is emotional. Peace grows when your view of God becomes bigger than your immediate pressure.",
+    misunderstanding:
+      "A common misunderstanding is that this verse commands silence only. In context, it calls for relinquishing self-reliance and acknowledging God's authority.",
+    takeaway:
+      "When your mind spirals, pause, pray this verse, and release one specific burden to God before taking your next step.",
+    finalReflection:
+      "Psalm 46:10 reframes pressure: you are not God, and that truth can become your peace.",
+    relatedSlugs: [
+      "psalm-46-1-meaning",
+      "psalm-91-1-2-meaning",
+      "john-8-12-meaning",
+      "bible-verses-for-peace",
+      "bible-verses-for-anxiety",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "devotional",
+    faqs: [
+      {
+        question: "What does 'be still' mean in Psalm 46:10?",
+        answer:
+          "It means to cease frantic self-reliance and acknowledge God's authority and presence."
+      },
+      {
+        question: "Is Psalm 46:10 about meditation only?",
+        answer:
+          "It includes quiet reflection, but the core message is surrendered trust in God's rule during instability."
+      },
+      {
+        question: "How do I practice Psalm 46:10 daily?",
+        answer:
+          "Pause briefly, name one fear to God, and take one trust-filled action instead of one fear-driven reaction."
+      },
+      {
+        question: "How is Psalm 46:10 different from Psalm 46:1?",
+        answer:
+          "Psalm 46:1 emphasizes God as present help; Psalm 46:10 emphasizes surrendering control under His sovereignty."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "romans-3-23-meaning",
+    title: "Romans 3:23 Meaning",
+    seoTitle: "Romans 3:23 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand Romans 3:23 in plain English with context, key theological meaning, and practical application for humility and grace.",
+    h1: "Romans 3:23 Meaning Explained Simply",
+    verseReference: "Romans 3:23",
+    verseText: "For all have sinned and fall short of the glory of God.",
+    intro:
+      "Romans 3:23 is a foundational verse for understanding sin, grace, and why salvation is needed. People searching Romans 3:23 meaning often ask whether this verse is only about guilt or whether it points toward hope. In context, it does both. Paul explains the universal problem of sin so readers can understand the universal offer of grace in Christ. This verse is central for search intent around all have sinned meaning, Romans 3:23 explained, and Romans 3:23 context.",
+    simpleMeaning:
+      "Every person has fallen short of God's perfect standard. No one is spiritually self-sufficient before God.",
+    context:
+      "Romans 1-3 builds a case that both religious and non-religious people need God's righteousness. Romans 3:23 prepares for the grace-centered explanation that follows.",
+    deeperUnderstanding:
+      "The purpose of Romans 3:23 is not humiliation for its own sake. It levels pride and creates clarity: salvation is by grace because all have the same core need.",
+    misunderstanding:
+      "A common misunderstanding is reading this verse as hopeless condemnation. Paul uses it to point readers toward justification by grace through Christ.",
+    takeaway:
+      "Let Romans 3:23 produce humility, not despair. Honest awareness of need is where real transformation begins.",
+    finalReflection:
+      "Romans 3:23 tells the truth about everyone so that everyone can receive the same grace.",
+    relatedSlugs: [
+      "romans-5-8-meaning",
+      "romans-10-9-meaning",
+      "john-3-16-meaning",
+      "bible-verses-for-hope",
+      "bible-verses-for-depression",
+      "what-is-sin-in-the-bible",
+      "what-is-salvation-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does 'fall short of the glory of God' mean?",
+        answer:
+          "It means humans fail to reflect God's holy character fully in thought, motive, and action."
+      },
+      {
+        question: "Is Romans 3:23 saying everyone is equally sinful?",
+        answer:
+          "It teaches universal guilt before God, while still allowing that sins differ in form and impact."
+      },
+      {
+        question: "How does Romans 3:23 connect to the gospel?",
+        answer:
+          "It explains why grace is necessary and sets up Paul's teaching on justification through faith in Christ."
+      },
+      {
+        question: "How can I apply Romans 3:23 today?",
+        answer:
+          "Use it to replace comparison with humility and to receive grace instead of self-justification."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "romans-5-8-meaning",
+    title: "Romans 5:8 Meaning",
+    seoTitle: "Romans 5:8 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Learn Romans 5:8 in plain English with context, practical gospel application, and how God's love is shown through Christ.",
+    h1: "Romans 5:8 Meaning Explained Simply",
+    verseReference: "Romans 5:8",
+    verseText: "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+    intro:
+      "Romans 5:8 is one of the clearest Bible statements about the character of God's love. Search intent around Romans 5:8 meaning usually includes questions like while we were still sinners Christ died for us meaning and how this verse connects to salvation. Paul shows that God's love is not reactive to human improvement. It is proactive grace. Christ died for sinners before they could earn acceptance. This makes Romans 5:8 a core verse for grace, assurance, and gospel confidence.",
+    simpleMeaning:
+      "God's love is demonstrated through Jesus' sacrificial death for sinners. Love comes first; transformation follows.",
+    context:
+      "Romans 5 describes the benefits of justification by faith, including peace with God and hope. Verse 8 anchors those benefits in God's initiating love.",
+    deeperUnderstanding:
+      "Romans 5:8 removes performance-based religion. If Christ died while we were still sinners, then grace is the foundation, not the reward, of spiritual life.",
+    misunderstanding:
+      "A common misunderstanding is that this verse minimizes sin because God loves anyway. Paul's point is not permissiveness; it is the costliness and power of redeeming love.",
+    takeaway:
+      "When shame says you are disqualified, answer with Romans 5:8. God's love is proven at the cross, not earned by your record.",
+    finalReflection:
+      "Romans 5:8 turns abstract love into historical action: God loved first, and Christ died to save.",
+    relatedSlugs: [
+      "romans-3-23-meaning",
+      "romans-10-9-meaning",
+      "john-3-16-meaning",
+      "bible-verses-for-hope",
+      "bible-verses-for-peace",
+      "what-is-grace-in-the-bible",
+      "what-is-salvation-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does Romans 5:8 teach about God's love?",
+        answer:
+          "It teaches that God's love is demonstrated in Christ's death for sinners before they could earn acceptance."
+      },
+      {
+        question: "How is Romans 5:8 different from general encouragement?",
+        answer:
+          "It grounds hope in a specific redemptive event, not in vague positive language."
+      },
+      {
+        question: "Does Romans 5:8 mean sin does not matter?",
+        answer:
+          "No. It shows sin's seriousness and God's costly response to it through Christ."
+      },
+      {
+        question: "How can I apply Romans 5:8 personally?",
+        answer:
+          "Receive God's love as a gift, reject performance-driven identity, and let gratitude shape obedience."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
     slug: "john-3-17-meaning",
     title: "John 3:17 Meaning",
     seoTitle: "John 3:17 Meaning in Plain English | Verse Explained",

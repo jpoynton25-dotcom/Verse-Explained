@@ -204,6 +204,63 @@ export const biblePeoplePlaceEntries: PeoplePlaceEntry[] = [
   },
   {
     kind: "bible-people-place",
+    slug: "who-was-moses-in-the-bible",
+    title: "Who Was Moses in the Bible",
+    seoTitle: "Who Was Moses in the Bible? Explained Simply",
+    metaDescription:
+      "Learn who Moses was in the Bible, his role in Exodus, and practical lessons on calling, leadership, and obedience.",
+    h1: "Who was Moses in the Bible?",
+    intro:
+      "If you are asking who Moses was in the Bible, he is one of Scripture's most influential leaders and a central figure in Israel's rescue story.",
+    plainExplanation:
+      "Moses was called by God to lead Israel out of Egypt, receive the law, and shepherd God's people through the wilderness.",
+    context:
+      "Moses' life spans Exodus through Deuteronomy: early rescue, reluctant calling, confrontation with Pharaoh, leadership in hardship, and covenant instruction.",
+    deeperUnderstanding:
+      "Moses' story shows that calling often includes weakness, delay, and resistance. God forms leaders through dependence, not self-confidence.",
+    commonMisunderstanding:
+      "A common misunderstanding is that Moses was naturally fearless and polished. Scripture shows he felt inadequate and repeatedly needed God's help.",
+    whyItMatters:
+      "Moses helps readers understand deliverance, covenant faithfulness, and what obedient leadership looks like under pressure.",
+    relatedVerseRefs: ["Exodus 3:10-12", "Exodus 14:13-14", "Numbers 12:3", "Deuteronomy 34:10"],
+    takeaway:
+      "God can use reluctant people who keep saying yes to the next faithful step.",
+    finalReflection:
+      "Moses' life points beyond human leadership to God's faithfulness in guiding His people.",
+    relatedSlugs: [
+      "who-was-king-david",
+      "what-is-faith-in-the-bible",
+      "what-is-grace-in-the-bible",
+      "bible-verses-for-guidance",
+      "isaiah-40-31-meaning",
+      "john-14-6-meaning"
+    ],
+    intent: "informational",
+    faqs: [
+      {
+        question: "What is Moses most known for in the Bible?",
+        answer:
+          "He is most known for leading Israel out of Egypt and receiving the law from God."
+      },
+      {
+        question: "Did Moses want to lead at first?",
+        answer:
+          "No. In Exodus 3-4 he expressed hesitation and insecurity, but God equipped him for the assignment."
+      },
+      {
+        question: "Why is Moses important for Christians today?",
+        answer:
+          "His life teaches trust, obedience, leadership under pressure, and dependence on God through long journeys."
+      },
+      {
+        question: "How can I apply Moses' story personally?",
+        answer:
+          "Start where Moses started: bring your fears honestly to God and obey one clear next step."
+      }
+    ]
+  },
+  {
+    kind: "bible-people-place",
     slug: "who-was-mary-magdalene",
     title: "Who Was Mary Magdalene",
     seoTitle: "Who Was Mary Magdalene? Bible Explanation",

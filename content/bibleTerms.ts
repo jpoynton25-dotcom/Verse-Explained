@@ -360,6 +360,63 @@ export const bibleTermEntries: BibleTermEntry[] = [
   },
   {
     kind: "bible-term",
+    slug: "what-is-sanctification-in-the-bible",
+    title: "What Is Sanctification in the Bible",
+    seoTitle: "What Is Sanctification in the Bible? Clear Guide",
+    metaDescription:
+      "Understand sanctification in plain English with biblical context, key verses, and practical steps for spiritual growth.",
+    h1: "What is sanctification in the Bible?",
+    intro:
+      "Sanctification is a key Bible term that explains how believers grow over time after conversion.",
+    definition:
+      "Sanctification is the ongoing work of God in believers, making them more like Christ in character, desires, and actions.",
+    simpleMeaning:
+      "In plain language, sanctification means gradual spiritual growth. You are saved by grace, and then continually shaped by grace.",
+    context:
+      "The New Testament describes sanctification as both God's work and human response. The Holy Spirit transforms believers as they trust, obey, and remain in truth.",
+    deeperUnderstanding:
+      "Sanctification is progressive, not instant perfection. It includes repentance, renewed thinking, and new patterns of obedience developed across real life seasons.",
+    commonMisunderstanding:
+      "A common misunderstanding is that sanctification means earning salvation. Scripture teaches salvation is a gift, while sanctification is growth flowing from that gift.",
+    relatedVerseRefs: ["1 Thessalonians 4:3", "2 Corinthians 3:18", "Romans 12:1-2", "Philippians 2:12-13"],
+    takeaway:
+      "Measure growth by direction and faithfulness, not by flawless performance.",
+    finalReflection:
+      "Sanctification gives hope for change: God is patient, active, and committed to completing His work in you.",
+    relatedSlugs: [
+      "what-is-justification-in-the-bible",
+      "what-is-righteousness-in-the-bible",
+      "romans-5-8-meaning",
+      "bible-verses-for-guidance",
+      "bible-verses-for-strength",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "informational",
+    faqs: [
+      {
+        question: "What is the difference between justification and sanctification?",
+        answer:
+          "Justification is God's declaration that you are made right with Him; sanctification is your ongoing growth in holy living."
+      },
+      {
+        question: "Is sanctification instant or gradual?",
+        answer:
+          "Sanctification is primarily gradual. Believers grow progressively through God's grace and daily obedience."
+      },
+      {
+        question: "Who is responsible for sanctification?",
+        answer:
+          "God is the primary worker through the Spirit, and believers actively participate through trust, repentance, and obedience."
+      },
+      {
+        question: "How can I grow in sanctification practically?",
+        answer:
+          "Practice consistent scripture intake, honest confession, prayer, and concrete obedience in everyday decisions."
+      }
+    ]
+  },
+  {
+    kind: "bible-term",
     slug: "what-is-justification-in-the-bible",
     title: "What Is Justification in the Bible",
     seoTitle: "What Is Justification in the Bible? Simple Explanation",

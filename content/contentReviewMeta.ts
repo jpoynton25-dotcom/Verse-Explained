@@ -62,5 +62,13 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "romans-10-9-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "bible-verses-for-healing-from-sickness": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "bible-verses-about-hope-in-hard-times": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
-  "john-14-6-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" }
+  "john-14-6-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "john-8-12-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "isaiah-60-22-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "psalm-46-10-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "romans-3-23-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "romans-5-8-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-about-love-and-marriage": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "what-is-sanctification-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "who-was-moses-in-the-bible": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" }
 };
