@@ -364,10 +364,10 @@ export const bibleTermEntries: BibleTermEntry[] = [
     title: "Faith vs Trust in the Bible",
     seoTitle: "Faith vs Trust in the Bible: Key Difference Explained",
     metaDescription:
-      "Learn the biblical difference between faith and trust, where they overlap, and how both shape daily Christian life.",
+      "Learn the biblical difference between faith and trust, where they overlap, and how both function in daily Christian life.",
     h1: "Faith vs trust in the Bible",
     intro:
-      "Many Christians use faith and trust as if they are identical. They are closely related, but not exactly the same emphasis. This page answers common comparison intent around faith vs trust in the Bible with clear definitions, overlap, and practical application.",
+      "Faith and trust are closely linked in Scripture, but they are not identical in emphasis. Faith points to conviction about God; trust is that conviction practiced in real decisions under pressure. This page answers faith vs trust in the Bible with clear definitions, overlap, and practical use.",
     definition:
       "In biblical usage, faith emphasizes confidence in God's truth and character, while trust emphasizes reliance on God in specific situations and decisions.",
     simpleMeaning:
@@ -416,10 +416,10 @@ export const bibleTermEntries: BibleTermEntry[] = [
     title: "Grace vs Mercy in the Bible",
     seoTitle: "Grace vs Mercy in the Bible Explained Simply",
     metaDescription:
-      "Understand grace vs mercy in the Bible with clear definitions, overlap, differences, and key verses in plain English.",
+      "Understand grace vs mercy in the Bible with clear definitions, key differences, overlap, and practical gospel application.",
     h1: "Grace vs mercy in the Bible",
     intro:
-      "Grace and mercy are often used together, and for good reason. Both express God's kindness to sinners. But they are not identical terms. This comparison page helps clarify the difference without reducing either concept.",
+      "Grace and mercy are often paired, but they answer different questions. Mercy answers what God withholds; grace answers what God gives. This page clarifies grace vs mercy in the Bible so the gospel is understood with sharper precision, not as vague religious language.",
     definition:
       "Mercy is God not giving the judgment we deserve. Grace is God giving the blessing and help we do not deserve.",
     simpleMeaning:
@@ -468,10 +468,10 @@ export const bibleTermEntries: BibleTermEntry[] = [
     title: "Justification vs Sanctification Explained",
     seoTitle: "Justification vs Sanctification Explained Simply",
     metaDescription:
-      "Learn the biblical difference between justification and sanctification with clear definitions, examples, and key supporting verses.",
+      "Learn the biblical difference between justification and sanctification with clear definitions, practical implications, and key verses.",
     h1: "Justification vs sanctification explained simply",
     intro:
-      "Many believers confuse justification and sanctification, which leads to fear, pride, or burnout. This page gives a clear side-by-side explanation so you can understand salvation and spiritual growth in biblical order.",
+      "Justification and sanctification are not interchangeable terms. Justification is your accepted status in Christ; sanctification is your ongoing growth in Christ. This page gives a clear side-by-side explanation so you can keep assurance and obedience in their proper order.",
     definition:
       "Justification is God's once-for-all declaration that a believer is righteous in Christ. Sanctification is God's ongoing work of making that believer more like Christ.",
     simpleMeaning:
@@ -493,6 +493,7 @@ export const bibleTermEntries: BibleTermEntry[] = [
       "what-is-righteousness-in-the-bible",
       "romans-5-8-meaning",
       "romans-6-23-meaning",
+      "romans-10-9-meaning",
       "bible-verses-for-guidance"
     ],
     intent: "informational",
@@ -520,10 +521,10 @@ export const bibleTermEntries: BibleTermEntry[] = [
     title: "What Is Forgiveness in the Bible",
     seoTitle: "What Is Forgiveness in the Bible? Clear Meaning",
     metaDescription:
-      "Understand biblical forgiveness with simple definition, context, key verses, and practical application for real relationships.",
+      "Understand biblical forgiveness with clear definition, context, and practical application for conflict, hurt, and reconciliation.",
     h1: "What is forgiveness in the Bible?",
     intro:
-      "Forgiveness is central to Christian faith and also one of the hardest practices in real life. This page explains biblical forgiveness clearly: what it is, what it is not, and how to live it faithfully.",
+      "Biblical forgiveness means releasing personal vengeance and responding with grace because God has forgiven us in Christ. It is one of the hardest Christian practices, especially in deep relational hurt, so this page clarifies what forgiveness is and is not.",
     definition:
       "Biblical forgiveness is releasing personal vengeance and extending mercy because God has forgiven us in Christ.",
     simpleMeaning:
@@ -543,6 +544,8 @@ export const bibleTermEntries: BibleTermEntry[] = [
       "what-is-grace-in-the-bible",
       "what-is-repentance-in-the-bible",
       "grace-vs-mercy-in-the-bible",
+      "john-3-16-meaning",
+      "romans-6-23-meaning",
       "bible-verses-for-forgiveness",
       "bible-verses-about-love-and-marriage",
       "romans-5-8-meaning"

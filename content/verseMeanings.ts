@@ -1551,13 +1551,13 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
     title: "John 3:16 vs John 3:17 Explained",
     seoTitle: "John 3:16 vs John 3:17 Explained Simply | Verse Explained",
     metaDescription:
-      "Compare John 3:16 and John 3:17 with simple context, key differences, and practical gospel meaning without confusion.",
+      "Compare John 3:16 and John 3:17 with clear differences, context, and practical gospel meaning for faith and salvation.",
     h1: "John 3:16 vs John 3:17 Explained Simply",
     verseReference: "John 3:16-17",
     verseText:
       "John 3:16: For God so loved the world that he gave his one and only Son... John 3:17: For God did not send his Son into the world to condemn the world, but to save the world through him.",
     intro:
-      "Many readers know John 3:16 but are less familiar with John 3:17. Together, these verses explain both God's motive and Christ's mission. John 3:16 shows God's love and gift. John 3:17 clarifies why Jesus came: not first to condemn, but to save. This comparison helps answer search intent behind john 3:16 vs john 3:17, john 3 gospel summary, and difference between john 3:16 and 3:17. Reading them together prevents distorted views of either cheap grace or harsh condemnation.",
+      "John 3:16 answers what God gave in love, and John 3:17 answers why Jesus came to the world. Read together, they show the full gospel pattern: love that gives and a Savior who rescues. Many people search john 3:16 vs john 3:17 because they know one verse but not the other. This comparison clarifies the difference in emphasis, keeps the passage in context, and avoids two errors: reducing salvation to sentiment or reducing God to condemnation.",
     simpleMeaning:
       "John 3:16 explains God's loving provision; John 3:17 explains Christ's saving purpose. Love gives, and salvation rescues.",
     context:
@@ -1576,6 +1576,8 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
       "john-3-36-meaning",
       "john-14-6-meaning",
       "romans-10-9-meaning",
+      "bible-verses-for-peace",
+      "bible-verses-for-guidance",
       "what-is-salvation-in-the-bible",
       "what-is-grace-in-the-bible"
     ],
@@ -1609,12 +1611,12 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
     title: "Romans 6:23 Meaning",
     seoTitle: "Romans 6:23 Meaning Explained Simply | Verse Explained",
     metaDescription:
-      "Understand Romans 6:23 in plain English with context, what 'wages' and 'gift' mean, and practical gospel application.",
+      "Understand Romans 6:23 in plain English with context, key contrast, and practical gospel application for grace and salvation.",
     h1: "Romans 6:23 Meaning Explained Simply",
     verseReference: "Romans 6:23",
     verseText: "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
     intro:
-      "Romans 6:23 is a core gospel verse because it contrasts what sin earns with what God gives. People searching romans 6:23 meaning often ask if this verse is only about punishment or also about hope. In context, it is both warning and invitation. Sin leads to death, but God offers eternal life as a gift in Christ. This verse is central for search intent around wages of sin is death meaning, gift of God eternal life, and romans 6:23 explained.",
+      "Romans 6:23 means sin earns death, but God gives eternal life as a gift in Christ. This single verse explains why the gospel is both warning and invitation. People searching romans 6:23 meaning usually need clarity on the contrast between wages and gift. Paul is not presenting two equal options of self-salvation and grace; he is showing that life is received, not earned, and that Christ is the only source of that life.",
     simpleMeaning:
       "Sin earns death; salvation is a gift. Eternal life cannot be earned but is received through Jesus Christ.",
     context:
@@ -1632,6 +1634,8 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
       "romans-10-9-meaning",
       "romans-5-8-meaning",
       "john-3-16-meaning",
+      "bible-verses-for-hope",
+      "bible-verses-for-forgiveness",
       "what-is-sin-in-the-bible",
       "what-is-salvation-in-the-bible",
       "what-is-grace-in-the-bible"

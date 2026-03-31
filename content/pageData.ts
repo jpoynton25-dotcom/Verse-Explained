@@ -522,7 +522,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "interpretive",
     mainKeyword: "john 14:6 meaning",
     secondaryKeywords: ["i am the way the truth and the life meaning", "john 14:6 explained", "john 14:6 context", "way truth life verse"],
-    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    sectionHeadings: ["Quick answer", "Verse text", "Key difference", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Verse Meanings", href: "/verse-meanings" },
@@ -537,7 +537,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "interpretive",
     mainKeyword: "john 8:12 meaning",
     secondaryKeywords: ["i am the light of the world meaning", "john 8:12 explained", "john 8:12 context", "light of life verse"],
-    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    sectionHeadings: ["Quick answer", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Verse Meanings", href: "/verse-meanings" },
@@ -1072,7 +1072,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "problem-solving",
     mainKeyword: "bible verses about love and marriage",
     secondaryKeywords: ["marriage scriptures", "bible verses for couples", "biblical love in marriage", "verses for marriage strength"],
-    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    sectionHeadings: ["Search-intent intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Verses by Need", href: "/verses-by-need" },
@@ -1147,7 +1147,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "problem-solving",
     mainKeyword: "bible verses for overthinking",
     secondaryKeywords: ["scriptures for racing thoughts", "bible verses for overthinking at night", "verses for mental peace", "peace of mind verses"],
-    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    sectionHeadings: ["Search-intent intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Verses by Need", href: "/verses-by-need" },
@@ -1162,7 +1162,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "problem-solving",
     mainKeyword: "bible verses for work stress",
     secondaryKeywords: ["scripture for job stress", "verses for pressure at work", "peace at work bible verses", "bible for work anxiety"],
-    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    sectionHeadings: ["Search-intent intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Verses by Need", href: "/verses-by-need" },
@@ -1177,7 +1177,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "problem-solving",
     mainKeyword: "bible verses for decision making",
     secondaryKeywords: ["scripture for hard decisions", "verses about god's direction", "discernment bible verses", "bible for big decisions"],
-    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    sectionHeadings: ["Search-intent intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Verses by Need", href: "/verses-by-need" },
@@ -1207,7 +1207,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "informational",
     mainKeyword: "faith vs trust in the bible",
     secondaryKeywords: ["difference between faith and trust scripture", "biblical faith and trust", "faith and trust explained", "trusting god vs faith"],
-    sectionHeadings: ["Intro", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    sectionHeadings: ["Quick distinction", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Bible Terms", href: "/bible-terms" },
@@ -1222,7 +1222,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "informational",
     mainKeyword: "grace vs mercy in the bible",
     secondaryKeywords: ["difference between grace and mercy", "grace and mercy meaning", "biblical grace vs mercy", "god's grace and mercy"],
-    sectionHeadings: ["Intro", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    sectionHeadings: ["Quick distinction", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Bible Terms", href: "/bible-terms" },
@@ -1237,7 +1237,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "informational",
     mainKeyword: "justification vs sanctification",
     secondaryKeywords: ["difference between justification and sanctification", "justification and sanctification explained", "salvation process bible", "sanctification vs justification"],
-    sectionHeadings: ["Intro", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    sectionHeadings: ["Quick distinction", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Bible Terms", href: "/bible-terms" },
@@ -1252,7 +1252,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "informational",
     mainKeyword: "what is forgiveness in the bible",
     secondaryKeywords: ["biblical forgiveness meaning", "forgive as christ forgave", "forgiveness scripture explained", "christian forgiveness definition"],
-    sectionHeadings: ["Intro", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
+    sectionHeadings: ["Quick definition", "Definition", "Simple explanation", "Biblical context", "Deeper understanding", "Common misunderstanding", "Related verses", "Real-life takeaway", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Bible Terms", href: "/bible-terms" },

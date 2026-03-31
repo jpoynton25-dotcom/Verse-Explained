@@ -1589,10 +1589,10 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     title: "Bible Verses for Overthinking",
     seoTitle: "Bible Verses for Overthinking and Mental Spiral | Verse Explained",
     metaDescription:
-      "Find Bible verses for overthinking with simple explanations to calm mental spirals, restore focus, and build trust in God.",
+      "Find Bible verses for overthinking with practical help for racing thoughts, nighttime spirals, and anxiety-driven indecision.",
     h1: "Bible verses for overthinking",
     intro:
-      "Overthinking can feel like mental noise that never stops. This page is built for that exact struggle. If your thoughts loop at night, during decisions, or after hard conversations, these scriptures help interrupt anxiety patterns with truth. This is a focused page for bible verses for overthinking, scriptures for racing thoughts, and peace of mind verses.",
+      "Bible verses for overthinking help interrupt racing thoughts and reset your mind around truth. This page is specifically for repetitive thought loops, especially at night or during high-stakes decisions, and is intentionally narrower than a general anxiety page. If you are searching scriptures for racing thoughts or peace of mind verses, these passages are selected for that exact pattern.",
     context:
       "Scripture addresses anxious thought patterns by redirecting attention toward God's presence, truth, and faithful action.",
     deeperUnderstanding:
@@ -1690,10 +1690,10 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     title: "Bible Verses for Work Stress",
     seoTitle: "Bible Verses for Work Stress and Pressure | Verse Explained",
     metaDescription:
-      "Read Bible verses for work stress with practical guidance for pressure, decision fatigue, and peace in demanding work seasons.",
+      "Read Bible verses for work stress with practical guidance for pressure, decision fatigue, conflict, and peace in demanding seasons.",
     h1: "Bible verses for work stress",
     intro:
-      "Work stress can affect focus, mood, sleep, and relationships. This page is specifically for job pressure, deadlines, heavy responsibility, and decision fatigue. If you are searching bible verses for work stress, scripture for job stress, or peace at work Bible verses, these passages give practical grounding for real weekdays.",
+      "Bible verses for work stress give practical anchors for deadlines, performance pressure, and emotionally draining workdays. This page focuses on workplace strain specifically, not general life anxiety. If you are searching scripture for job stress or peace at work Bible verses, these passages help you carry responsibility with wisdom and calm.",
     context:
       "The Bible addresses labor, responsibility, anxiety, and integrity. God cares about how we carry pressure, not only about outcomes.",
     deeperUnderstanding:
@@ -1791,10 +1791,10 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     title: "Bible Verses for Decision Making",
     seoTitle: "Bible Verses for Decision Making and Clarity",
     metaDescription:
-      "Find Bible verses for decision making with simple guidance on wisdom, peace, and taking faithful next steps.",
+      "Find Bible verses for decision making with practical guidance on wisdom, discernment, peace, and faithful next steps.",
     h1: "Bible verses for decision making",
     intro:
-      "Hard decisions often create pressure, fear, and second-guessing. This page helps you bring major and minor choices under biblical wisdom. If you are searching bible verses for decision making, scripture for hard decisions, or verses about God's direction, these passages are focused for that intent.",
+      "Bible verses for decision making help you move from confusion to faithful clarity. This page targets hard-choice moments where you need wisdom, not vague inspiration. If you are searching scripture for hard decisions or verses about God's direction, these passages are selected to support prayer, discernment, and action.",
     context:
       "The Bible teaches that wisdom is requested, received, and practiced. God's guidance often comes through Scripture-shaped judgment, prayer, and counsel.",
     deeperUnderstanding:
@@ -1891,10 +1891,10 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     title: "Bible Verses for When Prayers Feel Unanswered",
     seoTitle: "Bible Verses for Unanswered Prayer and Waiting",
     metaDescription:
-      "Read Bible verses for unanswered prayer with practical guidance for waiting, trust, and hope when God feels silent.",
+      "Read Bible verses for unanswered prayer with practical guidance for waiting, trust, and endurance when God feels silent.",
     h1: "Bible verses for when prayers feel unanswered",
     intro:
-      "Few spiritual struggles are harder than praying repeatedly and seeing no change. This page is for that exact season. If you are searching bible verses for unanswered prayer, scripture for waiting on God, or verses when God feels silent, these passages help you wait with faith instead of resignation.",
+      "Bible verses for unanswered prayer help you stay faithful when you have prayed repeatedly and still see no visible change. This page is for delayed-answer seasons, not general prayer routines. If you are searching scripture for waiting on God or verses for when God feels silent, these passages give practical endurance and perspective.",
     context:
       "Scripture includes many faithful people who waited through delay. Their stories show that delay is not always denial and silence is not absence.",
     deeperUnderstanding:
