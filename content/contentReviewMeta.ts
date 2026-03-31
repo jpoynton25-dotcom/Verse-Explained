@@ -10,7 +10,7 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "jeremiah-29-11-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "psalm-23-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "the-lord-is-my-shepherd-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
-  "healing-scriptures": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "healing-scriptures": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "encouraging-bible-verses": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "bible-verses-for-strength": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "bible-verses-for-fear": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
@@ -28,7 +28,7 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "romans-8-28-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "matthew-11-28-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "philippians-4-6-7-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
-  "bible-verses-for-hope": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-hope": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "bible-verses-for-forgiveness": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "bible-verses-for-prayer": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "what-is-salvation-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
@@ -60,6 +60,7 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "john-19-30-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "john-3-36-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "romans-10-9-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
-  "bible-verses-for-healing-from-sickness": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
-  "bible-verses-about-hope-in-hard-times": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" }
+  "bible-verses-for-healing-from-sickness": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-about-hope-in-hard-times": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "john-14-6-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" }
 };

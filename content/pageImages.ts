@@ -9,6 +9,7 @@ export const pageImageSequenceBySlug: Record<string, PageImageSequence> = {
   "john-3-17-meaning": { slots: ["intro", "struggle", "resolution"] },
   "john-11-25-meaning": { slots: ["intro", "struggle", "resolution"] },
   "john-11-35-meaning": { slots: ["intro", "struggle", "resolution"] },
+  "john-14-6-meaning": { slots: ["intro", "struggle", "resolution"] },
   "john-19-30-meaning": { slots: ["intro", "struggle", "resolution"] },
   "john-3-36-meaning": { slots: ["intro", "struggle", "resolution"] },
   "romans-10-9-meaning": { slots: ["intro", "struggle", "resolution"] },

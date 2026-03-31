@@ -29,6 +29,9 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
     relatedSlugs: [
       "bible-verses-for-anxiety",
       "bible-verses-for-strength",
+      "john-14-6-meaning",
+      "psalm-91-1-2-meaning",
+      "isaiah-40-31-meaning",
       "what-is-grace-in-the-bible",
       "what-is-salvation-in-the-bible",
       "what-is-faith-in-the-bible"
@@ -583,11 +586,13 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
     finalReflection:
       "Psalm 91:1-2 builds steady confidence: God is a real refuge for people who trust Him.",
     relatedSlugs: [
+      "isaiah-40-31-meaning",
       "psalm-46-1-meaning",
       "psalm-23-meaning",
       "bible-verses-for-fear",
       "bible-verses-for-peace",
-      "isaiah-41-10-meaning"
+      "isaiah-41-10-meaning",
+      "what-is-faith-in-the-bible"
     ],
     intent: "problem-solving",
     faqs: [
@@ -635,10 +640,13 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
       "Isaiah 40:31 offers resilient hope: God renews people who keep trusting Him.",
     relatedSlugs: [
       "bible-verses-for-strength",
+      "psalm-91-1-2-meaning",
       "isaiah-41-10-meaning",
       "encouraging-bible-verses",
       "romans-8-18-meaning",
-      "bible-verses-for-guidance"
+      "bible-verses-for-guidance",
+      "john-14-6-meaning",
+      "what-is-faith-in-the-bible"
     ],
     intent: "problem-solving",
     faqs: [
@@ -656,6 +664,66 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
         question: "How do I apply Isaiah 40:31 when I'm exhausted?",
         answer:
           "Pray honestly, reduce anxious striving, and take one faithful step while trusting God to sustain you."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "john-14-6-meaning",
+    title: "John 14:6 Meaning",
+    seoTitle: "John 14:6 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand John 14:6 in plain English with context, common misunderstandings, and practical guidance for following Jesus today.",
+    h1: "John 14:6 Meaning Explained Simply",
+    verseReference: "John 14:6",
+    verseText:
+      "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'",
+    intro:
+      "John 14:6 is one of the most discussed verses in the New Testament because it makes a clear claim about who Jesus is. People searching John 14:6 meaning usually want to understand whether Jesus is giving moral advice, spiritual direction, or an exclusive salvation statement. In context, He is giving all three dimensions at once: Jesus is the way to God, the truth that defines reality, and the life that restores people spiritually. This verse also addresses common search questions around i am the way the truth and the life meaning, John 14:6 explained, and John 14:6 context.",
+    simpleMeaning:
+      "Jesus is not only a teacher pointing toward God; He is the only sufficient way to the Father. Real life and truth are found in relationship with Him.",
+    context:
+      "Jesus speaks this during the Last Supper after telling the disciples He is going to prepare a place for them. Thomas asks how they can know the way, and Jesus answers with this direct statement of identity and access to the Father.",
+    deeperUnderstanding:
+      "John 14:6 combines identity and invitation. Jesus is the way because He reconciles sinners to God, the truth because He reveals God perfectly, and the life because He gives eternal life through His death and resurrection. The verse is not merely doctrinal; it calls for trustful allegiance.",
+    misunderstanding:
+      "A common misunderstanding is reducing this verse to intolerance language detached from grace. In context, Jesus speaks these words to comfort anxious disciples by giving certainty about access to the Father.",
+    takeaway:
+      "When you feel spiritually uncertain, return to Jesus Himself instead of endless self-analysis. Trust His words, follow His way, and align your next decision with His truth.",
+    finalReflection:
+      "John 14:6 gives both clarity and comfort: Jesus is not one option among many, but the reliable way to the Father for all who trust Him.",
+    relatedSlugs: [
+      "john-3-16-meaning",
+      "john-19-30-meaning",
+      "romans-10-9-meaning",
+      "psalm-91-1-2-meaning",
+      "isaiah-40-31-meaning",
+      "bible-verses-for-guidance",
+      "bible-verses-for-peace",
+      "what-is-salvation-in-the-bible",
+      "what-is-faith-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does Jesus mean by 'I am the way' in John 14:6?",
+        answer:
+          "He means access to the Father comes through Him personally, not through human merit or alternative spiritual paths."
+      },
+      {
+        question: "Is John 14:6 only about doctrine?",
+        answer:
+          "No. It is doctrinally clear, but also deeply practical because it guides how believers trust, obey, and make daily choices."
+      },
+      {
+        question: "How does John 14:6 connect to salvation?",
+        answer:
+          "It teaches that reconciliation with God is through Jesus alone, which aligns with other salvation passages like John 3:16 and Romans 10:9."
+      },
+      {
+        question: "How can I apply John 14:6 today?",
+        answer:
+          "Ask where you are following your own path, then deliberately submit that area to Jesus as your way, truth, and life."
       }
     ]
   },

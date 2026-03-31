@@ -29,8 +29,16 @@ const hubPages = [
 const sortByTitle = <T extends { title: string }>(items: T[]) =>
   [...items].sort((a, b) => a.title.localeCompare(b.title));
 
-const Section = ({ title, links }: { title: string; links: Array<{ title: string; href: string }> }) => (
-  <section className="rounded-soft border border-line bg-white p-6 shadow-card">
+const Section = ({
+  id,
+  title,
+  links
+}: {
+  id: string;
+  title: string;
+  links: Array<{ title: string; href: string }>;
+}) => (
+  <section id={id} className="rounded-soft border border-line bg-white p-6 shadow-card">
     <h2 className="text-xl font-semibold tracking-tight">{title}</h2>
     <ul className="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
       {links.map((link) => (
@@ -71,15 +79,32 @@ export default function AllPagesPage() {
         <header className="rounded-soft border border-line bg-white p-6 shadow-card sm:p-8">
           <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">All pages</h1>
           <p className="mt-3 max-w-prose text-text/80">
-            Use this index to browse every major page on Verse Explained. This page also helps search engines discover and recrawl content efficiently.
+            Use this index to browse every major page on Verse Explained by section. It also improves crawl paths by linking all key pages from one organized location.
           </p>
+          <nav className="mt-5 flex flex-wrap gap-2 text-sm">
+            <Link href="#core-pages" className="rounded-full border border-line px-3 py-1.5 hover:border-accent">
+              Core
+            </Link>
+            <Link href="#verse-meanings" className="rounded-full border border-line px-3 py-1.5 hover:border-accent">
+              Verse Meanings
+            </Link>
+            <Link href="#verses-by-need" className="rounded-full border border-line px-3 py-1.5 hover:border-accent">
+              Verses by Need
+            </Link>
+            <Link href="#bible-terms" className="rounded-full border border-line px-3 py-1.5 hover:border-accent">
+              Bible Terms
+            </Link>
+            <Link href="#bible-people-places" className="rounded-full border border-line px-3 py-1.5 hover:border-accent">
+              Bible People
+            </Link>
+          </nav>
         </header>
 
-        <Section title="Core Pages" links={hubPages} />
-        <Section title="Verse Meanings" links={verseMeaningLinks} />
-        <Section title="Verses by Need" links={versesByNeedLinks} />
-        <Section title="Bible Terms" links={bibleTermLinks} />
-        <Section title="Bible People & Places" links={biblePeoplePlaceLinks} />
+        <Section id="core-pages" title="Core Pages" links={hubPages} />
+        <Section id="verse-meanings" title="Verse Meanings" links={verseMeaningLinks} />
+        <Section id="verses-by-need" title="Verses by Need" links={versesByNeedLinks} />
+        <Section id="bible-terms" title="Bible Terms" links={bibleTermLinks} />
+        <Section id="bible-people-places" title="Bible People & Places" links={biblePeoplePlaceLinks} />
       </div>
     </Container>
   );

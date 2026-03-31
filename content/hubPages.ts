@@ -82,6 +82,7 @@ export const hubPageData: Record<string, HubPageData> = {
         heading: "Gospel and salvation passages",
         description: "Core verses that explain belief, salvation, and Christ's finished work.",
         slugs: [
+          "john-14-6-meaning",
           "john-19-30-meaning",
           "john-3-36-meaning",
           "romans-10-9-meaning",

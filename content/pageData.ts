@@ -518,6 +518,21 @@ export const pageDataBySlug: Record<string, PageData> = {
       keywords: ["isaiah 40:31 meaning", "renewed strength", "hope in the lord"]
     }
   },
+  "john-14-6-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 14:6 meaning",
+    secondaryKeywords: ["i am the way the truth and the life meaning", "john 14:6 explained", "john 14:6 context", "way truth life verse"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 14:6 Meaning", href: "/john-14-6-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 14:6 meaning", "way truth life", "jesus the only way"]
+    }
+  },
   "bible-verses-for-depression": {
     primaryIntent: "problem-solving",
     mainKeyword: "bible verses for depression",
