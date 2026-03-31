@@ -959,5 +959,179 @@ export const verseMeaningEntries: VerseMeaningEntry[] = [
           "Be honest about doubts in prayer, stay rooted in Scripture, and practice small acts of obedience while confidence develops."
       }
     ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "john-19-30-meaning",
+    title: "John 19:30 Meaning",
+    seoTitle: "John 19:30 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand John 19:30 ('It is finished') in plain English with context, common misunderstandings, and practical faith application.",
+    h1: "John 19:30 Meaning Explained Simply",
+    verseReference: "John 19:30",
+    verseText:
+      "When he had received the drink, Jesus said, 'It is finished.' With that, he bowed his head and gave up his spirit.",
+    intro:
+      "John 19:30 is a key salvation verse because Jesus' words, 'It is finished,' summarize what happened at the cross. Many people search John 19:30 meaning to understand whether this was a cry of defeat or a declaration of victory. In context, Jesus was announcing that His atoning mission was completed in full. This verse also connects directly with secondary searches like it is finished meaning, John 19:30 explained, and finished work of Christ verse. Understanding this passage clearly helps you read grace, forgiveness, and assurance through a biblical lens instead of a performance mindset.",
+    simpleMeaning:
+      "Jesus declared that His redemptive work was complete. Nothing else needed to be added to pay for sin and open the way to God.",
+    context:
+      "John records this at the climax of the crucifixion narrative. Jesus remains purposeful to the end, fulfilling Scripture and completing the mission He described throughout His ministry.",
+    deeperUnderstanding:
+      "The phrase translated 'It is finished' carries the idea of completion in full, not partial progress. John 19:30 shows that salvation rests on Christ's completed work, not on human effort. Believers obey and grow because they are saved, not in order to earn salvation.",
+    misunderstanding:
+      "A common misunderstanding is that Jesus was saying His life ended in failure. In context, He was proclaiming completed victory over sin through obedient sacrifice.",
+    takeaway:
+      "When guilt or spiritual pressure rises, return to John 19:30 and pray from completion, not panic. Let obedience flow from gratitude for what Christ has already finished.",
+    finalReflection:
+      "John 19:30 invites confident trust: Jesus did not leave salvation unfinished, and you do not need to complete what He already fulfilled.",
+    relatedSlugs: [
+      "john-3-16-meaning",
+      "john-3-36-meaning",
+      "romans-10-9-meaning",
+      "bible-verses-for-peace",
+      "bible-verses-for-guidance",
+      "what-is-salvation-in-the-bible",
+      "what-is-grace-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does 'It is finished' mean in John 19:30?",
+        answer:
+          "It means Jesus completed the saving work He came to accomplish. His sacrifice was sufficient and final."
+      },
+      {
+        question: "Does John 19:30 mean I do not need to obey God?",
+        answer:
+          "No. Obedience still matters, but it is the fruit of salvation, not the price of it."
+      },
+      {
+        question: "How is John 19:30 connected to assurance?",
+        answer:
+          "Because the verse grounds confidence in Christ's finished work rather than in changing human performance."
+      },
+      {
+        question: "How can I apply John 19:30 in daily life?",
+        answer:
+          "Use it when shame resurfaces: confess honestly, receive grace, and take the next faithful step."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "john-3-36-meaning",
+    title: "John 3:36 Meaning",
+    seoTitle: "John 3:36 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Learn John 3:36 in plain English with context, clear meaning of belief and rejection, and practical application for everyday faith.",
+    h1: "John 3:36 Meaning Explained Simply",
+    verseReference: "John 3:36",
+    verseText:
+      "Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on them.",
+    intro:
+      "John 3:36 gives a direct summary of the gospel's urgency and promise. People search John 3:36 meaning because the verse holds both invitation and warning in one sentence. It answers questions behind keywords like whoever believes in the Son has eternal life meaning, John 3:36 explained, and John 3:36 context. The verse is not written to create panic but clarity: trusting Christ leads to life, while rejecting Him leaves a person where judgment already stands. In a culture of vague spirituality, John 3:36 gives specific direction about where eternal life is found.",
+    simpleMeaning:
+      "Eternal life is found in the Son, Jesus Christ. Rejecting Him is not neutral; it leaves a person separated from the life God offers.",
+    context:
+      "This statement closes the chapter where Jesus speaks with Nicodemus and John the Baptist testifies about Christ's authority. The flow emphasizes belief in the Son as the decisive response to God's revelation.",
+    deeperUnderstanding:
+      "John 3:36 is about present direction as much as future outcome. Belief is ongoing trust, not one-time agreement with facts. The verse contrasts two paths: receiving Christ's life now, or remaining under judgment by refusing Him.",
+    misunderstanding:
+      "A common misunderstanding is reading this as harsh exclusion without context. In the same chapter, God gives His Son in love; the warning exists because the invitation is real and urgent.",
+    takeaway:
+      "Respond to this verse personally: move from vague belief to active trust in Jesus, then align your daily choices with that trust.",
+    finalReflection:
+      "John 3:36 is clear and merciful at once: life is truly offered in Christ, and your response to Him truly matters.",
+    relatedSlugs: [
+      "john-3-16-meaning",
+      "john-3-17-meaning",
+      "john-19-30-meaning",
+      "bible-verses-for-guidance",
+      "bible-verses-for-peace",
+      "what-is-faith-in-the-bible",
+      "what-is-salvation-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does John 3:36 teach about eternal life?",
+        answer:
+          "It teaches that eternal life is received through believing in the Son, not through self-earned righteousness."
+      },
+      {
+        question: "Does 'believes' in John 3:36 mean only mental agreement?",
+        answer:
+          "No. In John's Gospel, belief includes trust, reliance, and allegiance to Christ."
+      },
+      {
+        question: "Why does John 3:36 include a warning?",
+        answer:
+          "Because rejecting Jesus has real consequences. The warning makes the invitation to life clear and urgent."
+      },
+      {
+        question: "How can I apply John 3:36 today?",
+        answer:
+          "Ask where you are relying on yourself, then surrender that area to Christ in practical trust."
+      }
+    ]
+  },
+  {
+    kind: "verse-meaning",
+    slug: "romans-10-9-meaning",
+    title: "Romans 10:9 Meaning",
+    seoTitle: "Romans 10:9 Meaning Explained Simply | Verse Explained",
+    metaDescription:
+      "Understand Romans 10:9 in plain English with context, what confession and belief mean, and practical steps for clear faith.",
+    h1: "Romans 10:9 Meaning Explained Simply",
+    verseReference: "Romans 10:9",
+    verseText:
+      "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart that God raised him from the dead, you will be saved.",
+    intro:
+      "Romans 10:9 is one of the clearest verses people read when asking how salvation works. Search intent behind Romans 10:9 meaning often includes questions like confess with your mouth believe in your heart meaning, Romans 10:9 explained, and Romans 10:9 salvation. Paul is not offering a ritual formula. He is describing genuine faith expressed both inwardly and outwardly. Heart-belief and mouth-confession belong together: trust in the risen Christ changes identity and allegiance. This verse helps remove confusion by showing that saving faith is personal, public, and centered on Jesus' resurrection lordship.",
+    simpleMeaning:
+      "Salvation comes through real trust in Jesus and open confession that He is Lord. Faith is not hidden agreement only; it becomes lived allegiance.",
+    context:
+      "Romans 10 explains righteousness by faith in contrast to self-achieved righteousness. Paul argues that salvation is near and accessible through the gospel message about Christ.",
+    deeperUnderstanding:
+      "Romans 10:9 unites belief and confession because the gospel transforms both heart and life. Confession is not a magic sentence; it is the outward expression of inward trust in the crucified and risen Lord.",
+    misunderstanding:
+      "A common misunderstanding is treating this verse like a one-time script that guarantees change without repentance or discipleship. Paul describes authentic faith that continues in obedience.",
+    takeaway:
+      "Use this verse to examine your trust and your testimony. Believe Christ deeply, confess Him clearly, and follow Him practically.",
+    finalReflection:
+      "Romans 10:9 gives simple gospel clarity: trust the risen Jesus as Lord, and do not hide the faith you profess.",
+    relatedSlugs: [
+      "john-3-16-meaning",
+      "john-19-30-meaning",
+      "john-3-36-meaning",
+      "bible-verses-for-guidance",
+      "bible-verses-for-peace",
+      "what-is-salvation-in-the-bible",
+      "what-is-repentance-in-the-bible"
+    ],
+    intent: "interpretive",
+    faqs: [
+      {
+        question: "What does Romans 10:9 mean by 'believe in your heart'?",
+        answer:
+          "It means genuine trust from the core of your being, not merely repeating words without conviction."
+      },
+      {
+        question: "Why does Romans 10:9 mention confession with the mouth?",
+        answer:
+          "Because real faith is not private forever; it publicly acknowledges Jesus as Lord."
+      },
+      {
+        question: "Is Romans 10:9 teaching salvation by words alone?",
+        answer:
+          "No. Paul describes confession as the expression of authentic faith in Christ's death and resurrection."
+      },
+      {
+        question: "How can I apply Romans 10:9 today?",
+        answer:
+          "Confess Christ openly in your daily life and align choices with His lordship where you have been hesitant."
+      }
+    ]
   }
 ];

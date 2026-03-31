@@ -46,8 +46,8 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "what-is-the-sermon-on-the-mount": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "psalm-91-1-2-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "isaiah-40-31-meaning": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
-  "bible-verses-for-peace": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
-  "bible-verses-for-guidance": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
+  "bible-verses-for-peace": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "bible-verses-for-guidance": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "what-is-justification-in-the-bible": { lastReviewed: "2026-03-26", dateModified: "2026-03-26" },
   "john-3-17-meaning": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
   "john-11-25-meaning": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
@@ -57,6 +57,9 @@ export const contentReviewMetaBySlug: Record<string, ReviewMeta> = {
   "romans-8-31-meaning": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
   "isaiah-40-8-meaning": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
   "john-20-29-meaning": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
+  "john-19-30-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "john-3-36-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
+  "romans-10-9-meaning": { lastReviewed: "2026-03-31", dateModified: "2026-03-31" },
   "bible-verses-for-healing-from-sickness": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" },
   "bible-verses-about-hope-in-hard-times": { lastReviewed: "2026-03-27", dateModified: "2026-03-27" }
 };

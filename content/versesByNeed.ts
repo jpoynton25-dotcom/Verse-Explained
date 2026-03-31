@@ -932,7 +932,7 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "Find Bible verses for peace with clear explanations to calm anxious thoughts and help you rest in God's presence.",
     h1: "Bible verses for peace",
     intro:
-      "If your thoughts feel noisy or unsettled, these Bible verses for peace provide practical, prayer-ready truth.",
+      "If you are searching for Bible verses for peace because your mind feels restless, this page is built for that moment. You will find peace scriptures and verses about peace grouped by real situations like anxiety spikes, nighttime worry, and unresolved pressure. Each verse includes a short explanation so you can move from reading to prayer quickly. Instead of trying to force calm, use these Bible verses for peace to refocus your thoughts on God's character and promises one step at a time.",
     context:
       "Biblical peace is more than quiet circumstances. It is a settled confidence in God's presence and care during pressure.",
     deeperUnderstanding:
@@ -947,10 +947,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "God's peace can guard your heart even when your situation is still developing.",
     relatedSlugs: [
       "philippians-4-6-7-meaning",
-      "bible-verses-for-anxiety",
-      "night-bible-verse",
       "psalm-91-1-2-meaning",
-      "matthew-11-28-meaning"
+      "john-19-30-meaning",
+      "bible-verses-for-anxiety",
+      "bible-verses-for-guidance",
+      "what-is-faith-in-the-bible",
+      "romans-10-9-meaning"
     ],
     intent: "problem-solving",
     groups: [
@@ -984,6 +986,23 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
             explanation: "Jesus offers peace that is deeper than changing circumstances."
           }
         ]
+      },
+      {
+        heading: "When guilt keeps interrupting peace",
+        items: [
+          {
+            reference: "John 19:30",
+            text: "When he had received the drink, Jesus said, 'It is finished.'",
+            explanation: "Peace grows when you remember Christ's finished work is sufficient and you do not need to self-save.",
+            verseMeaningSlug: "john-19-30-meaning"
+          },
+          {
+            reference: "Romans 10:9",
+            text: "If you declare with your mouth, 'Jesus is Lord,' and believe in your heart... you will be saved.",
+            explanation: "Confessing and trusting Christ anchors peace in God's promise instead of your performance.",
+            verseMeaningSlug: "romans-10-9-meaning"
+          }
+        ]
       }
     ],
     faqs: [
@@ -1013,7 +1032,7 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "Explore Bible verses for guidance with simple explanations for decision-making, next steps, and trusting God's direction.",
     h1: "Bible verses for guidance",
     intro:
-      "When you need direction for a decision, these Bible verses for guidance help you move forward with clarity and trust.",
+      "If you are searching for Bible verses for guidance, you are likely facing a decision with real consequences. This page gathers Scripture for guidance, verses for decision making, and practical direction verses you can pray through immediately. Each passage is grouped by common decision pressure: trusting God, choosing wisely, and acting when clarity is partial. The goal is not perfect certainty before action. It is faithful movement with biblical wisdom, honest prayer, and steady trust in God's direction for your next step.",
     context:
       "The Bible presents guidance as relational. God directs people through scripture, prayer, wisdom, and faithful next steps.",
     deeperUnderstanding:
@@ -1028,10 +1047,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "You do not need to see everything at once to walk faithfully with God.",
     relatedSlugs: [
       "proverbs-3-5-6-meaning",
-      "bible-verses-for-strength",
-      "daily-scripture-explained",
       "isaiah-40-31-meaning",
-      "what-is-faith-in-the-bible"
+      "romans-10-9-meaning",
+      "bible-verses-for-strength",
+      "bible-verses-for-peace",
+      "what-is-faith-in-the-bible",
+      "john-3-36-meaning"
     ],
     intent: "problem-solving",
     groups: [

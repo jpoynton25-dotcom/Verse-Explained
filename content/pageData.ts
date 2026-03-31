@@ -552,7 +552,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "problem-solving",
     mainKeyword: "bible verses for peace",
     secondaryKeywords: ["peace scriptures", "verses about peace", "anxiety and peace bible verses", "god's peace verse"],
-    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "Internal links", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Verses by Need", href: "/verses-by-need" },
@@ -567,7 +567,7 @@ export const pageDataBySlug: Record<string, PageData> = {
     primaryIntent: "problem-solving",
     mainKeyword: "bible verses for guidance",
     secondaryKeywords: ["scripture for guidance", "verses for decision making", "god guide me verse", "bible direction verses"],
-    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "FAQ", "Final reflection"],
+    sectionHeadings: ["Intro", "Verse groups", "Practical summary", "Context", "Deeper understanding", "Common misunderstanding", "Real-life takeaway", "Internal links", "FAQ", "Final reflection"],
     breadcrumb: [
       { label: "Home", href: "/" },
       { label: "Verses by Need", href: "/verses-by-need" },
@@ -836,6 +836,51 @@ export const pageDataBySlug: Record<string, PageData> = {
     article: {
       section: "Verse Meanings",
       keywords: ["john 20:29 meaning", "faith without seeing", "thomas and jesus"]
+    }
+  },
+  "john-19-30-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 19:30 meaning",
+    secondaryKeywords: ["it is finished meaning", "john 19:30 explained", "finished work of christ verse", "john 19:30 context"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 19:30 Meaning", href: "/john-19-30-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 19:30 meaning", "it is finished meaning", "finished work of christ"]
+    }
+  },
+  "john-3-36-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "john 3:36 meaning",
+    secondaryKeywords: ["whoever believes in the son has eternal life meaning", "john 3:36 explained", "john 3:36 context", "john 3:36 eternal life"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "John 3:36 Meaning", href: "/john-3-36-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["john 3:36 meaning", "believes in the son", "eternal life in christ"]
+    }
+  },
+  "romans-10-9-meaning": {
+    primaryIntent: "interpretive",
+    mainKeyword: "romans 10:9 meaning",
+    secondaryKeywords: ["confess with your mouth believe in your heart meaning", "romans 10:9 explained", "romans 10:9 salvation", "jesus is lord meaning"],
+    sectionHeadings: ["Intro", "Verse text", "Simple meaning", "Context", "Deeper understanding", "Common misunderstanding", "Practical takeaway", "Related verses and links", "FAQ", "Final reflection"],
+    breadcrumb: [
+      { label: "Home", href: "/" },
+      { label: "Verse Meanings", href: "/verse-meanings" },
+      { label: "Romans 10:9 Meaning", href: "/romans-10-9-meaning" }
+    ],
+    article: {
+      section: "Verse Meanings",
+      keywords: ["romans 10:9 meaning", "confess jesus is lord", "belief and confession"]
     }
   },
   "bible-verses-for-healing-from-sickness": {

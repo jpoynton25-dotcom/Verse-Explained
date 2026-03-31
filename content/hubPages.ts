@@ -77,6 +77,17 @@ export const hubPageData: Record<string, HubPageData> = {
           "psalm-23-meaning",
           "the-lord-is-my-shepherd-meaning"
         ]
+      },
+      {
+        heading: "Gospel and salvation passages",
+        description: "Core verses that explain belief, salvation, and Christ's finished work.",
+        slugs: [
+          "john-19-30-meaning",
+          "john-3-36-meaning",
+          "romans-10-9-meaning",
+          "john-3-16-meaning",
+          "john-3-17-meaning"
+        ]
       }
     ],
     faqs: [
