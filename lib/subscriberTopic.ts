@@ -24,6 +24,7 @@ const pageTopicOverrides: Record<string, TopicBucket> = {
   "/morning-prayer-scripture": "prayer",
   "/night-bible-verse": "daily_verse",
   "/daily-psalm-explained": "daily_verse",
+  "/encouraging-bible-verses": "hope",
   "/bible-people-places": "bible_people",
   "/bible-terms": "doctrine",
   "/what-is-faith-in-the-bible": "faith",
@@ -50,7 +51,7 @@ export const classifyPageTopic = (rawPath: string): TopicBucket => {
   if (pathHasAny(path, ["anxiety", "panic", "overthinking", "worry"])) return "anxiety";
   if (pathHasAny(path, ["fear"])) return "fear";
   if (pathHasAny(path, ["grief", "loss"])) return "grief";
-  if (pathHasAny(path, ["hope"])) return "hope";
+  if (pathHasAny(path, ["hope", "encourag"])) return "hope";
   if (pathHasAny(path, ["prayer", "prayers"])) return "prayer";
   if (pathHasAny(path, ["strength", "burnout"])) return "strength";
   if (pathHasAny(path, ["guidance", "decision", "feeling-lost", "trusting-god"])) return "guidance";
