@@ -44,14 +44,14 @@ export const EmailSignupCta = () => {
 
   return (
     <section className="rounded-soft border border-line bg-white p-6 shadow-card sm:p-8">
-      <h2 className="text-2xl font-semibold tracking-tight">Get simple Bible verse explanations in your inbox</h2>
+      <h2 className="text-2xl font-semibold tracking-tight">Get Bible verses explained simply - sent to your inbox</h2>
       <p className="mt-3 max-w-prose text-text/80">
-        Join the Verse Explained email list for clear verse meanings, daily scripture, and practical encouragement.
+        Short, clear verse meanings, daily encouragement, and practical guidance for real life.
       </p>
       <ul className="mt-4 grid gap-2 text-sm text-text/80 sm:grid-cols-3">
-        <li className="rounded-xl border border-line bg-canvas px-3 py-2">Weekly verse meaning breakdowns</li>
-        <li className="rounded-xl border border-line bg-canvas px-3 py-2">Daily scripture with simple context</li>
-        <li className="rounded-xl border border-line bg-canvas px-3 py-2">Practical encouragement for real life</li>
+        <li className="rounded-xl border border-line bg-canvas px-3 py-2">Daily Bible verse explained simply</li>
+        <li className="rounded-xl border border-line bg-canvas px-3 py-2">Clear meaning in plain English</li>
+        <li className="rounded-xl border border-line bg-canvas px-3 py-2">Encouragement for real life situations</li>
       </ul>
       <form className="mt-5 flex flex-col gap-3 sm:flex-row" onSubmit={handleSubmit}>
         <label htmlFor="email" className="sr-only">
@@ -63,7 +63,7 @@ export const EmailSignupCta = () => {
           type="email"
           suppressHydrationWarning
           required
-          placeholder="Enter your email"
+          placeholder="👉 Enter your email"
           className="w-full rounded-xl border border-line bg-canvas px-4 py-3 text-sm outline-none ring-accent transition focus:ring-2"
         />
         <button
@@ -71,7 +71,7 @@ export const EmailSignupCta = () => {
           disabled={submitState === "submitting"}
           className="rounded-xl bg-accent px-5 py-3 text-sm font-semibold text-white disabled:opacity-70"
         >
-          {submitState === "submitting" ? "Submitting..." : "Get updates"}
+          {submitState === "submitting" ? "Submitting..." : "👉 Get Free Verses"}
         </button>
       </form>
       <p className="mt-3 text-xs text-text/65" role="status" aria-live="polite">
