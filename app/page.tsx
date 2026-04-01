@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { Container } from "@/components/layout/Container";
-import { EmailSignupCta } from "@/components/content/EmailSignupCta";
 import { PageCard } from "@/components/ui/PageCard";
 import { SectionTitle } from "@/components/ui/SectionTitle";
 import { contentCollections } from "@/lib/content";
@@ -168,8 +167,6 @@ export default function HomePage() {
             <PageCard href="/about" title="About Verse Explained" description="Learn the mission and how to use the site effectively." />
           </div>
         </section>
-
-        <EmailSignupCta />
       </Container>
     </>
   );

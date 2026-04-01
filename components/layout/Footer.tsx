@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Container } from "@/components/layout/Container";
+import { EmailSignupCta } from "@/components/content/EmailSignupCta";
 import { siteConfig } from "@/lib/siteConfig";
 
 const popularPages = [
@@ -15,7 +16,8 @@ export const Footer = () => {
   return (
     <footer className="mt-16 border-t border-line bg-white/80 py-12">
       <Container>
-        <div className="grid gap-8 md:grid-cols-4">
+        <EmailSignupCta />
+        <div className="mt-10 grid gap-8 md:grid-cols-4">
           <div>
             <h2 className="text-base font-semibold">{siteConfig.name}</h2>
             <p className="mt-2 text-sm text-text/75">{siteConfig.tagline}</p>

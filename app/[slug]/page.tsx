@@ -4,7 +4,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Container } from "@/components/layout/Container";
 import { Breadcrumbs } from "@/components/content/Breadcrumbs";
-import { EmailSignupCta } from "@/components/content/EmailSignupCta";
 import { FaqBlock } from "@/components/content/FaqBlock";
 import { RelatedLinks } from "@/components/content/RelatedLinks";
 import { SchemaScript } from "@/components/seo/SchemaScript";
@@ -375,7 +374,6 @@ export default async function DynamicContentPage({ params }: PageProps) {
           </Section>
 
           <RelatedLinks items={related} />
-          <EmailSignupCta />
         </article>
       </div>
     </Container>

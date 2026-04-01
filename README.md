@@ -143,6 +143,10 @@ Use this checklist before publishing any new page:
    - Spot-check internal links and schema output.
    - Confirm `robots.txt` and `sitemap.xml` resolve in production.
 
+## Email Opt-In (Google Sheets)
+- The opt-in form now submits to `POST /api/opt-in` and forwards to a Google Sheets webhook URL.
+- Configure `GOOGLE_SHEETS_WEBHOOK_URL` in `.env.local` (see `.env.example`).
+- Full setup steps: `docs/google-sheets-email-capture.md`.
+
 ## Notes
-- The email CTA UI is implemented as a reusable placeholder form (`EmailSignupCta`) without provider integration.
 - Off-page strategy is documented in `BACKLINK_STRATEGY.md` and does not fabricate backlinks.
