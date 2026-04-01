@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import { classifyPageTopic } from "@/lib/subscriberTopic";
 
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -39,6 +40,7 @@ export async function POST(request: Request) {
   const payload = {
     email,
     page,
+    topicBucket: classifyPageTopic(page),
     submittedAt: new Date().toISOString(),
     source: "verseexplained-site",
     userAgent: request.headers.get("user-agent") ?? "",

@@ -9,6 +9,7 @@ This project now posts email signups to `POST /api/opt-in`, then forwards them t
   - `submittedAt`
   - `email`
   - `page`
+  - `topicBucket` (optional but recommended for subscriber analysis)
   - `source`
   - `userAgent`
   - `ip`
@@ -26,6 +27,7 @@ function doPost(e) {
     body.submittedAt || new Date().toISOString(),
     body.email || "",
     body.page || "",
+    body.topicBucket || "",
     body.source || "",
     body.userAgent || "",
     body.ip || ""
