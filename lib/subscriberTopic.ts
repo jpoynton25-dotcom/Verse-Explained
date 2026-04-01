@@ -1,3 +1,6 @@
+import { getContentBySlug } from "@/lib/content";
+import type { ContentEntry } from "@/content/types";
+
 export type TopicBucket =
   | "anxiety"
   | "fear"
@@ -10,25 +13,20 @@ export type TopicBucket =
   | "doctrine"
   | "bible_people"
   | "verse_meaning"
-  | "daily_verse"
-  | "other";
+  | "daily_verse";
 
-// Manual overrides for paths that are hard to classify by keywords.
-// Add new page paths here first when you want explicit control.
-const pageTopicOverrides: Record<string, TopicBucket> = {
+// Static/hub routes that are not content slugs.
+const staticRouteTopics: Record<string, TopicBucket> = {
   "/": "verse_meaning",
+  "/about": "verse_meaning",
+  "/all-pages": "verse_meaning",
+  "/search": "verse_meaning",
+  "/projects": "verse_meaning",
   "/verse-meanings": "verse_meaning",
+  "/verses-by-need": "guidance",
   "/daily-verse": "daily_verse",
-  "/bible-verse-of-the-day": "daily_verse",
-  "/daily-scripture-explained": "daily_verse",
-  "/morning-prayer-scripture": "prayer",
-  "/night-bible-verse": "daily_verse",
-  "/daily-psalm-explained": "daily_verse",
-  "/encouraging-bible-verses": "hope",
   "/bible-people-places": "bible_people",
   "/bible-terms": "doctrine",
-  "/what-is-faith-in-the-bible": "faith",
-  "/faith-vs-trust-in-the-bible": "faith"
 };
 
 const normalizePath = (value: string) => {
@@ -40,55 +38,50 @@ const normalizePath = (value: string) => {
 
 const pathHasAny = (path: string, keywords: string[]) => keywords.some((keyword) => path.includes(keyword));
 
+// Manual overrides for specific slugs where keyword rules are not enough.
+// Add new content slugs here when you want explicit control.
+const slugTopicOverrides: Record<string, TopicBucket> = {
+  "encouraging-bible-verses": "hope",
+  "healing-scriptures": "strength"
+};
+
+const classifyVersesByNeedSlug = (slug: string): TopicBucket => {
+  const manual = slugTopicOverrides[slug];
+  if (manual) return manual;
+
+  if (pathHasAny(slug, ["anxiety", "panic", "overthinking", "worry", "depression", "loneliness"])) return "anxiety";
+  if (pathHasAny(slug, ["fear"])) return "fear";
+  if (pathHasAny(slug, ["grief"])) return "grief";
+  if (pathHasAny(slug, ["hope", "encourag"])) return "hope";
+  if (pathHasAny(slug, ["prayer", "prayers"])) return "prayer";
+  if (pathHasAny(slug, ["strength", "burnout", "healing", "work-stress", "financial-stress"])) return "strength";
+  if (pathHasAny(slug, ["guidance", "decision", "trusting-god", "feeling-lost", "family-problems"])) return "guidance";
+  if (pathHasAny(slug, ["faith"])) return "faith";
+
+  return "guidance";
+};
+
+const classifyContentEntry = (entry: ContentEntry): TopicBucket => {
+  if (entry.kind === "verse-meaning") return "verse_meaning";
+  if (entry.kind === "daily-verse") return entry.slug.includes("prayer") ? "prayer" : "daily_verse";
+  if (entry.kind === "bible-people-place") return "bible_people";
+  if (entry.kind === "bible-term") return pathHasAny(entry.slug, ["faith"]) ? "faith" : "doctrine";
+  return classifyVersesByNeedSlug(entry.slug);
+};
+
 export const classifyPageTopic = (rawPath: string): TopicBucket => {
   const path = normalizePath(rawPath);
+  const staticRoute = staticRouteTopics[path];
+  if (staticRoute) return staticRoute;
 
-  const manual = pageTopicOverrides[path];
-  if (manual) {
-    return manual;
+  const slug = path.startsWith("/") ? path.slice(1) : path;
+  if (slug) {
+    const entry = getContentBySlug(slug);
+    if (entry) {
+      return classifyContentEntry(entry);
+    }
   }
 
-  if (pathHasAny(path, ["anxiety", "panic", "overthinking", "worry"])) return "anxiety";
-  if (pathHasAny(path, ["fear"])) return "fear";
-  if (pathHasAny(path, ["grief", "loss"])) return "grief";
-  if (pathHasAny(path, ["hope", "encourag"])) return "hope";
-  if (pathHasAny(path, ["prayer", "prayers"])) return "prayer";
-  if (pathHasAny(path, ["strength", "burnout"])) return "strength";
-  if (pathHasAny(path, ["guidance", "decision", "feeling-lost", "trusting-god"])) return "guidance";
-  if (pathHasAny(path, ["faith"])) return "faith";
-
-  if (
-    path.startsWith("/bible-people-places") ||
-    pathHasAny(path, ["who-was-", "judas", "gethsemane", "mary-magdalene", "king-david", "moses", "paul"])
-  ) {
-    return "bible_people";
-  }
-
-  if (path.startsWith("/daily-verse") || pathHasAny(path, ["daily-", "-of-the-day", "night-bible-verse"])) {
-    return "daily_verse";
-  }
-
-  if (
-    path.startsWith("/bible-terms") ||
-    pathHasAny(path, [
-      "what-is-",
-      "-vs-",
-      "justification",
-      "sanctification",
-      "grace",
-      "repentance",
-      "salvation",
-      "righteousness",
-      "sin",
-      "forgiveness"
-    ])
-  ) {
-    return "doctrine";
-  }
-
-  if (path.startsWith("/verse-meanings") || path.endsWith("-meaning") || path.includes("-explained")) {
-    return "verse_meaning";
-  }
-
-  return "other";
+  // Fallback for non-content routes not yet mapped above.
+  return "verse_meaning";
 };
