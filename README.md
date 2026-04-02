@@ -64,7 +64,7 @@ Initial pages included:
 - Dynamic metadata per content page in `app/[slug]/page.tsx`
 - Canonical URLs on all pages via metadata alternates
 - Open Graph and Twitter card metadata on all pages via helper
-- `app/sitemap.ts` and `app/robots.ts`
+- `app/sitemap.ts` and `public/robots.txt`
 - Internal linking:
   - Home -> hubs
   - Hubs -> child pages

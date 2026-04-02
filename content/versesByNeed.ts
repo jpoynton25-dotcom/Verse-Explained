@@ -5,12 +5,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     kind: "verses-by-need",
     slug: "healing-scriptures",
     title: "Healing Scriptures",
-    seoTitle: "Healing Scriptures for Body and Heart | Verse Explained",
+    seoTitle: "Healing Scriptures for Whole-Life Restoration | Verse Explained",
     metaDescription:
       "Read healing scriptures with simple explanations for broad healing themes: heart restoration, spiritual renewal, peace, and steady trust in God.",
-    h1: "Healing scriptures for body and heart",
+    h1: "Healing scriptures for whole-life restoration",
     intro:
-      "If you are searching for healing scriptures, this page gives a broad biblical overview of healing themes. Instead of focusing only on illness, it covers emotional restoration, spiritual renewal, peace under pressure, and trust in God's care. Use this page as a foundation for prayer when any part of life feels fractured.",
+      "If you are searching for healing scriptures, this page gives a broad biblical overview of healing themes. Read this page if you need whole-life restoration support (heart, mind, spiritual renewal, and peace). If your primary need is physical illness, treatment, or recovery, use our healing from sickness page. Use this page as a foundation for prayer when any part of life feels fractured.",
     context:
       "In Scripture, healing includes the whole person: heart, mind, relationships, and body. God heals through comfort, truth, repentance, restored hope, and ongoing presence.",
     deeperUnderstanding:
@@ -296,6 +296,7 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     relatedSlugs: [
       "isaiah-41-10-meaning",
       "bible-verses-for-anxiety",
+      "bible-verses-about-trusting-god",
       "bible-verses-for-strength",
       "daily-scripture-explained",
       "bible-verses-for-loneliness",
@@ -358,12 +359,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     kind: "verses-by-need",
     slug: "bible-verses-for-anxiety",
     title: "Bible Verses for Anxiety",
-    seoTitle: "Bible Verses for Anxiety and Overthinking | Verse Explained",
+    seoTitle: "Bible Verses for Anxiety (Broad Anxiety Support) | Verse Explained",
     metaDescription:
       "Read Bible verses for anxiety with practical explanation, calm perspective, and simple ways to pray when your mind feels crowded.",
-    h1: "Bible verses for anxiety",
+    h1: "Bible verses for anxiety (broad support)",
     intro:
-      "If your mind feels overloaded, these Bible verses for anxiety offer a calmer way to pray, think, and take the next step.",
+      "If your mind feels overloaded, these Bible verses for anxiety offer a calmer way to pray, think, and take the next step. Read this page if your anxiety is broad and ongoing. If your issue is constant concern loops, use the worry page; for repetitive thought spirals, use overthinking; for sudden episodes with physical symptoms, use panic attacks.",
     context:
       "Scripture speaks honestly about worry while inviting people into prayer, trust, and grounded thinking.",
     deeperUnderstanding:
@@ -378,6 +379,8 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "isaiah-41-10-meaning",
       "romans-8-18-meaning",
       "bible-verses-for-fear",
+      "bible-verses-for-worry",
+      "bible-verses-about-trusting-god",
       "bible-verse-of-the-day",
       "philippians-4-6-7-meaning",
       "matthew-11-28-meaning",
@@ -522,12 +525,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     kind: "verses-by-need",
     slug: "bible-verses-for-hope",
     title: "Bible Verses for Hope",
-    seoTitle: "Bible Verses for Hope and Daily Confidence | Verse Explained",
+    seoTitle: "Bible Verses for Hope in Everyday Life | Verse Explained",
     metaDescription:
       "Find Bible verses for hope with clear explanations for everyday faith, future confidence, and steady trust in God's promises.",
-    h1: "Bible verses for hope",
+    h1: "Bible verses for hope (everyday life)",
     intro:
-      "If you are looking for Bible verses for hope, this page is a general hope guide for everyday life. It covers hope for the future, hope for daily pressures, and hope for spiritual growth. When needed, you can also move to our hard-times hope page for crisis-specific support.",
+      "If you are looking for Bible verses for hope, this page is a general hope guide for everyday life. Read this page if you need steady, day-to-day hope for normal pressures and spiritual growth. For prolonged suffering, grief, delay, or crisis-level strain, use our hope in hard times page.",
     context:
       "Biblical hope is not wishful thinking. It is confident trust in God's character and promises across ordinary and difficult seasons.",
     deeperUnderstanding:
@@ -771,7 +774,7 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "Read Bible verses for depression with gentle, practical explanations for sadness, numbness, and hope when energy is low.",
     h1: "Bible verses for depression",
     intro:
-      "If depression is making focus, prayer, or daily tasks feel difficult, these Bible verses offer steady language for heavy days.",
+      "If depression is making focus, prayer, or daily tasks feel difficult, these Bible verses offer steady language for heavy days. Read this page if your primary struggle is low mood, heaviness, or emotional numbness over time rather than acute panic.",
     context:
       "The Bible includes people who faced deep sorrow, fatigue, and despair. Scripture does not ignore emotional pain; it meets it with presence, truth, and hope.",
     deeperUnderstanding:
@@ -788,6 +791,7 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "bible-verses-for-anxiety",
       "bible-verses-for-grief",
       "healing-scriptures",
+      "bible-verses-about-hope-in-hard-times",
       "matthew-11-28-meaning",
       "psalm-46-1-meaning"
     ],
@@ -1221,12 +1225,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     kind: "verses-by-need",
     slug: "bible-verses-about-trusting-god",
     title: "Bible Verses About Trusting God",
-    seoTitle: "Bible Verses About Trusting God in Hard Times | Verse Explained",
+    seoTitle: "Bible Verses About Trusting God for Uncertainty and Decisions | Verse Explained",
     metaDescription:
       "Read Bible verses about trusting God with clear explanations, practical steps, and prayer prompts for fear, uncertainty, and difficult decisions.",
-    h1: "Bible verses about trusting God in hard times",
+    h1: "Bible verses about trusting God (uncertainty and decisions)",
     intro:
-      "If you are searching for Bible verses about trusting God, you are likely carrying uncertainty, pressure, or a decision you cannot control. This page gives practical, prayer-ready Scriptures with plain explanations so you can move from panic to steady trust. Instead of giving generic encouragement, these verses are grouped by real-life situations and include clear action steps.",
+      "If you are searching for Bible verses about trusting God, you are likely carrying uncertainty, pressure, or a decision you cannot control. Read this page if your main need is guidance under uncertainty and trust during decision pressure. If your main need is endurance through prolonged hardship, use the faith in hard times page. This page gives practical, prayer-ready Scriptures with plain explanations so you can move from panic to steady trust.",
     context:
       "In Scripture, trust in God is not passive. It is an active decision to rely on God's character when outcomes are unclear. Biblical trust grows through repeated obedience in small moments, not one dramatic emotional moment.",
     deeperUnderstanding:
@@ -1244,6 +1248,8 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "bible-verses-for-anxiety",
       "bible-verses-for-fear",
       "bible-verses-for-guidance",
+      "bible-verses-for-when-prayers-feel-unanswered",
+      "faith-vs-trust-in-the-bible",
       "what-is-faith-in-the-bible",
       "john-3-17-meaning"
     ],
@@ -1343,12 +1349,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     kind: "verses-by-need",
     slug: "bible-verses-about-faith-in-hard-times",
     title: "Bible Verses About Faith in Hard Times",
-    seoTitle: "Bible Verses About Faith in Hard Times | Verse Explained",
+    seoTitle: "Bible Verses About Faith in Hard Times and Endurance | Verse Explained",
     metaDescription:
       "Find Bible verses about faith in hard times with practical explanations, real-life applications, and a step-by-step plan for resilient faith.",
-    h1: "Bible verses about faith in hard times",
+    h1: "Bible verses about faith in hard times (endurance)",
     intro:
-      "Hard seasons can make faith feel fragile. If you are searching for Bible verses about faith in hard times, this page is built to be practical, not theoretical. You will find verse groups for specific struggles, simple explanations, and a clear action plan to strengthen faith one day at a time.",
+      "Hard seasons can make faith feel fragile. Read this page if you are in prolonged pressure, loss, or testing and need endurance-focused faith. If your immediate need is decision clarity and trust under uncertainty, use the trusting God page. This page is built to be practical, not theoretical, with clear actions to strengthen faith one day at a time.",
     context:
       "In the Bible, faith is trust that stays active under pressure. It does not deny pain. It chooses God in pain. Many biblical writers speak from hardship, which makes these verses credible for real life.",
     deeperUnderstanding:
@@ -1364,6 +1370,7 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     relatedSlugs: [
       "bible-verses-for-strength",
       "bible-verses-for-hope",
+      "bible-verses-about-trusting-god",
       "romans-8-18-meaning",
       "isaiah-40-31-meaning",
       "what-is-faith-in-the-bible",
@@ -1464,12 +1471,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     kind: "verses-by-need",
     slug: "bible-verses-for-healing-from-sickness",
     title: "Bible Verses for Healing from Sickness",
-    seoTitle: "Bible Verses for Healing from Sickness | Verse Explained",
+    seoTitle: "Bible Verses for Healing from Sickness (Illness and Recovery) | Verse Explained",
     metaDescription:
       "Find Bible verses for healing from sickness with practical guidance for illness, treatment seasons, recovery, and prayer support.",
-    h1: "Bible verses for healing from sickness",
+    h1: "Bible verses for healing from sickness (illness and recovery)",
     intro:
-      "If you are dealing with illness, treatment, or recovery, this guide is specifically for sickness-focused prayer and encouragement. Unlike broader healing pages, these verses are selected for physical weakness, medical waiting, and recovery stress. Each section includes practical ways to use Scripture during real illness seasons.",
+      "If you are dealing with illness, treatment, or recovery, this guide is specifically for sickness-focused prayer and encouragement. Read this page if your need is physical illness and medical-season support. For broader emotional and spiritual restoration themes, use the healing scriptures page. These verses are selected for physical weakness, medical waiting, and recovery stress.",
     context:
       "The Bible presents healing as both prayerful dependence and faithful endurance. Some recover quickly, others through long treatment paths. In either case, God is present and active in body-and-soul care.",
     deeperUnderstanding:
@@ -1587,12 +1594,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     kind: "verses-by-need",
     slug: "bible-verses-for-overthinking",
     title: "Bible Verses for Overthinking",
-    seoTitle: "Bible Verses for Overthinking and Mental Spiral | Verse Explained",
+    seoTitle: "Bible Verses for Overthinking and Racing Thoughts | Verse Explained",
     metaDescription:
       "Find Bible verses for overthinking with practical help for racing thoughts, nighttime spirals, and anxiety-driven indecision.",
-    h1: "Bible verses for overthinking",
+    h1: "Bible verses for overthinking (thought loops)",
     intro:
-      "Bible verses for overthinking help interrupt racing thoughts and reset your mind around truth. This page is specifically for repetitive thought loops, especially at night or during high-stakes decisions, and is intentionally narrower than a general anxiety page. If you are searching scriptures for racing thoughts or peace of mind verses, these passages are selected for that exact pattern.",
+      "Bible verses for overthinking help interrupt racing thoughts and reset your mind around truth. Read this page if your main struggle is repetitive thought loops, mental replay, or decision spiraling. It is narrower than general anxiety and different from sudden panic episodes.",
     context:
       "Scripture addresses anxious thought patterns by redirecting attention toward God's presence, truth, and faithful action.",
     deeperUnderstanding:
@@ -1693,7 +1700,7 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "Read Bible verses for work stress with practical guidance for pressure, decision fatigue, conflict, and peace in demanding seasons.",
     h1: "Bible verses for work stress",
     intro:
-      "Bible verses for work stress give practical anchors for deadlines, performance pressure, and emotionally draining workdays. This page focuses on workplace strain specifically, not general life anxiety. If you are searching scripture for job stress or peace at work Bible verses, these passages help you carry responsibility with wisdom and calm.",
+      "Bible verses for work stress give practical anchors for deadlines, performance pressure, and emotionally draining workdays. Read this page if your stress is primarily workplace pressure; if your deeper issue is exhaustion and depletion over time, use the burnout page.",
     context:
       "The Bible addresses labor, responsibility, anxiety, and integrity. God cares about how we carry pressure, not only about outcomes.",
     deeperUnderstanding:
@@ -1990,12 +1997,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     kind: "verses-by-need",
     slug: "bible-verses-about-hope-in-hard-times",
     title: "Bible Verses About Hope in Hard Times",
-    seoTitle: "Bible Verses About Hope in Hard Times | Verse Explained",
+    seoTitle: "Bible Verses About Hope in Hard Times (Crisis Support) | Verse Explained",
     metaDescription:
       "Find Bible verses about hope in hard times with practical guidance for loss, delay, pressure, and sustained faith in difficult seasons.",
-    h1: "Bible verses about hope in hard times",
+    h1: "Bible verses about hope in hard times (hard seasons)",
     intro:
-      "When life enters a difficult season, generic encouragement often feels shallow. This page is specifically built for hardship: suffering, grief, delay, and prolonged pressure. If you need a broad everyday hope page, use our general Bible verses for hope guide. Here, the focus is endurance-level hope in hard times.",
+      "When life enters a difficult season, generic encouragement often feels shallow. Read this page if you are in prolonged hardship, grief, delay, or crisis-level pressure. If you need steady everyday encouragement for normal life pressures, use the general hope page.",
     context:
       "Biblical hope is not denial of pain. It is confident expectation rooted in God's character and promises. The Bible repeatedly teaches hope in the middle of hardship, not after hardship disappears.",
     deeperUnderstanding:
@@ -2014,6 +2021,7 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "jeremiah-29-11-meaning",
       "bible-verses-for-grief",
       "bible-verses-for-strength",
+      "bible-verses-for-when-prayers-feel-unanswered",
       "romans-8-31-meaning",
       "isaiah-40-31-meaning",
       "what-is-faith-in-the-bible"
@@ -2113,12 +2121,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     kind: "verses-by-need",
     slug: "bible-verses-for-worry",
     title: "Bible Verses for Worry",
-    seoTitle: "Bible Verses for Worry and Constant Concern",
+    seoTitle: "Bible Verses for Worry and Ongoing Concern | Verse Explained",
     metaDescription:
       "Find Bible verses for worry with practical help for ongoing concerns, mental loops, and daily trust in God's care.",
-    h1: "Bible verses for worry",
+    h1: "Bible verses for worry (ongoing concern)",
     intro:
-      "Bible verses for worry are most helpful when your mind is stuck in ongoing concern about everyday life, future outcomes, or people you love. This page is focused on chronic worry patterns, which is narrower than a broad anxiety hub and different from panic-attack moments. If you are searching scripture for worry, these passages are selected to help you replace constant concern with prayer, trust, and practical next steps.",
+      "Bible verses for worry are most helpful when your mind is stuck in ongoing concern about everyday life, future outcomes, or people you love. Read this page if you are caught in chronic concern loops. It is narrower than broad anxiety support and different from acute panic attacks.",
     context:
       "Scripture repeatedly addresses worry by redirecting attention from uncertain outcomes to God's character, provision, and present care.",
     deeperUnderstanding:
@@ -2135,6 +2143,8 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "bible-verses-for-anxiety",
       "bible-verses-for-overthinking",
       "bible-verses-for-panic-attacks",
+      "bible-verses-for-when-prayers-feel-unanswered",
+      "bible-verses-about-trusting-god",
       "bible-verses-for-financial-stress",
       "philippians-4-6-7-meaning",
       "matthew-11-28-meaning",
@@ -2219,12 +2229,12 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
     kind: "verses-by-need",
     slug: "bible-verses-for-panic-attacks",
     title: "Bible Verses for Panic Attacks",
-    seoTitle: "Bible Verses for Panic Attacks and Acute Fear",
+    seoTitle: "Bible Verses for Panic Attacks (Acute Fear) | Verse Explained",
     metaDescription:
       "Read Bible verses for panic attacks with grounding scripture for sudden fear, racing heart moments, and regaining calm in God.",
-    h1: "Bible verses for panic attacks",
+    h1: "Bible verses for panic attacks (acute fear)",
     intro:
-      "Bible verses for panic attacks are most useful during acute fear moments when your body and thoughts feel out of control. This page is not a general anxiety list. It is specifically built for sudden panic episodes, immediate calming, and short prayer focus when thinking clearly is difficult. If you are searching scripture for panic attacks, these passages are selected to help you breathe, anchor, and re-center on God's presence.",
+      "Bible verses for panic attacks are most useful during acute fear moments when your body and thoughts feel out of control. Read this page if you face sudden panic surges with physical symptoms and need immediate grounding. This is not a general anxiety page.",
     context:
       "Scripture acknowledges sudden fear and teaches believers to turn quickly toward God for refuge, help, and steadiness.",
     deeperUnderstanding:
@@ -2349,6 +2359,7 @@ export const versesByNeedEntries: VersesByNeedEntry[] = [
       "bible-verses-for-work-stress",
       "bible-verses-for-feeling-lost-in-life",
       "bible-verses-for-worry",
+      "bible-verses-for-when-prayers-feel-unanswered",
       "matthew-11-28-meaning",
       "isaiah-40-31-meaning",
       "john-15-5-meaning",

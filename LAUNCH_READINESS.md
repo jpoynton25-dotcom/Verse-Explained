@@ -12,7 +12,7 @@ Date checked: 2026-03-26
 - Intentional exclusion: `/search` (marked `noindex`).
 
 ## Robots
-- Source: `app/robots.ts`.
+- Source: `public/robots.txt`.
 - `allow: /`, `disallow: /api/`, sitemap URL present.
 
 ## Noindex

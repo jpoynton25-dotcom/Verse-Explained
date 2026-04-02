@@ -1,13 +1,13 @@
 User-agent: *
 Allow: /
-Disallow:
+Disallow: /api/
 
 User-agent: Googlebot
 Allow: /
-Disallow:
+Disallow: /api/
 
 User-agent: Google-InspectionTool
 Allow: /
-Disallow:
+Disallow: /api/
 
 Sitemap: https://verseexplained.com/sitemap.xml

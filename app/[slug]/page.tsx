@@ -6,6 +6,7 @@ import { Container } from "@/components/layout/Container";
 import { Breadcrumbs } from "@/components/content/Breadcrumbs";
 import { FaqBlock } from "@/components/content/FaqBlock";
 import { RelatedLinks } from "@/components/content/RelatedLinks";
+import { EmailSignupCta } from "@/components/content/EmailSignupCta";
 import { SchemaScript } from "@/components/seo/SchemaScript";
 import type { ContentEntry } from "@/content/types";
 import { allContent, getContentBySlug, getRelatedContent } from "@/lib/content";
@@ -77,6 +78,19 @@ const pageImageConfig: Record<
       `Jesus standing in radiant light as a picture of faith, strength, and redemption connected to ${keyword}`
   }
 };
+
+const highIntentSignupCtaSlugs = new Set([
+  "bible-verses-for-anxiety",
+  "bible-verses-for-overthinking",
+  "bible-verses-for-panic-attacks",
+  "bible-verses-for-worry",
+  "bible-verses-for-fear",
+  "bible-verses-for-work-stress",
+  "bible-verses-for-burnout",
+  "bible-verses-for-depression",
+  "bible-verses-about-faith-in-hard-times",
+  "bible-verses-about-hope-in-hard-times"
+]);
 
 const ContentImage = ({
   slot,
@@ -171,6 +185,8 @@ export default async function DynamicContentPage({ params }: PageProps) {
               ))}
             </ul>
           </section>
+
+          {entry.kind === "verses-by-need" && highIntentSignupCtaSlugs.has(entry.slug) ? <EmailSignupCta /> : null}
 
           {entry.kind === "verse-meaning" ? (
             <>

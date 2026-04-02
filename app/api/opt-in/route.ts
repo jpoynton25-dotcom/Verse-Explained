@@ -12,11 +12,17 @@ const getClientIp = (request: Request) => {
   return request.headers.get("x-real-ip") ?? "";
 };
 
+const jsonNoIndex = (body: unknown, init?: ResponseInit) => {
+  const response = NextResponse.json(body, init);
+  response.headers.set("X-Robots-Tag", "noindex, nofollow");
+  return response;
+};
+
 export async function POST(request: Request) {
   const webhookUrl = process.env.GOOGLE_SHEETS_WEBHOOK_URL;
 
   if (!webhookUrl) {
-    return NextResponse.json(
+    return jsonNoIndex(
       { message: "Signup integration is not configured yet." },
       { status: 500 }
     );
@@ -27,14 +33,14 @@ export async function POST(request: Request) {
   try {
     body = (await request.json()) as { email?: unknown; page?: unknown };
   } catch {
-    return NextResponse.json({ message: "Invalid request body." }, { status: 400 });
+    return jsonNoIndex({ message: "Invalid request body." }, { status: 400 });
   }
 
   const email = typeof body.email === "string" ? body.email.trim().toLowerCase() : "";
   const page = typeof body.page === "string" && body.page.length ? body.page : "unknown";
 
   if (!EMAIL_REGEX.test(email)) {
-    return NextResponse.json({ message: "Please enter a valid email address." }, { status: 400 });
+    return jsonNoIndex({ message: "Please enter a valid email address." }, { status: 400 });
   }
 
   const payload = {
@@ -58,17 +64,17 @@ export async function POST(request: Request) {
     });
 
     if (!response.ok) {
-      return NextResponse.json(
-        { message: "Email captured, but the sheet connection failed." },
+      return jsonNoIndex(
+        { message: "Could not save your email right now. Please try again." },
         { status: 502 }
       );
     }
   } catch {
-    return NextResponse.json(
-      { message: "Email captured, but the sheet connection failed." },
+    return jsonNoIndex(
+      { message: "Could not save your email right now. Please try again." },
       { status: 502 }
     );
   }
 
-  return NextResponse.json({ ok: true });
+  return jsonNoIndex({ ok: true });
 }
